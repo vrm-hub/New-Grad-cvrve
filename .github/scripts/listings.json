@@ -10978,5 +10978,25 @@
         "date_posted": 1729828066,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729828232,
+        "url": "http://redirect.cvrve.me/badb380ee81bb1aa0be4",
+        "company_name": "Doordash",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Seattle, WA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c579a32f-db68-47af-b1e7-6dff462089d3",
+        "date_posted": 1729828232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
