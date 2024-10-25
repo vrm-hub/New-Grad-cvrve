@@ -10962,5 +10962,21 @@
         "date_posted": 1729798622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729828066,
+        "url": "http://redirect.cvrve.me/7ba79f95f16976a1b7e1",
+        "company_name": "Squarespace",
+        "title": "New Grad 2024: Software Engineer, Java",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ea88d249-9fe6-4f70-8557-9dce62a8c2dd",
+        "date_posted": 1729828066,
+        "company_url": "",
+        "is_visible": true
     }
 ]
