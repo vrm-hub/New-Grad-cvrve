@@ -23,7 +23,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Samsara** | New Grad: Software Engineer | Remote</br>Canada | <a href="http://redirect.cvrve.me/1645c3658513774e2e57?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Amazon** | Software Dev Engineer I, Redshift | Vancouver, Canada</br>Toronto, Canada | <a href="http://redirect.cvrve.me/2b16b018a01a30731883?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Robinhood** | Software Development Engineer in Test | Toronto, Canada | <a href="http://redirect.cvrve.me/2b47496c8f6872e1cd67?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Epic Games** | Desktop Platform Programmer | Montréal, Canada | <a href="http://redirect.cvrve.me/640d4fd7668712e015fc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -43,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Canonical** | New Grad: Software Engineer | Vancouver, Canada | <a href="https://boards.greenhouse.io/canonicaljobs/jobs/6185294?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Konrad** | New Grad: Software Developer | Vancouver, Canada | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | **Warp** | Software Engineer | Remote US & Canada | <a href="https://boards.greenhouse.io/warp/jobs/4324888004?gh_src=a2e958824us&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| **Samsara** | New Grad: Software Engineer | Remote</br>Canada | 🔒 | Oct 22 |
 | **Quora** | New Grad: Data Scientist, Monetization | Remote</br>US</br>Canada | 🔒 | Oct 03 |
 | **Trend Micro** | Software Developer | Ottawa, Canada | 🔒 | Sep 18 |
 | **Github** | New Grad: Software Engineer | Remote, Canada | 🔒 | Sep 12 |
