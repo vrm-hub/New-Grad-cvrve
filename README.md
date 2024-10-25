@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Squarespace** | New Grad 2024: Software Engineer, Java | New York, NY | <a href="http://redirect.cvrve.me/7ba79f95f16976a1b7e1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/5ad8095bfa95b1a3d112?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | **Doordash** | New Grad 2025: Software Engineer | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</br>Los Angeles, CA</details> | <a href="http://redirect.cvrve.me/badb380ee81bb1aa0be4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | **NOV** | New Grad 2024: Software Engineer | Houston, TX | <a href="http://redirect.cvrve.me/ae2b71d09c2cec1823bb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **MLB** | Associate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/5ba27abf3bad472bf213?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
