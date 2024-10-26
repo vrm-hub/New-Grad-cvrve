@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Merck & Co** | Junior Data Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/d131385c28e06d1ebdca?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **LexisNexis** | Software Engineer I | Alpharetta, GA | <a href="http://redirect.cvrve.me/88a24026b8a035e3e785?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Expedia** | Software Development Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/0c57a1334c768b556cf0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Squarespace** | New Grad 2024: Software Engineer, Java | New York, NY | <a href="http://redirect.cvrve.me/7ba79f95f16976a1b7e1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | **Doordash** | New Grad 2025: Software Engineer | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</br>Los Angeles, CA</details> | <a href="http://redirect.cvrve.me/badb380ee81bb1aa0be4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | **NOV** | New Grad 2024: Software Engineer | Houston, TX | <a href="http://redirect.cvrve.me/ae2b71d09c2cec1823bb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |

@@ -11030,5 +11030,21 @@
         "date_posted": 1729904037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729904277,
+        "url": "http://redirect.cvrve.me/0c57a1334c768b556cf0",
+        "company_name": "Expedia",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "330b7f31-2492-4c61-a52a-0a2444350be4",
+        "date_posted": 1729904277,
+        "company_url": "",
+        "is_visible": true
     }
 ]
