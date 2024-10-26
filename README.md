@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Remitly** | Software Development Engineer 1 | Seattle, WA | <a href="http://redirect.cvrve.me/cccd23bf1121a079379f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Pax8** | Data Engineer I | United States | <a href="http://redirect.cvrve.me/84b8e5e5ee587b6f60d0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Nextdoor** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/9614d43a67fa41f6dcba?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Merck & Co** | Junior Data Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/d131385c28e06d1ebdca?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **LexisNexis** | Software Engineer I | Alpharetta, GA | <a href="http://redirect.cvrve.me/88a24026b8a035e3e785?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
