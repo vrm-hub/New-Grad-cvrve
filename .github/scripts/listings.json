@@ -11094,5 +11094,22 @@
         "date_posted": 1729905077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729907274,
+        "url": "http://redirect.cvrve.me/19c4d0998aa99cb6ac2f",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Math Libraries Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e0487057-a873-40a9-95c2-1cdcaa70703b",
+        "date_posted": 1729907274,
+        "company_url": "",
+        "is_visible": true
     }
 ]
