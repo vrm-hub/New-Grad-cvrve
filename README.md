@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Roblox** | New Grad 2025: Software Engineer, Game Engine Performance | San Mateo, CA | <a href="http://redirect.cvrve.me/ccd05411a13be468a925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Remitly** | Software Development Engineer 1 | Seattle, WA | <a href="http://redirect.cvrve.me/cccd23bf1121a079379f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Pax8** | Data Engineer I | United States | <a href="http://redirect.cvrve.me/84b8e5e5ee587b6f60d0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **NVIDIA** | New Grad 2025: Math Libraries Engineer | Santa Clara, CA</br>Remote | <a href="http://redirect.cvrve.me/19c4d0998aa99cb6ac2f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
