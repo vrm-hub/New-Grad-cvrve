@@ -11127,5 +11127,21 @@
         "date_posted": 1729907331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729911407,
+        "url": "http://redirect.cvrve.me/126039d8cdb5447d327c",
+        "company_name": "Ciena",
+        "title": "New Grad 2025: Waveserver Software Developer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2b30192e-132c-4fd9-a445-0e91ae7e6ab4",
+        "date_posted": 1729911407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
