@@ -11208,5 +11208,30 @@
         "date_posted": 1730150954,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730151436,
+        "url": "http://redirect.cvrve.me/c41269454475ee7b3677",
+        "company_name": "Salesforce",
+        "title": "New Grad: Software Engineering AMTS/MTS",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Boston, MA",
+            "New York, NY",
+            "Seattle, WA",
+            "Burlington, MA",
+            "Bellevue, WA",
+            "Cambridge, MA",
+            "Atlanta, GA",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4d749029-c453-40ff-86c4-d2521d264a38",
+        "date_posted": 1730151436,
+        "company_url": "",
+        "is_visible": true
     }
 ]
