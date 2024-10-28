@@ -11143,5 +11143,22 @@
         "date_posted": 1729911407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730146756,
+        "url": "http://redirect.cvrve.me/073a912d28eb6ee9ab52",
+        "company_name": "The Aerospace Corporation",
+        "title": "New Grad 2025: Cloud Native Developer",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f547edea-4bf0-426a-a917-53c22c8518d8",
+        "date_posted": 1730146756,
+        "company_url": "",
+        "is_visible": true
     }
 ]
