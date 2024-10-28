@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **The Aerospace Corporation** | New Grad 2025: Cloud Native Developer | Colorado Springs, CO</br>Chantilly, VA | <a href="http://redirect.cvrve.me/073a912d28eb6ee9ab52?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Siemens** | New Grad 2025: Software Engineer | Wilsonville, OR | <a href="http://redirect.cvrve.me/0f673f35d56dc9e8d6a3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| **NVIDIA** | New Grad 2025: Formal Verification Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/c6586938f2703de5e51b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Roblox** | New Grad 2025: Software Engineer, Game Engine Performance | San Mateo, CA | <a href="http://redirect.cvrve.me/ccd05411a13be468a925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Remitly** | Software Development Engineer 1 | Seattle, WA | <a href="http://redirect.cvrve.me/cccd23bf1121a079379f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Pax8** | Data Engineer I | United States | <a href="http://redirect.cvrve.me/84b8e5e5ee587b6f60d0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
