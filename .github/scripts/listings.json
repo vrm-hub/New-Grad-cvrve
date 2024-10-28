@@ -11160,5 +11160,21 @@
         "date_posted": 1730146756,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730146823,
+        "url": "http://redirect.cvrve.me/0f673f35d56dc9e8d6a3",
+        "company_name": "Siemens",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Wilsonville, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "56fc94a8-c300-4694-a4df-0e9a8473596f",
+        "date_posted": 1730146823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
