@@ -17,7 +17,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 			Search through a database of ⬇️ <strong>resumes</strong> ⬇️ that have passed screens at your dream companies. 
 			<br>
 			<div>
-			<a href="https://discord.gg/Q8Kd3Cv9U8">
+			<a href="https://resumes.fyi">
           <img src="https://github.com/user-attachments/assets/a1aab54c-6420-4266-801d-165b1b691627" width="450" alt="Email">
         </a>
 			</div>
