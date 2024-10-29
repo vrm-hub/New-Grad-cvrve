@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Blue Origin** | New Grad 2025: DevOps Engineer | Seattle, WA</br>Denver, CO | <a href="http://redirect.cvrve.me/244a153a123b0948c09c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **The Aerospace Corporation** | New Grad 2025: Cloud Native Developer | Colorado Springs, CO</br>Chantilly, VA | <a href="http://redirect.cvrve.me/073a912d28eb6ee9ab52?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Siemens** | New Grad 2025: Software Engineer | Wilsonville, OR | <a href="http://redirect.cvrve.me/0f673f35d56dc9e8d6a3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Salesforce** | New Grad: Software Engineering AMTS/MTS | <details><summary>**10 locations**</summary>San Francisco, CA</br>Chicago, IL</br>Boston, MA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</br>Bellevue, WA</br>Cambridge, MA</br>Atlanta, GA</br>Indianapolis, IN</details> | <a href="http://redirect.cvrve.me/c41269454475ee7b3677?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
