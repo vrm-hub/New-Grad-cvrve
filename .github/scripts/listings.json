@@ -118,7 +118,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847228,
         "date_posted": 1719847228,
@@ -134,7 +134,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847227,
         "date_posted": 1719847227,
@@ -150,7 +150,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "395bbd57-d183-4045-a5a9-d66137760142",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
@@ -166,7 +166,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719861792,
         "date_posted": 1719847211,
@@ -182,7 +182,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847210,
         "date_posted": 1719847210,
@@ -198,7 +198,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "title": "Forward Deployed Software Engineer – New Grad",
         "active": false,
         "date_updated": 1719847206,
         "date_posted": 1719847206,
@@ -214,7 +214,7 @@
         "source": "Simplify",
         "company_name": "Akuna Capital",
         "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
-        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
+        "title": "Akuna Capital’s 2024 Virtual Quant Trading Challenge",
         "active": true,
         "date_updated": 1719860685,
         "date_posted": 1719846633,
@@ -262,7 +262,7 @@
         "source": "Simplify",
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
+        "title": "Software Engineering AMTS/MTS – New Grad",
         "active": false,
         "date_updated": 1722227439,
         "date_posted": 1719875851,
@@ -304,7 +304,7 @@
         "source": "Simplify",
         "company_name": "Workrise",
         "id": "96cfaafe-5617-402c-928d-2c58f034b12f",
-        "title": "Associate \u2013 Health Safety & Environmental",
+        "title": "Associate – Health Safety & Environmental",
         "active": false,
         "date_updated": 1724290634,
         "date_posted": 1719520307,
@@ -427,7 +427,7 @@
         "date_updated": 1720217203,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
         "company_name": "Citadel Securities",
-        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "title": "Software Engineer – 2025 University Graduate (US)",
         "locations": [
             "Miami, FL",
             "New York, NY"
@@ -528,7 +528,7 @@
         "date_updated": 1720499020,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Austin)",
+        "title": "Graduate Software Engineer (2025 Start – Austin)",
         "locations": [
             "Austin, TX"
         ],
@@ -1194,7 +1194,7 @@
         "date_updated": 1721734010,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498615002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Chicago)",
+        "title": "Graduate Software Engineer (2025 Start – Chicago)",
         "locations": [
             "Chicago, IL"
         ],
@@ -1701,7 +1701,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f6d80ea1-8859-4f2b-ab7e-965ad1c11703",
         "date_posted": 1722462147,
@@ -3018,7 +3018,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ac6c53c8-7848-4adf-8b21-91be67e920d2",
         "date_posted": 1724274433,
@@ -4766,7 +4766,7 @@
             "Hunt Valley, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e971990e-782f-455b-90f7-73ee8657b525",
         "date_posted": 1725367224,
@@ -5106,7 +5106,7 @@
             "Multiple"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "simku22",
         "id": "d3f62738-dc29-4d04-a3ea-4fc93e40a911",
         "date_posted": 1725695995,
@@ -5550,7 +5550,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2b60ff33-43e7-4c81-afd9-da25fc4fbb4f",
         "date_posted": 1725821580,
@@ -5799,7 +5799,7 @@
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ajain02",
         "id": "f3cecd54-dfeb-412c-81ed-ff496b689a55",
         "date_posted": 1726096340,
@@ -8336,7 +8336,7 @@
             "Princeton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "312bd8e7-abb9-4966-b8d7-c826daecad9d",
         "date_posted": 1727850689,
@@ -8985,7 +8985,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f9f1a303-3e5b-44d6-a912-a70cd9e3f09b",
         "date_posted": 1728105072,
@@ -9045,7 +9045,7 @@
         "date_updated": 1728204970,
         "url": "http://redirect.cvrve.me/8e3f6f1869bbef1e83d3",
         "company_name": "IBM",
-        "title": "Software Developer \u2013 Full-Stack",
+        "title": "Software Developer – Full-Stack",
         "locations": [
             "Markham, CA"
         ],
@@ -9461,7 +9461,7 @@
             "Centreville, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "813ab313-c905-40fe-933b-07a953ad6961",
         "date_posted": 1728505622,
@@ -9884,7 +9884,7 @@
         "company_name": "Epic Games",
         "title": "Desktop Platform Programmer",
         "locations": [
-            "Montr\u00e9al, Canada"
+            "Montréal, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -10127,7 +10127,7 @@
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e532a429-a702-4d64-8574-41c4ba5aa77d",
         "date_posted": 1729042717,
@@ -10341,7 +10341,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "eeef3b3f-a5be-429e-9cd8-8257f17dbdea",
         "date_posted": 1729199907,
@@ -10520,7 +10520,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f9d241ec-8d8e-4dcf-9c6a-3875ee78a506",
         "date_posted": 1729347336,
@@ -10716,7 +10716,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "987e6f1a-4c7e-454b-9e0f-15a03c0ecb42",
         "date_posted": 1729567127,
