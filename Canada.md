@@ -35,7 +35,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Ciena** | Software Performance Engineer | Ottawa, Canada | <a href="http://redirect.cvrve.me/7dd501764897198f976b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Mastercard** | Data Scientist I | Vancouver, Canada | <a href="https://careers.mastercard.com/us/en/job/R-227151/Data-Scientist-I?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Waabi** | New Grad: Software Engineer | Remote</br>Canada | <a href="http://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
-| **Balyasny Asset Management** | New Grad: Commodities Quantitative Analyst | Calgary, Canada | <a href="https://bambusdev.my.site.com/s/details?jobReq=Commodities-Quantitative-Analyst---Fulltime-Grad-Opportunity-_REQ6084&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Autodesk** | New Grad: Software Development Engineer | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Engineer--Full-Stack_24WD81088-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Capital One** | New Grad: Software Engineer | Toronto, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/Associate--Software-Engineer---New-Grad--OR049152-_R195487?redirect=%252FCapital_One%252Fjob%252FToronto-ON%252FAssociate--Software-Engineer---New-Grad--OR049152-_R195487%252F&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **Intelliware** | New Grad: Junior Software Developer | Toronto, Canada | <a href="https://jobs.lever.co/intelliware/759b57c3-a5c3-4698-af78-66b3591bb936?applicant_guid=1a26e138-602c-4352-ab77-4ef92c12a04e&lever-origin=applied&lever-source%5B%5D=JobTarget%2CJobTarget%20Organic%20Sites%20Bundle&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -47,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Trend Micro** | Software Developer | Ottawa, Canada | 🔒 | Sep 18 |
 | **Github** | New Grad: Software Engineer | Remote, Canada | 🔒 | Sep 12 |
 | **Clio** | New Grad: Software Developer | Toronto</br>Calgary</br>Vancouver, Canada | 🔒 | Sep 11 |
+| **Balyasny Asset Management** | New Grad: Commodities Quantitative Analyst | Calgary, Canada | 🔒 | Sep 11 |
 | **Bell** | New Grad 2025: Cyber Security Engineer | <details><summary>**5 locations**</summary>Halifax, Canada</br>Ottawa, Canada</br>Montreal, Canada</br>Toronto, Canada</br>Bedford, Canada</details> | 🔒 | Sep 03 |
 | **Replicant** | New Grad: Software Engineer I | Canada | 🔒 | Sep 01 |
 | **Sentry** | New Grad 2025: Software Engineer 🛂 | Toronto, Canada | 🔒 | Aug 06 |
