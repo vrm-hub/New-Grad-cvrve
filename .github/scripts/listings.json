@@ -11283,5 +11283,21 @@
         "date_posted": 1730235426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730318977,
+        "url": "http://redirect.cvrve.me/1979362cd8ee7ddbc5f1",
+        "company_name": "Crusoe",
+        "title": "University Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cc830ac9-a853-46f2-a85c-398238faf23b",
+        "date_posted": 1730318977,
+        "company_url": "",
+        "is_visible": true
     }
 ]
