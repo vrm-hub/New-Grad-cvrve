@@ -11432,5 +11432,21 @@
         "date_posted": 1730426812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730453502,
+        "url": "http://redirect.cvrve.me/852e06e678c8431b2a9d",
+        "company_name": "Western Digital",
+        "title": "New Grad 2025: Product Development Engineer",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5352c238-7929-473c-be9c-12f8f62c5427",
+        "date_posted": 1730453502,
+        "company_url": "",
+        "is_visible": true
     }
 ]

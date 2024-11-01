@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Western Digital** | New Grad 2025: Product Development Engineer | Milpitas, CA | <a href="http://redirect.cvrve.me/852e06e678c8431b2a9d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Sprout Social** | New Grad: Associate Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/7d01db5059c149963794?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Sprout Social** | New Grad: Associate Data Scientist | Remote</br>US | <a href="http://redirect.cvrve.me/f5e1d6953cfa8270e135?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **NVIDIA** | New Grad 2025: Research Engineer | Westford, MA</br>Austin, TX</br>Santa Clara, CA | <a href="http://redirect.cvrve.me/66de6583fe207705de82?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
