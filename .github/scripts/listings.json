@@ -11398,5 +11398,21 @@
         "date_posted": 1730426421,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730426662,
+        "url": "http://redirect.cvrve.me/7a0431ed282f9090a920",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Machine Learning Engineer - Masters/PhD",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "691a0d36-aa2d-477f-a6a5-4e3f40ea86fb",
+        "date_posted": 1730426662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
