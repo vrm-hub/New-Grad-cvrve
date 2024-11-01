@@ -11464,5 +11464,23 @@
         "date_posted": 1730453536,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730453736,
+        "url": "http://redirect.cvrve.me/5f81925390db4167a082",
+        "company_name": "IBM",
+        "title": "Entry Level Firmware Developer",
+        "locations": [
+            "Austin, TX",
+            "Rochester, MN",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f11c3953-1fcf-4172-a80a-2ea3199e7c28",
+        "date_posted": 1730453736,
+        "company_url": "",
+        "is_visible": true
     }
 ]
