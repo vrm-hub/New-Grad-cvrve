@@ -11348,5 +11348,22 @@
         "date_posted": 1730426148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730426188,
+        "url": "http://redirect.cvrve.me/f5e1d6953cfa8270e135",
+        "company_name": "Sprout Social",
+        "title": "New Grad: Associate Data Scientist",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d91b93f1-3d0c-4e8e-8b99-c952fa2dd39e",
+        "date_posted": 1730426188,
+        "company_url": "",
+        "is_visible": true
     }
 ]
