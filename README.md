@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Medtronic** | Software Engineer I | Northridge, CA | <a href="http://redirect.cvrve.me/3f3d79fef522ceae6887?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **OuterBox** | Front End Developer | Remote</br>US | <a href="http://redirect.cvrve.me/0d426b95203cf796833f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Forward** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/562b75af7e663e19d932?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Crusoe** | University Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/1979362cd8ee7ddbc5f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
