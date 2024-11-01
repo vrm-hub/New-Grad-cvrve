@@ -11498,5 +11498,27 @@
         "date_posted": 1730453862,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730455087,
+        "url": "http://redirect.cvrve.me/1f1146d090abd506a26c",
+        "company_name": "Meta",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Sunnyvale, CA",
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "Boston, MA",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "031f94db-2f4d-4d9e-8875-642365d94327",
+        "date_posted": 1730455087,
+        "company_url": "",
+        "is_visible": true
     }
 ]
