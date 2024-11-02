@@ -11520,5 +11520,21 @@
         "date_posted": 1730455087,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730532455,
+        "url": "http://redirect.cvrve.me/1ec6499331ea393f2de0",
+        "company_name": "SeatGeek",
+        "title": "New Grad 2025: Security Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ecb43b7a-0b21-4ce7-8a0b-77c61cdd60f7",
+        "date_posted": 1730532455,
+        "company_url": "",
+        "is_visible": true
     }
 ]
