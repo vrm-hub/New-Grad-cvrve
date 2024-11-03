@@ -11568,5 +11568,21 @@
         "date_posted": 1730596102,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730597379,
+        "url": "http://redirect.cvrve.me/e29d1aeedea10a2b02a8",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e0c48c7b-465d-4bb4-8246-ab6d218b18fd",
+        "date_posted": 1730597379,
+        "company_url": "",
+        "is_visible": true
     }
 ]
