@@ -11665,5 +11665,21 @@
         "date_posted": 1730810259,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730810316,
+        "url": "http://redirect.cvrve.me/112cc7753530ef4c8b3c",
+        "company_name": "Genmo",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d264c032-4004-4408-b48d-aa3e80277aab",
+        "date_posted": 1730810316,
+        "company_url": "",
+        "is_visible": true
     }
 ]
