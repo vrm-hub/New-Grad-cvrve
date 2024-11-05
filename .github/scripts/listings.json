@@ -11632,5 +11632,22 @@
         "date_posted": 1730809884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809936,
+        "url": "http://redirect.cvrve.me/1b5bc775350283c4c0bc",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Research Scientist/Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3e69ec66-e79e-4c42-8ccc-9ab80d741bed",
+        "date_posted": 1730809936,
+        "company_url": "",
+        "is_visible": true
     }
 ]
