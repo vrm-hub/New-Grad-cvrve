@@ -11681,5 +11681,21 @@
         "date_posted": 1730810316,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730838911,
+        "url": "http://redirect.cvrve.me/eb66411b34449e7c378d",
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "kodandaravi724",
+        "id": "2ffc99fa-7fe9-49c4-b3d5-a450967a23c0",
+        "date_posted": 1730838911,
+        "company_url": "",
+        "is_visible": true
     }
 ]
