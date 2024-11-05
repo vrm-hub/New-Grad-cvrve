@@ -11697,5 +11697,22 @@
         "date_posted": 1730838911,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730840320,
+        "url": "http://redirect.cvrve.me/d03bd17182e49b4467dd",
+        "company_name": "Exact Sciences",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Diego, CA",
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "73cc05ec-5a45-4bca-b321-be1b5232a3d5",
+        "date_posted": 1730840320,
+        "company_url": "",
+        "is_visible": true
     }
 ]
