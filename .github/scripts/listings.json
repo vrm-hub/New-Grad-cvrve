@@ -11730,5 +11730,21 @@
         "date_posted": 1730840423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730840451,
+        "url": "http://redirect.cvrve.me/0d821aa40ef122a706a6",
+        "company_name": "bet365",
+        "title": "Software Engineer, Core Systems",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a23b47e4-8871-47d0-8775-09dbb393eece",
+        "date_posted": 1730840451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
