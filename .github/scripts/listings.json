@@ -11649,5 +11649,21 @@
         "date_posted": 1730809936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730810259,
+        "url": "http://redirect.cvrve.me/fbf3703e98f091a7a712",
+        "company_name": "Spotify",
+        "title": "Backend Engineer I",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e9c4186a-fd95-4e59-9508-3d21cecb9f6c",
+        "date_posted": 1730810259,
+        "company_url": "",
+        "is_visible": true
     }
 ]
