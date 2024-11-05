@@ -11600,5 +11600,21 @@
         "date_posted": 1730650106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809821,
+        "url": "http://redirect.cvrve.me/9bce7aaea22f99bf4114",
+        "company_name": "Visa",
+        "title": "New Grad 2025: Site Reliability Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f2372966-402b-45ff-8d92-ef43e0ade839",
+        "date_posted": 1730809821,
+        "company_url": "",
+        "is_visible": true
     }
 ]
