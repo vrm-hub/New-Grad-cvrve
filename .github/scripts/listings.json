@@ -11762,5 +11762,21 @@
         "date_posted": 1730840526,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730904813,
+        "url": "http://redirect.cvrve.me/dd86667918be80360a93",
+        "company_name": "Parafin",
+        "title": "New Grad: Backend Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2abb6cc8-ed1a-464b-811c-a2225c890b0a",
+        "date_posted": 1730904813,
+        "company_url": "",
+        "is_visible": true
     }
 ]
