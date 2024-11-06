@@ -11778,5 +11778,21 @@
         "date_posted": 1730904813,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730904876,
+        "url": "http://redirect.cvrve.me/b56f173fcc52f8375a22",
+        "company_name": "KFC",
+        "title": "Junior Site Reliability Engineer",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c5710080-2373-4c58-b650-a29867b3843e",
+        "date_posted": 1730904876,
+        "company_url": "",
+        "is_visible": true
     }
 ]
