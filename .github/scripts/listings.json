@@ -11794,5 +11794,21 @@
         "date_posted": 1730904876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730939253,
+        "url": "http://redirect.cvrve.me/38fce362fd00d2ede943",
+        "company_name": "Zip",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7f65b92f-3729-44a4-86dd-b92c99e44502",
+        "date_posted": 1730939253,
+        "company_url": "",
+        "is_visible": true
     }
 ]
