@@ -11826,5 +11826,21 @@
         "date_posted": 1730939419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730948120,
+        "url": "http://redirect.cvrve.me/8dba49bd70e8fb267fbf",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Developer Technology Engineer, Public Sector",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bcb7f850-ff36-4cb1-876f-4097a62dbc33",
+        "date_posted": 1730948120,
+        "company_url": "",
+        "is_visible": true
     }
 ]
