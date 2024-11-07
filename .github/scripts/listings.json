@@ -11810,5 +11810,21 @@
         "date_posted": 1730939253,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1730939419,
+        "url": "http://redirect.cvrve.me/d0d84915971db2e9d921",
+        "company_name": "Tiktok",
+        "title": "New Grad 2025: Backend Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e19465ab-3e9c-4d15-9f9f-d24750b55c50",
+        "date_posted": 1730939419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
