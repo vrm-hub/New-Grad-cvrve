@@ -11796,7 +11796,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1730939253,
+        "date_updated": 1730939355,
         "url": "http://redirect.cvrve.me/38fce362fd00d2ede943",
         "company_name": "Zip",
         "title": "New Grad 2025: Software Engineer",
@@ -11809,6 +11809,6 @@
         "id": "7f65b92f-3729-44a4-86dd-b92c99e44502",
         "date_posted": 1730939253,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
