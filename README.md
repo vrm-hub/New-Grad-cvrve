@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Roblox** | New Grad 2025: Software Engineer, Game Engine Reliability | San Mateo, CA | <a href="http://redirect.cvrve.me/2ebff5f339585c63b005?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | **Mach Industries** | New Grad 2025: Software Engineer | Huntington Beach, CA | <a href="http://redirect.cvrve.me/7c79ff91614dc41d6612?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
+| **KAYAK** | Frontend Software Engineer, Hotels | Cambridge, MA | <a href="http://redirect.cvrve.me/53378ab726cef928815c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | **Apple** | Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/59ebc2ab6afc05fbc637?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | **Tiktok** | New Grad 2025: Backend Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/d0d84915971db2e9d921?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **NVIDIA** | New Grad 2025: Developer Technology Engineer, Public Sector | Santa Clara, CA | <a href="http://redirect.cvrve.me/8dba49bd70e8fb267fbf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |

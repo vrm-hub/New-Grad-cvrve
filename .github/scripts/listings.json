@@ -11906,5 +11906,21 @@
         "date_posted": 1731085122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731085154,
+        "url": "http://redirect.cvrve.me/53378ab726cef928815c",
+        "company_name": "KAYAK",
+        "title": "Frontend Software Engineer, Hotels",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "143a98fb-edcb-4d28-bbd5-fa15f517eac9",
+        "date_posted": 1731085154,
+        "company_url": "",
+        "is_visible": true
     }
 ]
