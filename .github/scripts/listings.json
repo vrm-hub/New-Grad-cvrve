@@ -11874,5 +11874,21 @@
         "date_posted": 1731084777,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731084984,
+        "url": "http://redirect.cvrve.me/7c79ff91614dc41d6612",
+        "company_name": "Mach Industries",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a36d3503-05c2-46dd-980e-7b7aea6ccc63",
+        "date_posted": 1731084984,
+        "company_url": "",
+        "is_visible": true
     }
 ]
