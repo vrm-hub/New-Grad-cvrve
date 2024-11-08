@@ -11970,5 +11970,21 @@
         "date_posted": 1731085287,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731088122,
+        "url": "http://redirect.cvrve.me/3251791231065e24349b",
+        "company_name": "DV Energy",
+        "title": "New Grad 2025: Software Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bc20df58-f57c-490a-8296-7d8ee1edb638",
+        "date_posted": 1731088122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
