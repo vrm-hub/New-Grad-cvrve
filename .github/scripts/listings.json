@@ -11922,5 +11922,21 @@
         "date_posted": 1731085154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731085193,
+        "url": "http://redirect.cvrve.me/aaeb562b045eff373f35",
+        "company_name": "KAYAK",
+        "title": "Frontend Software Engineer, Hotel",
+        "locations": [
+            "Concord, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cab8edfb-40ef-406c-a18c-ba54e3eff5db",
+        "date_posted": 1731085193,
+        "company_url": "",
+        "is_visible": true
     }
 ]
