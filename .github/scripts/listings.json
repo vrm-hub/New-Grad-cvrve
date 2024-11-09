@@ -12003,5 +12003,21 @@
         "date_posted": 1731177887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731178453,
+        "url": "http://redirect.cvrve.me/99a88d78768c18ee594f",
+        "company_name": "UPS",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Louisville, KT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f16af71e-65eb-4e70-89bc-232288c676ef",
+        "date_posted": 1731178453,
+        "company_url": "",
+        "is_visible": true
     }
 ]
