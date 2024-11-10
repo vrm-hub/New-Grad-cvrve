@@ -118,7 +118,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847228,
         "date_posted": 1719847228,
@@ -134,7 +134,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847227,
         "date_posted": 1719847227,
@@ -150,7 +150,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "395bbd57-d183-4045-a5a9-d66137760142",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
@@ -166,7 +166,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719861792,
         "date_posted": 1719847211,
@@ -182,7 +182,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847210,
         "date_posted": 1719847210,
@@ -198,7 +198,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "title": "Forward Deployed Software Engineer – New Grad",
         "active": false,
         "date_updated": 1719847206,
         "date_posted": 1719847206,
@@ -214,7 +214,7 @@
         "source": "Simplify",
         "company_name": "Akuna Capital",
         "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
-        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
+        "title": "Akuna Capital’s 2024 Virtual Quant Trading Challenge",
         "active": true,
         "date_updated": 1719860685,
         "date_posted": 1719846633,
@@ -262,7 +262,7 @@
         "source": "Simplify",
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
+        "title": "Software Engineering AMTS/MTS – New Grad",
         "active": false,
         "date_updated": 1722227439,
         "date_posted": 1719875851,
@@ -304,7 +304,7 @@
         "source": "Simplify",
         "company_name": "Workrise",
         "id": "96cfaafe-5617-402c-928d-2c58f034b12f",
-        "title": "Associate \u2013 Health Safety & Environmental",
+        "title": "Associate – Health Safety & Environmental",
         "active": false,
         "date_updated": 1724290634,
         "date_posted": 1719520307,
@@ -427,7 +427,7 @@
         "date_updated": 1720217203,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
         "company_name": "Citadel Securities",
-        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "title": "Software Engineer – 2025 University Graduate (US)",
         "locations": [
             "Miami, FL",
             "New York, NY"
@@ -528,7 +528,7 @@
         "date_updated": 1720499020,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Austin)",
+        "title": "Graduate Software Engineer (2025 Start – Austin)",
         "locations": [
             "Austin, TX"
         ],
@@ -566,7 +566,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Shadimrad",
         "id": "637c9e7a-3bd8-47b4-ba76-1c8282f100ea",
         "date_posted": 1720505285,
@@ -614,7 +614,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fb36e0ca-453f-411e-a002-904e90e23a69",
         "date_posted": 1720517390,
@@ -1194,7 +1194,7 @@
         "date_updated": 1721734010,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498615002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Chicago)",
+        "title": "Graduate Software Engineer (2025 Start – Chicago)",
         "locations": [
             "Chicago, IL"
         ],
@@ -1622,7 +1622,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "454b1cbb-ba98-4458-a112-fd7024747b2c",
         "date_posted": 1722295486,
@@ -2082,7 +2082,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "26659550-2113-4f37-af93-3abf4dcf2575",
         "date_posted": 1722889821,
@@ -2098,7 +2098,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "22954ce5-0166-4f9c-845d-6a3135726b91",
         "date_posted": 1722889861,
@@ -2114,7 +2114,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ee0584aa-5cad-44b3-ad40-7cead2b1397d",
         "date_posted": 1722889903,
@@ -2130,7 +2130,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ebe27aee-b6ff-489a-8def-a3704dc6f916",
         "date_posted": 1722889920,
@@ -2276,7 +2276,7 @@
             "Dallas, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "bf2a876c-41a5-4afb-9348-a7435e8cdc13",
         "date_posted": 1723158937,
@@ -2646,7 +2646,7 @@
             "Framingham, MA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3769fcea-e2e5-461b-83fe-ba40beea38bf",
         "date_posted": 1723675947,
@@ -3383,7 +3383,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "c308833b-d19f-48d6-b41b-e93cebf44b66",
         "date_posted": 1724547460,
@@ -4403,7 +4403,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2fdd18c5-4b4a-42e7-a8d7-397d15578d9a",
         "date_posted": 1725069760,
@@ -4644,7 +4644,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ecb7b66d-cb85-45b0-b5d0-809a35719e3e",
         "date_posted": 1725203127,
@@ -5342,7 +5342,7 @@
             "locations St. Louis, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "aae49770-0389-4e33-a466-db1bd0a06793",
         "date_posted": 1725818515,
@@ -5358,7 +5358,7 @@
             "St. Louis, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "da5905f8-a8f6-4d85-90e1-ec9ca9de3638",
         "date_posted": 1725818669,
@@ -5646,7 +5646,7 @@
             "Costa Mesa, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ed23d624-fe74-4387-9627-7a3dbd50c55a",
         "date_posted": 1725822972,
@@ -6713,7 +6713,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "eneief",
         "id": "8a32de84-2f7b-4dfc-b205-9f3d62d3ab23",
         "date_posted": 1726626851,
@@ -9045,7 +9045,7 @@
         "date_updated": 1728204970,
         "url": "http://redirect.cvrve.me/8e3f6f1869bbef1e83d3",
         "company_name": "IBM",
-        "title": "Software Developer \u2013 Full-Stack",
+        "title": "Software Developer – Full-Stack",
         "locations": [
             "Markham, CA"
         ],
@@ -9201,7 +9201,7 @@
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7705b08c-3e4f-4624-aac4-be7e493ac1d5",
         "date_posted": 1728370952,
@@ -9675,7 +9675,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2f5be0b4-725e-4f05-92bd-9384ee60e3c1",
         "date_posted": 1728630056,
@@ -9790,7 +9790,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c9327bbc-f0c1-4a44-93c5-159e64b7ac1e",
         "date_posted": 1728722391,
@@ -9884,7 +9884,7 @@
         "company_name": "Epic Games",
         "title": "Desktop Platform Programmer",
         "locations": [
-            "Montr\u00e9al, Canada"
+            "Montréal, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -10175,7 +10175,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "08cd57ac-4cd3-4d98-aa2b-75354f829a7a",
         "date_posted": 1729100615,
@@ -10454,7 +10454,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "002b4b90-72cb-4910-88f8-1d99b75d3f07",
         "date_posted": 1729220538,
@@ -10784,7 +10784,7 @@
             "Blacksburg, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "afcd4b8b-0c26-4cf8-af90-b5e758d7a0fe",
         "date_posted": 1729568885,
@@ -10800,7 +10800,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "1f452901-bf01-4c84-a8e7-5e6380bf6781",
         "date_posted": 1729568944,
@@ -11008,7 +11008,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2407934a-6e5f-4e29-8363-27ed7d38a4e6",
         "date_posted": 1729904000,
@@ -11040,7 +11040,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "330b7f31-2492-4c61-a52a-0a2444350be4",
         "date_posted": 1729904277,
@@ -11072,7 +11072,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a0e64a1e-a492-42df-a6bc-e5aebc3672b1",
         "date_posted": 1729904834,
@@ -11105,7 +11105,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e0487057-a873-40a9-95c2-1cdcaa70703b",
         "date_posted": 1729907274,
@@ -11154,7 +11154,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f547edea-4bf0-426a-a917-53c22c8518d8",
         "date_posted": 1730146756,
@@ -11186,7 +11186,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "42283ddf-02ad-4957-b0c6-a00e079155a2",
         "date_posted": 1730146876,
@@ -11227,7 +11227,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4d749029-c453-40ff-86c4-d2521d264a38",
         "date_posted": 1730151436,
@@ -11244,7 +11244,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ab856236-d0c5-46a2-8152-8087e4023617",
         "date_posted": 1730235351,
@@ -11342,7 +11342,7 @@
             "Northridge, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8a4c5a6d-2eb5-4161-aa38-2a0ae37ef4e2",
         "date_posted": 1730426148,
@@ -11392,7 +11392,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f5345ff6-1303-4ba0-9a5c-5c555e9fd7f2",
         "date_posted": 1730426421,
@@ -11546,7 +11546,7 @@
             "Torrance, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cad07cc6-7626-4c2b-980d-3b765cb05e62",
         "date_posted": 1730596072,
@@ -11643,7 +11643,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3e69ec66-e79e-4c42-8ccc-9ab80d741bed",
         "date_posted": 1730809936,
@@ -11675,7 +11675,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d264c032-4004-4408-b48d-aa3e80277aab",
         "date_posted": 1730810316,
@@ -11708,7 +11708,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "73cc05ec-5a45-4bca-b321-be1b5232a3d5",
         "date_posted": 1730840320,
@@ -12013,7 +12013,7 @@
             "Louisville, KT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f16af71e-65eb-4e70-89bc-232288c676ef",
         "date_posted": 1731178453,
