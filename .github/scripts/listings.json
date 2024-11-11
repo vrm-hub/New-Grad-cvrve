@@ -12053,5 +12053,21 @@
         "date_posted": 1731350333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731351974,
+        "url": "http://redirect.cvrve.me/2f72e37b649530837f24",
+        "company_name": "Amazon",
+        "title": "New Grad 2025: Front-End Engineer",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b6e45119-414d-40c4-adcf-572576e55c4b",
+        "date_posted": 1731351974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
