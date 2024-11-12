@@ -2608,7 +2608,7 @@
         "company_name": "Meta",
         "title": "New Grad: Security Engineer",
         "locations": [
-            "Location pin icon Bellevue, WA",
+            "Bellevue, WA",
             "Menlo Park, CA",
             "Washington, DC",
             "New York, NY"
@@ -3031,7 +3031,7 @@
         "company_name": "Meta",
         "title": "New Grad:  Production Engineer",
         "locations": [
-            "Location pin icon Sunnyvale, CA",
+            "Sunnyvale, CA",
             "Bellevue, WA",
             "Menlo Park, CA",
             "New York, NY",
@@ -9377,7 +9377,7 @@
         "company_name": "Honeywell",
         "title": "New Grad 2025: Software Engineer",
         "locations": [
-            "LocationUnited States"
+            "United States"
         ],
         "sponsorship": "Other",
         "active": true,
