@@ -12069,5 +12069,29 @@
         "date_posted": 1731351974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731523401,
+        "url": "http://redirect.cvrve.me/7b52d666c47ed8c3dc71",
+        "company_name": "Amazon",
+        "title": "New Grad 2025: Software Development Engineer",
+        "locations": [
+            "Austin, TX",
+            "Sunnyvale, CA",
+            "Seattle, WA",
+            "Redmond, WA",
+            "Santa Clara, CA",
+            "Bellevue, WA",
+            "New York, NY",
+            "East Palo Alto, CA",
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5fcf203b-7941-401a-a724-501b204c1b78",
+        "date_posted": 1731523401,
+        "company_url": "",
+        "is_visible": true
     }
 ]
