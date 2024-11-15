@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Viasat** | New Grad 2025: Embedded Software Engineer | Tempe, AZ | <a href="http://redirect.cvrve.me/ead7e37b5defda0f8f35?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| **The Trade Desk** | New Grad 2025: Software Engineer | Denver, CO | <a href="http://redirect.cvrve.me/e8a0528af1c59b91ba90?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **The Trade Desk** | New Grad 2025: Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/67c08ee385dc0c44f3c2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **SNC** | Software Engineer I | Folsom, CA | <a href="http://redirect.cvrve.me/82bdb2af05ea68ab809c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **Salesforce** | New Grad: Associate Solution Engineer | <details><summary>**5 locations**</summary>San Francisco, CA</br>Chicago, IL</br>New York, NY</br>Atlanta, GA</br>Indianapolis, IN</details> | <a href="http://redirect.cvrve.me/5535e870183d8faeb7ca?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |

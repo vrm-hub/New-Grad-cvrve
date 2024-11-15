@@ -12193,5 +12193,21 @@
         "date_posted": 1731671396,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671818,
+        "url": "http://redirect.cvrve.me/e8a0528af1c59b91ba90",
+        "company_name": "The Trade Desk",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7f00fa58-f5b5-4497-826c-66f98a20ba1a",
+        "date_posted": 1731671818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
