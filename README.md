@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **The Trade Desk** | New Grad 2025: Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/67c08ee385dc0c44f3c2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| **NVIDIA** | New Grad 2024: Software Engineer, Ethernet Switching | Austin, TX | <a href="http://redirect.cvrve.me/fb66443a0bf0c9da835e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **Sierra Space** | Software Engineer I | Broomfield, CO | <a href="http://redirect.cvrve.me/fd93eefb7285bc50595f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Amazon** | New Grad 2025: Software Development Engineer | <details><summary>**9 locations**</summary>Austin, TX</br>Sunnyvale, CA</br>Seattle, WA</br>Redmond, WA</br>Santa Clara, CA</br>Bellevue, WA</br>New York, NY</br>East Palo Alto, CA</br>Cambridge, MA</details> | <a href="http://redirect.cvrve.me/7b52d666c47ed8c3dc71?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Symbotic** | New Grad: Software Engineer | Keene, NH</br>Wilmington, MA | <a href="http://redirect.cvrve.me/3566c9a9acbed114891d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |

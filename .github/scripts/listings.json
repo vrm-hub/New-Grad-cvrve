@@ -12125,5 +12125,21 @@
         "date_posted": 1731670922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671134,
+        "url": "http://redirect.cvrve.me/fb66443a0bf0c9da835e",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2024: Software Engineer, Ethernet Switching",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c31fcb01-b9b5-4268-ab63-f5f953c8bfae",
+        "date_posted": 1731671134,
+        "company_url": "",
+        "is_visible": true
     }
 ]
