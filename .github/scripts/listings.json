@@ -12209,5 +12209,21 @@
         "date_posted": 1731671818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671897,
+        "url": "http://redirect.cvrve.me/af6246a858a60156a95a",
+        "company_name": "Sierra Space",
+        "title": "Software Engineer I",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d24a788f-dc74-414c-a321-93017c597655",
+        "date_posted": 1731671897,
+        "company_url": "",
+        "is_visible": true
     }
 ]
