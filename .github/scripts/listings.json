@@ -12330,5 +12330,21 @@
         "date_posted": 1731672562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731672711,
+        "url": "http://redirect.cvrve.me/edb61acc7e7d2f94b052",
+        "company_name": "Dish Network",
+        "title": "Software Test Engineer I",
+        "locations": [
+            "Cheyenne, WY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "11ef7aa9-55ac-4c25-bd3b-1ca387115f9d",
+        "date_posted": 1731672711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
