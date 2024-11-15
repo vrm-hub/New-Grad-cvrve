@@ -12290,5 +12290,21 @@
         "date_posted": 1731672360,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731672462,
+        "url": "http://redirect.cvrve.me/b44a04113ddbc8489258",
+        "company_name": "Nike",
+        "title": "Software Engineer - Masters",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d3bd0f4f-10b5-41dd-ac0e-d03714b55880",
+        "date_posted": 1731672462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
