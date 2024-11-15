@@ -12225,5 +12225,21 @@
         "date_posted": 1731671897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671934,
+        "url": "http://redirect.cvrve.me/ee98df88e42d856403c9",
+        "company_name": "Booz Allen",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ea241e10-ec00-468a-abaf-b463b932e8e6",
+        "date_posted": 1731671934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
