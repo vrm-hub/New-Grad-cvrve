@@ -12173,5 +12173,25 @@
         "date_posted": 1731671251,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671396,
+        "url": "http://redirect.cvrve.me/5535e870183d8faeb7ca",
+        "company_name": "Salesforce",
+        "title": "New Grad: Associate Solution Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "New York, NY",
+            "Atlanta, GA",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d290df51-c435-4041-a77c-ba138489d7ce",
+        "date_posted": 1731671396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
