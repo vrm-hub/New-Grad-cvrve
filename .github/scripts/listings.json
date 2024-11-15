@@ -12346,5 +12346,21 @@
         "date_posted": 1731672711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731672745,
+        "url": "http://redirect.cvrve.me/3ae097709ab33db3efbe",
+        "company_name": "Nike",
+        "title": "Site Reliability Engineer I",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cbfd4eb7-8fb6-4920-b23b-8f37e950011b",
+        "date_posted": 1731672745,
+        "company_url": "",
+        "is_visible": true
     }
 ]
