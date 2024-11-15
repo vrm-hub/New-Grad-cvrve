@@ -12141,5 +12141,21 @@
         "date_posted": 1731671134,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671215,
+        "url": "http://redirect.cvrve.me/ead7e37b5defda0f8f35",
+        "company_name": "Viasat",
+        "title": "New Grad 2025: Embedded Software Engineer",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1f3acf65-f729-4f59-bf97-99c5d6ed52b7",
+        "date_posted": 1731671215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
