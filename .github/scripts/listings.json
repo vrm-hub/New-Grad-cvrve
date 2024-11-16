@@ -5249,7 +5249,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725818056,
+        "date_updated": 1731768278,
         "url": "https://www.rubrik.com/ja/company/careers/departments/job.6152175.1929",
         "company_name": "Rubrik",
         "title": "New Grad: Software Engineer",
@@ -5257,7 +5257,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "91ae0b9f-34ea-4455-81fe-c0f8e28f8766",
         "date_posted": 1725818056,

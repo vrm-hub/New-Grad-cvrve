@@ -320,7 +320,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tiktok** | New Grad 2025: Test Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395664078364723507/detail?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Thomson Reuters** | New Grad: Software Engineer | Eagan, MN | <a href="https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ182115EXTERNALENUS/Software-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **SpaceX** | New Grad: Software Engineer 🇺🇸 | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/7627218002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Rubrik** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.rubrik.com/ja/company/careers/departments/job.6152175.1929?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Robert Half** | New Grad: Software Engineer | Pittsburgh, PA | <a href="https://www.roberthalf.com/us/en/job/pittsburgh-pa/software-engineer/03730-0013046566-usen?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Microsoft** | New Grad: Software Engineer 🇺🇸 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1754426/Software-Engineer---CTJ---Poly?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Microsoft** | New Grad: Software Engineer I 🛂 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1752115/Software-Engineer-I?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -611,6 +610,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY | 🔒 | Sep 10 |
 | **Wex** | New Grad: Software Development Engineer | <details><summary>**5 locations**</summary>Chicago, IL</br>Boston, MA</br>Washington DC</br>Portland, ME</br>Dallas, TX</details> | 🔒 | Sep 08 |
 | **Service Now** | New Grad 2025: Software Quality Engineer | Santa Clara, CA | 🔒 | Sep 08 |
+| **Rubrik** | New Grad: Software Engineer | Palo Alto, CA | 🔒 | Sep 08 |
 | **Pearson** | New Grad: Software Developer | Remote | 🔒 | Sep 08 |
 | **OKX** | New Grad: Product Manager | San Jose, CA | 🔒 | Sep 08 |
 | **Marigold** | New Grad: Software Engineer | Remote | 🔒 | Sep 08 |
