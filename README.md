@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | SoC Embedded Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/678fdb564348c1ab58e9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Viasat** | New Grad 2025: Embedded Software Engineer | Tempe, AZ | <a href="http://redirect.cvrve.me/ead7e37b5defda0f8f35?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **USAA** | Early Career: Software Engineer | San Antonio, TX | <a href="http://redirect.cvrve.me/fc6e5e1bdcfed552b4e5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **The Trade Desk** | New Grad 2025: Software Engineer | Denver, CO | <a href="http://redirect.cvrve.me/e8a0528af1c59b91ba90?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
