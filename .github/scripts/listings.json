@@ -12378,5 +12378,21 @@
         "date_posted": 1731768125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731768219,
+        "url": "http://redirect.cvrve.me/9cf0746417d254b5782d",
+        "company_name": "The Aerospace Corporation",
+        "title": "New Grad 2025: Embedded Software Engineer",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b32112fa-4e49-4073-9baa-41c1a3638f3b",
+        "date_posted": 1731768219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
