@@ -12459,5 +12459,21 @@
         "date_posted": 1731769041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731769214,
+        "url": "http://redirect.cvrve.me/c692aac16457050344f0",
+        "company_name": "Adobe",
+        "title": "New Grad 2025: Machine Learning Engineer - Masters/PhD\t",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4de40b2f-c71a-4a2a-8235-492f88498a2d",
+        "date_posted": 1731769214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
