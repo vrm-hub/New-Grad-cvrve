@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **The Aerospace Corporation** | New Grad 2025: Embedded Software Engineer | El Segundo, CA | <a href="http://redirect.cvrve.me/9cf0746417d254b5782d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Rubrik** | Software Engineer, Entra ID | Palo Alto, CA | <a href="http://redirect.cvrve.me/809f3d758c311f248a23?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| **GDIT** | Software Developer Associate 🇺🇸 | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/0a07c061d9348e8c8f2a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Apple** | SoC Embedded Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/678fdb564348c1ab58e9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Viasat** | New Grad 2025: Embedded Software Engineer | Tempe, AZ | <a href="http://redirect.cvrve.me/ead7e37b5defda0f8f35?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **USAA** | Early Career: Software Engineer | San Antonio, TX | <a href="http://redirect.cvrve.me/fc6e5e1bdcfed552b4e5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
