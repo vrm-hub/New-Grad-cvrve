@@ -12394,5 +12394,21 @@
         "date_posted": 1731768219,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731768388,
+        "url": "http://redirect.cvrve.me/809f3d758c311f248a23",
+        "company_name": "Rubrik",
+        "title": "Software Engineer, Entra ID",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8c1e2db3-1411-4aad-a100-a9f50d4497f2",
+        "date_posted": 1731768388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
