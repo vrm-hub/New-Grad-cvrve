@@ -12475,5 +12475,21 @@
         "date_posted": 1731769214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731769317,
+        "url": "http://redirect.cvrve.me/8ad06229f0786fdfd6c1",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Applied LLM Engineer, AI and Chip Design",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "571554e5-c29f-4229-a1fc-79ac8cd00a54",
+        "date_posted": 1731769317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
