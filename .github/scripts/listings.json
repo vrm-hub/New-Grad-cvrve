@@ -12491,5 +12491,21 @@
         "date_posted": 1731769317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731950476,
+        "url": "http://redirect.cvrve.me/2bf573e17bffd84008b1",
+        "company_name": "Bytedance",
+        "title": "New Grad 2024: Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d9022741-66c4-4424-9001-94a25c5b5a8a",
+        "date_posted": 1731950476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
