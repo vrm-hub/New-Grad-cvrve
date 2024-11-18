@@ -12523,5 +12523,21 @@
         "date_posted": 1731950999,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731961654,
+        "url": "http://redirect.cvrve.me/0a73d29abbf9c17a5b80",
+        "company_name": "Uplimit",
+        "title": "Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bebf27c4-dd69-46d4-8227-a2a3abe82d34",
+        "date_posted": 1731961654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
