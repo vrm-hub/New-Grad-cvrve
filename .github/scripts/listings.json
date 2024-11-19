@@ -12539,5 +12539,21 @@
         "date_posted": 1731961654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732023055,
+        "url": "http://redirect.cvrve.me/eb0baae9e7c23f3457bd",
+        "company_name": "USAA",
+        "title": "Data Engineer I",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b5673477-3f19-47a9-8636-9adc3480ff52",
+        "date_posted": 1732023055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
