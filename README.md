@@ -60,7 +60,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **USAA** | Data Engineer I | San Antonio, TX | <a href="http://redirect.cvrve.me/eb0baae9e7c23f3457bd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| **Microsoft** | Systems Software Engineer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/8c41622482b874212565?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Gryps** | Backend Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/a78a8db7b7fe168a038e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Baxter** | Software Engineer I | Round Lake, IL | <a href="http://redirect.cvrve.me/2cd9362250ffec6f60b9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Uplimit** | Software Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/0a73d29abbf9c17a5b80?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |

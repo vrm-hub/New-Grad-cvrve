@@ -12605,7 +12605,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732044294,
+        "date_updated": 1732044450,
         "url": "http://redirect.cvrve.me/8c41622482b874212565",
         "company_name": "Microsoft",
         "title": "Systems Software Engineer Intern",
@@ -12618,6 +12618,6 @@
         "id": "10b2d59e-b21d-4914-8f34-10e045b2ea1b",
         "date_posted": 1732044294,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
