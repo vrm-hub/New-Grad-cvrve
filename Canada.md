@@ -23,6 +23,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Crowdstrike** | Software Engineer, Linux | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/0414e791cc6de31b66b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="http://redirect.cvrve.me/0ecd46274b0fcf8b252f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Amazon** | New Grad 2025: Front-End Engineer | Vancouver, Canada | <a href="http://redirect.cvrve.me/2f72e37b649530837f24?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Amazon** | Software Dev Engineer I, Redshift | Vancouver, Canada</br>Toronto, Canada | <a href="http://redirect.cvrve.me/2b16b018a01a30731883?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
