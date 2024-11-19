@@ -12571,5 +12571,21 @@
         "date_posted": 1732023433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732044182,
+        "url": "http://redirect.cvrve.me/2cd9362250ffec6f60b9",
+        "company_name": "Baxter",
+        "title": "Software Engineer I",
+        "locations": [
+            "Round Lake, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bbf7b7e0-35c9-46db-aec1-3a91fb5a7040",
+        "date_posted": 1732044182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
