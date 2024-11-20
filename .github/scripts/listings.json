@@ -12637,5 +12637,23 @@
         "date_posted": 1732044562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732063807,
+        "url": "http://redirect.cvrve.me/b892cf38af40ce133e59",
+        "company_name": "Salesforce",
+        "title": "New Grad: Associate Data Scientist",
+        "locations": [
+            "Dallas, TX",
+            "Atlanta, GA",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5bcc90f2-08c0-4fdb-aed1-dd07aaf0d83f",
+        "date_posted": 1732063807,
+        "company_url": "",
+        "is_visible": true
     }
 ]
