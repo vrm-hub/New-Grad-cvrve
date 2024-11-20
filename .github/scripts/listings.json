@@ -12704,5 +12704,21 @@
         "date_posted": 1732108478,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732108520,
+        "url": "http://redirect.cvrve.me/6aeeead53f78db2615c7",
+        "company_name": "Collaborative Robotics",
+        "title": "New Grad: Software Engineer, Robotics",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e2499e5e-e6dc-482a-88b7-14f2d19078bd",
+        "date_posted": 1732108520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
