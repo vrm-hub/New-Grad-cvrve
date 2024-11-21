@@ -12720,5 +12720,21 @@
         "date_posted": 1732108520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732169469,
+        "url": "http://redirect.cvrve.me/a7a06702af317377836a",
+        "company_name": "Tesla",
+        "title": "Frontend Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "95f5d8fa-921b-4370-9a75-4cc1d93dcc3b",
+        "date_posted": 1732169469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
