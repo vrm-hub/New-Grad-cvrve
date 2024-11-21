@@ -12768,5 +12768,23 @@
         "date_posted": 1732169805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732170157,
+        "url": "http://redirect.cvrve.me/dbc753b094c552f44449",
+        "company_name": "Salesforce",
+        "title": "New Grad: Machine Learning Engineer",
+        "locations": [
+            "Dallas, TX",
+            "Atlanta, GA",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "88dd4960-c6ff-4a51-b130-021254850e78",
+        "date_posted": 1732170157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
