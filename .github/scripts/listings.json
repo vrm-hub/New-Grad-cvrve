@@ -12752,5 +12752,21 @@
         "date_posted": 1732169515,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732169805,
+        "url": "http://redirect.cvrve.me/fa1f4f58bfc242a28ee8",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Software Engineer, Virtualization",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6111aac5-7856-448b-afda-3b965a1e19f1",
+        "date_posted": 1732169805,
+        "company_url": "",
+        "is_visible": true
     }
 ]
