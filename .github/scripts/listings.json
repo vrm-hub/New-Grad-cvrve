@@ -12819,5 +12819,21 @@
         "date_posted": 1732313160,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732313235,
+        "url": "http://redirect.cvrve.me/b40bf53c0c5f830943d5",
+        "company_name": "nCino",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Wilmington, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7ffbeb8e-f2ae-4437-b1a5-a4abf84048eb",
+        "date_posted": 1732313235,
+        "company_url": "",
+        "is_visible": true
     }
 ]
