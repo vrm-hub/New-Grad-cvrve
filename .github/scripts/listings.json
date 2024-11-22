@@ -12835,5 +12835,21 @@
         "date_posted": 1732313235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732313384,
+        "url": "http://redirect.cvrve.me/f075c7b59a9c6571aab7",
+        "company_name": "Better Being",
+        "title": "Software Engineer",
+        "locations": [
+            "Ogden, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "59704344-93b9-4a84-89a9-c2ff6bce43e3",
+        "date_posted": 1732313384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
