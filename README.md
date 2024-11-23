@@ -127,7 +127,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **bet365** | Software Developer, Trading and Tools | Denver, CO | <a href="http://redirect.cvrve.me/449c246ef6853a0239b3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Amazon** | Software Dev Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/eb66411b34449e7c378d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Microsoft** | Software Engineer 🇺🇸 | Reston, VA | <a href="http://redirect.cvrve.me/e29d1aeedea10a2b02a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| **Horace Mann** | Software Engineer I | Springfield, IL | <a href="http://redirect.cvrve.me/aaac22539253eb61f357?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **SeatGeek** | New Grad 2025: Security Engineer | New York, NY | <a href="http://redirect.cvrve.me/1ec6499331ea393f2de0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Western Digital** | New Grad 2025: Application Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/ae4098b3e828be9f7724?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Western Digital** | New Grad 2025: Product Development Engineer | Milpitas, CA | <a href="http://redirect.cvrve.me/852e06e678c8431b2a9d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -516,6 +515,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Genmo** | New Grad: Software Engineer | San Francisco, CA | 🔒 | Nov 05 |
 | **Exact Sciences** | Software Engineer I | San Diego, CA</br>Madison, WI | 🔒 | Nov 05 |
 | **Adobe** | New Grad 2025: Research Scientist/Engineer | San Jose, CA</br>San Francisco, CA | 🔒 | Nov 05 |
+| **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 03 |
 | **Medtronic** | Software Engineer I | Boston, MA | 🔒 | Nov 01 |
 | **Medtronic** | Software Engineer I | Northridge, CA | 🔒 | Nov 01 |
 | **Blue Origin** | New Grad 2025: DevOps Engineer | Seattle, WA</br>Denver, CO | 🔒 | Oct 29 |
