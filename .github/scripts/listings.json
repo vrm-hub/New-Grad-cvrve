@@ -12924,5 +12924,21 @@
         "date_posted": 1732391394,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732391580,
+        "url": "http://redirect.cvrve.me/6ea1ab95ac712733fc44",
+        "company_name": "Horace Mann",
+        "title": "Software Engineer I",
+        "locations": [
+            "Springfield, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "df7c8403-9ae6-478c-b99a-c6bbbc292293",
+        "date_posted": 1732391580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
