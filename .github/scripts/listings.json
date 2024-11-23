@@ -12886,5 +12886,24 @@
         "date_posted": 1732391301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732391347,
+        "url": "http://redirect.cvrve.me/e83d82e06638a42b2964",
+        "company_name": "Twitch",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA",
+            "Irvine, CA",
+            "New York, NY",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "10c460ef-af87-4f24-997f-42a188e0fd08",
+        "date_posted": 1732391347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
