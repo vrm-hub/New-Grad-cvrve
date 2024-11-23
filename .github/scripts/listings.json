@@ -12851,5 +12851,21 @@
         "date_posted": 1732313384,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732384266,
+        "url": "http://redirect.cvrve.me/1cfd3d3cf433ee1996c2",
+        "company_name": "Goldman Sachs",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4c2d4c84-b4b0-4bed-87e8-26fbcf47a943",
+        "date_posted": 1732384266,
+        "company_url": "",
+        "is_visible": true
     }
 ]
