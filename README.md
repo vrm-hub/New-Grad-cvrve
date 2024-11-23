@@ -63,7 +63,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **nCino** | Associate Software Engineer | Wilmington, NC | <a href="http://redirect.cvrve.me/b40bf53c0c5f830943d5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | **Better Being** | Software Engineer | Ogden, UT | <a href="http://redirect.cvrve.me/f075c7b59a9c6571aab7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | **Tesla** | Frontend Software Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/a7a06702af317377836a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
-| **Salesforce** | New Grad: Machine Learning Engineer | Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN | <a href="http://redirect.cvrve.me/dbc753b094c552f44449?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Qualcomm** | GPU Compiler Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/14abe0912fc011fca291?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Virtualization | Santa Clara, CA | <a href="http://redirect.cvrve.me/fa1f4f58bfc242a28ee8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **NVIDIA** | New Grad 2025: ASIC Verification Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/b4aefc307a1cb264f882?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
@@ -511,6 +510,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **Salesforce** | New Grad: Machine Learning Engineer | Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN | 🔒 | Nov 21 |
 | **Spotify** | Backend Engineer I | New York, NY | 🔒 | Nov 05 |
 | **Genmo** | New Grad: Software Engineer | San Francisco, CA | 🔒 | Nov 05 |
 | **Exact Sciences** | Software Engineer I | San Diego, CA</br>Madison, WI | 🔒 | Nov 05 |
