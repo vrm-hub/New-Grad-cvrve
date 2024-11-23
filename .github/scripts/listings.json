@@ -12956,5 +12956,21 @@
         "date_posted": 1732391644,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732391910,
+        "url": "http://redirect.cvrve.me/4e3b80b41675bbe508f9",
+        "company_name": "NBA",
+        "title": "Associate DevOps Engineer",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c57f01de-49a0-440b-a72d-e9a714dbb6f5",
+        "date_posted": 1732391910,
+        "company_url": "",
+        "is_visible": true
     }
 ]
