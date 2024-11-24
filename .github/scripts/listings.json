@@ -2332,7 +2332,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723302037,
+        "date_updated": 1732468287,
         "url": "https://www.amazon.jobs/en/jobs/2636224/software-dev-engineer-i-redshift",
         "company_name": "Amazon",
         "title": "New Grad 2024: Software Dev Engineer I - Masters",
@@ -2342,7 +2342,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b53800e1-fbcd-4b13-9890-5993bba5d393",
         "date_posted": 1723302037,
