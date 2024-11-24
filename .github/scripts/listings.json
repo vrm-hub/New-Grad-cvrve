@@ -3182,15 +3182,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724668458,
+        "date_updated": 1732468510,
         "url": "https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States",
         "company_name": "Mastercard",
         "title": "New Grad 2025: Software Engineer - Launch Program",
         "locations": [
             "O'Fallon, MO"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "beakae",
         "id": "2a05b5a9-faf5-4102-a75c-1d627d7a6095",
         "date_posted": 1724544268,
