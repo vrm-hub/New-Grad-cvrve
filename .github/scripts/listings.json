@@ -13011,5 +13011,21 @@
         "date_posted": 1732466895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732467112,
+        "url": "http://redirect.cvrve.me/0da4390669561b4a05a0",
+        "company_name": "Booz Allen",
+        "title": "New Grad 2025: Systems Engineer",
+        "locations": [
+            "Mclean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ab53adc4-a070-43f6-bcaf-8fb548f0062e",
+        "date_posted": 1732467112,
+        "company_url": "",
+        "is_visible": true
     }
 ]
