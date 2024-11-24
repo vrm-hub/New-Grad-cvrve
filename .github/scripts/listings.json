@@ -11724,7 +11724,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "source": "cvrve-bot",
         "id": "b9cc331f-b4c1-49db-9125-68535470a651",
         "date_posted": 1730840423,
@@ -12796,7 +12796,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "source": "cvrve-bot",
         "id": "6795a873-5393-4b77-a8ee-35dc802b8bbf",
         "date_posted": 1732170435,
@@ -12966,7 +12966,7 @@
             "Secaucus, NJ"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "cvrve-bot",
         "id": "c57f01de-49a0-440b-a72d-e9a714dbb6f5",
         "date_posted": 1732391910,
