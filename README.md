@@ -263,7 +263,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Deutsche Bank** | Technology, Data and Innovation Intern | Cary, NC | <a href="http://redirect.cvrve.me/e0c36bdbf6b0bcdb65e0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Kubernetes | Remote</br>US | <a href="http://redirect.cvrve.me/aa97d0fb8c854765cca6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Cloudflare** | Software Engineer, Durable Objects | Hybrid | <a href="http://redirect.cvrve.me/8ea4108a4a6fb74513a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
-| **CGI** | Entry Level Software Developer | Knoxville, TN | <a href="http://redirect.cvrve.me/2e0b03163827dcc5b837?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **C3.ai** | Software Engineer | Redwood City, CA | <a href="http://redirect.cvrve.me/eef7c3c099bc617cffa5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **C3.ai** | Software Engineer, Platform | Redwood City, CA | <a href="http://redirect.cvrve.me/9caf43f93d0b33f1fd9a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Bytedance** | New Grad 2025: Recommendation Platform Backend Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/d556c27ea99d9bb7bf7c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
@@ -587,6 +586,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cloudflare** | Software Engineer, TaS | Austin, TX</br>Remote | 🔒 | Sep 25 |
 | **Cloudflare** | Software Engineer, Client-Desktop & Mobile | Remote</br>US | 🔒 | Sep 25 |
 | **Chime** | Software Engineer, | Chicago, IL | 🔒 | Sep 25 |
+| **CGI** | Entry Level Software Developer | Knoxville, TN | 🔒 | Sep 25 |
 | **Apple** | Silicon Validation Software Engineer | Cupertino, CA | 🔒 | Sep 25 |
 | **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | 🔒 | Sep 23 |
 | **NVIDIA** | New Grad 2025: Software Engineer | Santa Clara, CA | 🔒 | Sep 23 |

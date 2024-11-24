@@ -7628,7 +7628,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727288762,
+        "date_updated": 1732468910,
         "url": "http://redirect.cvrve.me/2e0b03163827dcc5b837",
         "company_name": "CGI",
         "title": "Entry Level Software Developer",
@@ -7636,7 +7636,7 @@
             "Knoxville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8aa14f37-62b3-4461-8e00-8885e7e370cd",
         "date_posted": 1727288762,
