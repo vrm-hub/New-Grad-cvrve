@@ -2054,7 +2054,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722886404,
+        "date_updated": 1732467972,
         "url": "https://amazon.jobs/en/jobs/2688831/software-dev-engineer-computer-science",
         "company_name": "Amazon",
         "title": "New Grad 2024: Software Dev Engineer",
@@ -2066,7 +2066,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fde862c6-bac2-4e91-8cd1-5f7f40a54284",
         "date_posted": 1722886404,
