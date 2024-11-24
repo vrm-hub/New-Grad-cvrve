@@ -3648,7 +3648,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724716429,
+        "date_updated": 1732467595,
         "url": "https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA12460234",
         "company_name": "Shein",
         "title": "New Grad: Software Engineer",
@@ -3656,7 +3656,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ajain02",
         "id": "9098be2f-e9cb-4d27-9401-5d9c845e4821",
         "date_posted": 1724716429,
