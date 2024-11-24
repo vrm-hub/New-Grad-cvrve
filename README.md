@@ -392,7 +392,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ByteDance** | New Grad 2025: QA Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7397268878131497226/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Stripe** | New Grad: Software Engineer | Toronto, ON | <a href="https://stripe.com/jobs/listing/software-engineer-intern/6172089?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Nextdoor** | New Grad 2025: Machine Learning Engineer - MS/PHD | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202943&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| **NetApp** | New Grad: Software Engineer | San Jose, California | <a href="https://careers.netapp.com/job/-/-/27600/69094587232?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Meta** | New Grad: Network Production Engineer | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Menlo Park, CA</br>Seattle, WA</br>Boston, MA</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/520974660595763/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Software Engineer - Launch Program 🛂 | O'Fallon, MO | <a href="https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Scientist I - Launch Program | Salt Lake City, UT | <a href="https://careers.mastercard.com/us/en/job/R-227405/Data-Scientist-I-Launch-Program-2025-United-States?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
@@ -694,6 +693,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Shein** | New Grad: Software Engineer | Bellevue, WA | 🔒 | Aug 26 |
 | **NVIDIA** | New Grad 2024: Artificial Intelligence Algorithms Engineer | Santa Clara, CA | 🔒 | Aug 26 |
 | **Microsoft** | New Grad: Software Engineer | Redmond, WA | 🔒 | Aug 26 |
+| **NetApp** | New Grad: Software Engineer | San Jose, California | 🔒 | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Engineer - Launch Program | Arlington, VA | 🔒 | Aug 25 |
 | **Figma** | New Grad: Data Scientist | San Francisco, CA</br>New York, NY | 🔒 | Aug 25 |
 | **Boeing** | New Grad: Software Engineer 🛂 | Washington DC | 🔒 | Aug 25 |
