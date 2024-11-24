@@ -392,7 +392,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nextdoor** | New Grad 2025: Machine Learning Engineer - MS/PHD | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202943&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Meta** | New Grad: Network Production Engineer | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Menlo Park, CA</br>Seattle, WA</br>Boston, MA</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/520974660595763/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Software Engineer - Launch Program 🛂 | O'Fallon, MO | <a href="https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| **Mastercard** | New Grad 2025: Data Scientist I - Launch Program | Salt Lake City, UT | <a href="https://careers.mastercard.com/us/en/job/R-227405/Data-Scientist-I-Launch-Program-2025-United-States?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Field Software Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=456af2b4-804c-4fc5-95c3-01d6539cdc0e&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Embedded Software Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Gecko Robotics** | New Grad: Localization Engineer | Pittsburg, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=ad2f924f-79fd-4dea-875b-a5a4b911d17e&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
@@ -692,6 +691,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2024: Artificial Intelligence Algorithms Engineer | Santa Clara, CA | 🔒 | Aug 26 |
 | **Microsoft** | New Grad: Software Engineer | Redmond, WA | 🔒 | Aug 26 |
 | **NetApp** | New Grad: Software Engineer | San Jose, California | 🔒 | Aug 25 |
+| **Mastercard** | New Grad 2025: Data Scientist I - Launch Program | Salt Lake City, UT | 🔒 | Aug 25 |
 | **Mastercard** | New Grad 2025: Data Engineer - Launch Program | Arlington, VA | 🔒 | Aug 25 |
 | **Figma** | New Grad: Data Scientist | San Francisco, CA</br>New York, NY | 🔒 | Aug 25 |
 | **Boeing** | New Grad: Software Engineer 🛂 | Washington DC | 🔒 | Aug 25 |
