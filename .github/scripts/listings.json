@@ -13027,5 +13027,21 @@
         "date_posted": 1732467112,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732467624,
+        "url": "http://redirect.cvrve.me/74da75e64a8a8efb5b7f",
+        "company_name": "Qualcomm",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "494eb380-2839-433b-920e-94b6ad94b408",
+        "date_posted": 1732467624,
+        "company_url": "",
+        "is_visible": true
     }
 ]
