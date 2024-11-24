@@ -283,7 +283,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Radley James** | Graduate Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/dc50441df1d0a48a28b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Precisely** | Associate Data Engineer | United States | <a href="http://redirect.cvrve.me/483f3ad7228a19ee3c17?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Meta** | Data Engineer | <details><summary>**7 locations**</summary>Bellevue, WA</br>Redmond, WA</br>Menlo Park, CA</br>Seattle, WA</br>Burlingame, CA</br>Washington, DC</br>New York, NY</details> | <a href="http://redirect.cvrve.me/fc903e6bb18d83b98f57?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
-| **Jahnel Group** | Software Engineer | Schenectady, NY | <a href="http://redirect.cvrve.me/aa7f7973890241516949?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Google** | New Grad 2025: Software Engineer - PhD | Multiple Locations | <a href="http://redirect.cvrve.me/d14fb5c58afcaa04e469?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Genesis Therapeutics** | New Grad: ML Research Engineer | Burlingame, CA</br>Remote | <a href="http://redirect.cvrve.me/69609c7ef42c37e5aa6d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | **Genesis Therapeutics** | New Grad: Software Engineer | Burlingame, CA</br>Remote | <a href="http://redirect.cvrve.me/bb83a8d169f9518cd37c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
@@ -603,6 +602,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Adobe** | New Grad 2025: Software Development Engineer | San Jose, CA | 🔒 | Sep 19 |
 | **Service Now** | Software Engineer | San Francisco, CA | 🔒 | Sep 18 |
 | **Pinterest** | University Grad Software Engineer (USA) | Remote | 🔒 | Sep 18 |
+| **Jahnel Group** | Software Engineer | Schenectady, NY | 🔒 | Sep 18 |
 | **Duolingo** | New Grad: Data Scientist I | Pittsburgh, PA | 🔒 | Sep 18 |
 | **Duolingo** | New Grad: Data Scientist I | New York, NY | 🔒 | Sep 18 |
 | **Coinbase** | Data Engineer | New York, NY | 🔒 | Sep 18 |
