@@ -354,7 +354,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Waystar** | New Grad: Application Engineer | Louisville, KY</br>Atlanta, GA | <a href="https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Application-Engineer_R1961?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **SpaceX** | New Grad: Software Engineer | Sunnyvale, CA | <a href="https://boards.greenhouse.io/spacex/jobs/7521259002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | **SpaceX** | New Grad: Software Engineer | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/7435724002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
-| **Tesla** | New Grad: Software Engineer, Backend | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/226406?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Tesla** | New Grad: Backend Software Engineer | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/226115?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Jane Street** | New Grad: Domain Specific Language Engineer | New York, NY | <a href="https://job-boards.greenhouse.io/janestreet/jobs/7616537002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Accenture** | New Grad: Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4398316006?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
@@ -682,6 +681,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | 🔒 | Aug 31 |
 | **Codeium** | New Grad: Software Engineer | Mountain View, CA | 🔒 | Aug 31 |
 | **Codeium** | New Grad: AI Product Engineer | Mountain View, CA | 🔒 | Aug 31 |
+| **Tesla** | New Grad: Software Engineer, Backend | Palo Alto, CA | 🔒 | Aug 30 |
 | **NVIDIA** | New Grad: Deep Learning Algorithm Engineer | Santa Clara, CA</br>Remote | 🔒 | Aug 29 |
 | **NVIDIA** | New Grad: Developer Technology Engineer - Masters/PhD | Santa Clara, CA | 🔒 | Aug 29 |
 | **Garmin** | New Grad: Software Engineer I | Salem, OR | 🔒 | Aug 29 |

@@ -4379,7 +4379,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724994644,
+        "date_updated": 1732467880,
         "url": "https://www.tesla.com/careers/search/job/226406",
         "company_name": "Tesla",
         "title": "New Grad: Software Engineer, Backend",
@@ -4387,7 +4387,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "89c0f485-337a-4e2e-b6f8-0c2b365217bc",
         "date_posted": 1724994644,
