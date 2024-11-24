@@ -59,8 +59,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch** | Software Engineer I - iOS | San Francisco, CA | <a href="http://redirect.cvrve.me/e83d82e06638a42b2964?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Twitch** | Software Engineer I, iOS | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | <a href="http://redirect.cvrve.me/06863fd96f7460fc9dd0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
-| **Twitch** | Software Engineer I | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | <a href="http://redirect.cvrve.me/e83d82e06638a42b2964?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Twitch** | Software Engineer I, iOS | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | <a href="http://redirect.cvrve.me/5bd36ab42d577db55bad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **NBA** | Associate DevOps Engineer | Secaucus, NJ | <a href="http://redirect.cvrve.me/4e3b80b41675bbe508f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Horace Mann** | Software Engineer I | Springfield, MI | <a href="http://redirect.cvrve.me/6ea1ab95ac712733fc44?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
