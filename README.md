@@ -389,7 +389,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **CGI** | New Grad: Cyber Security Engineer | Fairfax, VA | <a href="https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J0824-1667&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **ByteDance** | New Grad 2025: Research Scientist | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7397367274900211977/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **ByteDance** | New Grad 2025: QA Engineer | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/7397268878131497226/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| **Stripe** | New Grad: Software Engineer | Toronto, ON | <a href="https://stripe.com/jobs/listing/software-engineer-intern/6172089?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Nextdoor** | New Grad 2025: Machine Learning Engineer - MS/PHD | San Francisco, CA | <a href="https://about.nextdoor.com/careers-list/?gh_jid=6202943&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Meta** | New Grad: Network Production Engineer | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Menlo Park, CA</br>Seattle, WA</br>Boston, MA</br>New York, NY</details> | <a href="https://www.metacareers.com/v2/jobs/520974660595763/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Mastercard** | New Grad 2025: Software Engineer - Launch Program 🛂 | O'Fallon, MO | <a href="https://careers.mastercard.com/us/en/job/R-228341/Software-Engineer-Launch-Program-2025-United-States?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
@@ -689,6 +688,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Meta** | New Grad: Rotational Product Manager | Menlo Park, CA</br>Seattle, WA</br>New York, NY | 🔒 | Aug 28 |
 | **Etsy** | New Grad: Software Engineer, Mobile | Brooklyn, NY | 🔒 | Aug 28 |
 | **Github** | New Grad: Software Engineer I | Remote | 🔒 | Aug 27 |
+| **Stripe** | New Grad: Software Engineer | Toronto, ON | 🔒 | Aug 26 |
 | **Shein** | New Grad: Software Engineer | Bellevue, WA | 🔒 | Aug 26 |
 | **NVIDIA** | New Grad 2024: Artificial Intelligence Algorithms Engineer | Santa Clara, CA | 🔒 | Aug 26 |
 | **Microsoft** | New Grad: Software Engineer | Redmond, WA | 🔒 | Aug 26 |
