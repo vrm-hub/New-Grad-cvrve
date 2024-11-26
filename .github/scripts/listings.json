@@ -13059,5 +13059,21 @@
         "date_posted": 1732646614,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646696,
+        "url": "http://redirect.cvrve.me/bae4aca709133d3696ae",
+        "company_name": "Replit",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e1afd81d-0fc4-41ac-bb08-d9ebddd11742",
+        "date_posted": 1732646696,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Replit** | New Grad 2025: Software Engineer | Foster City, CA | <a href="http://redirect.cvrve.me/bae4aca709133d3696ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Lockheed Martin** | Early Career: Software Engineer 🇺🇸 | Owego, NY | <a href="http://redirect.cvrve.me/b0d44c979e364a76ba9f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Qualcomm** | Embedded Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/74da75e64a8a8efb5b7f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **NetApp** | Software Engineer - Masters | <details><summary>**6 locations**</summary>San Jose, CA</br>Boulder, CO</br>Waltham, MA</br>Research Triangle Park, NC</br>Wichita, KS</br>Cranberry Township, PA</details> | <a href="http://redirect.cvrve.me/d020538a186273cca159?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
