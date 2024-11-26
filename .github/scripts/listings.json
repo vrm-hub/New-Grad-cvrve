@@ -13043,5 +13043,21 @@
         "date_posted": 1732467624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646614,
+        "url": "http://redirect.cvrve.me/b0d44c979e364a76ba9f",
+        "company_name": "Lockheed Martin",
+        "title": "Early Career: Software Engineer",
+        "locations": [
+            "Owego, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "43adb684-c9c7-497c-8044-d7d782065718",
+        "date_posted": 1732646614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
