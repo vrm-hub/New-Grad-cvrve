@@ -7596,7 +7596,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727288479,
+        "date_updated": 1732646520,
         "url": "http://redirect.cvrve.me/d556c27ea99d9bb7bf7c",
         "company_name": "Bytedance",
         "title": "New Grad 2025: Recommendation Platform Backend Engineer",
@@ -7604,7 +7604,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2319b1c0-b5bc-49e6-bfda-5ef2e459e215",
         "date_posted": 1727288479,
