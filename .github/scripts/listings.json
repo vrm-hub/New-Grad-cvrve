@@ -13191,5 +13191,21 @@
         "date_posted": 1732649548,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732649592,
+        "url": "http://redirect.cvrve.me/58296bfaceb1504a32ee",
+        "company_name": "Apple",
+        "title": "Software Engineer, Backend Systems",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c36a274d-5b69-459e-bcd2-6c9e2419af8a",
+        "date_posted": 1732649592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
