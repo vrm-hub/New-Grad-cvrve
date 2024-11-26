@@ -13171,5 +13171,25 @@
         "date_posted": 1732649063,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732649548,
+        "url": "http://redirect.cvrve.me/",
+        "company_name": "Yelp",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Montreal",
+            "Vancouver",
+            "Calgary",
+            "Toronto",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "055eb7dd-8abb-4a83-8721-3ef1a4f6274b",
+        "date_posted": 1732649548,
+        "company_url": "",
+        "is_visible": true
     }
 ]
