@@ -13139,5 +13139,21 @@
         "date_posted": 1732648920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732649019,
+        "url": "http://redirect.cvrve.me/3c401636ce43a61ccfd2",
+        "company_name": "Visa",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "baf0e6ad-57a9-4a26-8b64-cb6563f1fd55",
+        "date_posted": 1732649019,
+        "company_url": "",
+        "is_visible": true
     }
 ]
