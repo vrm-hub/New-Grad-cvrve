@@ -13207,5 +13207,21 @@
         "date_posted": 1732649592,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732649624,
+        "url": "http://redirect.cvrve.me/1766068e257847170afc",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Global Logistics Platform",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a9c90ebb-6c17-4ec3-bb5e-64fb1a54ff14",
+        "date_posted": 1732649624,
+        "company_url": "",
+        "is_visible": true
     }
 ]
