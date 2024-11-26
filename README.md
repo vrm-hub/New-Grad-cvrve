@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **WeaveGrid** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/5ab2429c0206291c2013?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Replit** | New Grad 2025: Software Engineer | Foster City, CA | <a href="http://redirect.cvrve.me/bae4aca709133d3696ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Lockheed Martin** | Early Career: Software Engineer 🇺🇸 | Owego, NY | <a href="http://redirect.cvrve.me/b0d44c979e364a76ba9f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Qualcomm** | Embedded Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/74da75e64a8a8efb5b7f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |

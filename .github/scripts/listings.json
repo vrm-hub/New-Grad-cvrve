@@ -13075,5 +13075,21 @@
         "date_posted": 1732646696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732647291,
+        "url": "http://redirect.cvrve.me/5ab2429c0206291c2013",
+        "company_name": "WeaveGrid",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d126de42-a739-442c-b9a7-516d5e8c6e66",
+        "date_posted": 1732647291,
+        "company_url": "",
+        "is_visible": true
     }
 ]
