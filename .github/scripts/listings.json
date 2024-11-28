@@ -13288,5 +13288,21 @@
         "date_posted": 1732776131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732776202,
+        "url": "http://redirect.cvrve.me/c21f1dc4ac9eedb378a5",
+        "company_name": "Robinhood",
+        "title": "Software Engineer",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4f31cb28-d019-475d-8c83-a245d4c61c92",
+        "date_posted": 1732776202,
+        "company_url": "",
+        "is_visible": true
     }
 ]
