@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **xAI** | Software Engineer - Data Infrastructure | San Francisco, CA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/ba85c242ca4273a5eb33?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | **WeaveGrid** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/5ab2429c0206291c2013?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Visa** | New Grad: Software Engineer | Ashburn, VA | <a href="http://redirect.cvrve.me/3c401636ce43a61ccfd2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Visa** | New Grad: Software Engineer | Foster City, CA | <a href="http://redirect.cvrve.me/aee7edd47fcb96ee003f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |

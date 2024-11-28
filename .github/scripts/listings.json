@@ -13223,5 +13223,22 @@
         "date_posted": 1732649624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732776006,
+        "url": "http://redirect.cvrve.me/ba85c242ca4273a5eb33",
+        "company_name": "xAI",
+        "title": "Software Engineer - Data Infrastructure",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e28eb788-2b42-49eb-9910-3a12673ff2e3",
+        "date_posted": 1732776006,
+        "company_url": "",
+        "is_visible": true
     }
 ]
