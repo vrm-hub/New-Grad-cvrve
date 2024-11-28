@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **xAI** | Software Engineer - Data Infrastructure | San Francisco, CA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/ba85c242ca4273a5eb33?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
+| **TikTok** | New Grad 2025: Software Engineer, Ads Measurement | San Jose, CA | <a href="http://redirect.cvrve.me/7226080775b931009bc8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | **TikTok** | New Grad 2025: Software Engineer, LIVE Foundation | San Jose, CA | <a href="http://redirect.cvrve.me/2f478a3d06d347204dce?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | **WeaveGrid** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/5ab2429c0206291c2013?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Visa** | New Grad: Software Engineer | Ashburn, VA | <a href="http://redirect.cvrve.me/3c401636ce43a61ccfd2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
