@@ -185,7 +185,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Clay** | Software Engineer Early Career (2025) | New York, NY | <a href="http://redirect.cvrve.me/ce8eb281a05118a318e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **Roblox** | New Grad 2025: Associate Product Manager | San Mateo, CA | <a href="http://redirect.cvrve.me/fe069d931447c0a9989f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Roblox** | New Grad 2025: Software Engineer, Reliability | San Mateo, CA | <a href="http://redirect.cvrve.me/5de3ecf16fa49356b53d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
-| **Robinhood** | Software Engineer, Credit Cards | Menlo Park, CA</br>New York, NY | <a href="http://redirect.cvrve.me/2f3a63493295d28f18dd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Marex** | C# Software Developer | Chicago, IL | <a href="http://redirect.cvrve.me/47d38c0b4f5fdac66dd0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **KBR** | Software Engineer 🇺🇸 | Colorado Springs, CO | <a href="http://redirect.cvrve.me/6673203225633cac18b7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Jane Street** | Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/30d7a98b30a8830d5c71?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
@@ -537,6 +536,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ManTech** | Junior Software Engineer | Chantilly, VA | 🔒 | Oct 17 |
 | **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | 🔒 | Oct 16 |
 | **S&P Global** | Software Engineer | New York, NY | 🔒 | Oct 16 |
+| **Robinhood** | Software Engineer, Credit Cards | Menlo Park, CA</br>New York, NY | 🔒 | Oct 16 |
 | **Red Hat** | Software Engineer | Raleigh, NC | 🔒 | Oct 16 |
 | **Fetch** | Data Ops Data Engineer | Remote</br>US | 🔒 | Oct 16 |
 | **Google** | New Grad 2025: Software Engineer | <details><summary>**11 locations**</summary>Mountain View, CA</br>Cambridge, MA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Pittsburgh, PA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</details> | 🔒 | Oct 15 |
