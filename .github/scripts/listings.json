@@ -13272,5 +13272,21 @@
         "date_posted": 1732776103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732776131,
+        "url": "http://redirect.cvrve.me/d826812d3d6ca6cc3544",
+        "company_name": "Vivint",
+        "title": "Software Engineer, Android",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "adc17929-fe4c-4df6-a70c-374685d71800",
+        "date_posted": 1732776131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
