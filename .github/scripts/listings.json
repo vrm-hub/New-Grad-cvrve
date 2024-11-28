@@ -13304,5 +13304,22 @@
         "date_posted": 1732776202,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732776251,
+        "url": "http://redirect.cvrve.me/6734088fa2f8767b84e3",
+        "company_name": "xAI",
+        "title": "Applied AI Engineer & Researcher",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "dfabc8e3-ae7b-43e6-84b2-b98898de24eb",
+        "date_posted": 1732776251,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **xAI** | Applied AI Engineer & Researcher | San Francisco, CA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/6734088fa2f8767b84e3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | **xAI** | Software Engineer - Data Infrastructure | San Francisco, CA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/ba85c242ca4273a5eb33?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | **Vivint** | Software Engineer, Android | Boston, MA | <a href="http://redirect.cvrve.me/d826812d3d6ca6cc3544?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | **TikTok** | New Grad 2025: Software Engineer, Ads Measurement | San Jose, CA | <a href="http://redirect.cvrve.me/7226080775b931009bc8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
