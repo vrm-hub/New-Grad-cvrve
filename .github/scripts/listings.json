@@ -13401,5 +13401,21 @@
         "date_posted": 1733253327,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733253388,
+        "url": "http://redirect.cvrve.me/ab9a7d5e96c0a3f41db4",
+        "company_name": "General Atomics",
+        "title": "Associate Software Developer",
+        "locations": [
+            "Poway, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "dadc40eb-1cae-4720-9604-e5d6e785f5d2",
+        "date_posted": 1733253388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
