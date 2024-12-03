@@ -13353,5 +13353,35 @@
         "date_posted": 1732776347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733253186,
+        "url": "http://redirect.cvrve.me/a0cb391f4342ae966f5b",
+        "company_name": "J.P Morgan Chase",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Atlanta, GA",
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampa, FL",
+            "Wilmington, DE",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bab1a079-239e-4287-b1c4-1a4e0a8b794e",
+        "date_posted": 1733253186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
