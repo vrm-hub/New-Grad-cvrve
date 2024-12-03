@@ -13436,5 +13436,21 @@
         "date_posted": 1733254014,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733254405,
+        "url": "http://redirect.cvrve.me/4ac9a5026626031051e5",
+        "company_name": "Apple",
+        "title": "Software Engineer, Apple Watch",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9ec3a87d-dd8f-40c3-a93e-c40ad432d9c7",
+        "date_posted": 1733254405,
+        "company_url": "",
+        "is_visible": true
     }
 ]
