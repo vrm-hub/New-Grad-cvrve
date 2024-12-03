@@ -13417,5 +13417,24 @@
         "date_posted": 1733253388,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733254014,
+        "url": "http://redirect.cvrve.me/5fc0247fb11e222f1ebb",
+        "company_name": "J.P Morgan Chase",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Columbus, OH",
+            "Wilmington, DE",
+            "Plano, TX",
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7d459f9c-07c9-486e-973d-9e43275b69ed",
+        "date_posted": 1733254014,
+        "company_url": "",
+        "is_visible": true
     }
 ]
