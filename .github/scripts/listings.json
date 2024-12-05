@@ -13534,5 +13534,21 @@
         "date_posted": 1733365470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733369500,
+        "url": "http://redirect.cvrve.me/1b88ecc5f8defd4398ae",
+        "company_name": "Prudential",
+        "title": "Software Engineer",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6aa94c38-c841-407e-a02f-72d6acbc7495",
+        "date_posted": 1733369500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
