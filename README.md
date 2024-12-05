@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Western Digital** | New Grad 2025: Quality Assurance Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/11ba063441d4b527296b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| **River** | Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/bfe59a86e48006680c30?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Red Hat** | Software Engineer | Raleigh, NC | <a href="http://redirect.cvrve.me/5c4dd187424daf568251?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Prudential** | Software Engineer | Newark, NJ | <a href="http://redirect.cvrve.me/1b88ecc5f8defd4398ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Nuro** | New Grad: Software Engineer, AI Platform | Mountain View, CA | <a href="http://redirect.cvrve.me/dc353a06d205eb56123a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
