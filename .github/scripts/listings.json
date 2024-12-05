@@ -13485,5 +13485,21 @@
         "date_posted": 1733364609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733364833,
+        "url": "http://redirect.cvrve.me/11ba063441d4b527296b",
+        "company_name": "Western Digital",
+        "title": "New Grad 2025: Quality Assurance Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6e719ba3-6249-4381-9487-a8822cdb59cf",
+        "date_posted": 1733364833,
+        "company_url": "",
+        "is_visible": true
     }
 ]
