@@ -13631,5 +13631,21 @@
         "date_posted": 1733370182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733437270,
+        "url": "http://redirect.cvrve.me/b5b9765927eb1ad8978b",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Frontend Vision Systems",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "0db51fa2-c425-479e-af7c-3cf3fd6c08ad",
+        "date_posted": 1733437270,
+        "company_url": "",
+        "is_visible": true
     }
 ]
