@@ -13501,5 +13501,22 @@
         "date_posted": 1733364833,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733364924,
+        "url": "http://redirect.cvrve.me/4eec2adc611647cd28c3",
+        "company_name": "HP",
+        "title": "Software Applications Engineer",
+        "locations": [
+            "Boise, ID",
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "181e64a1-652b-4f80-ade2-fd90faf1f8fe",
+        "date_posted": 1733364924,
+        "company_url": "",
+        "is_visible": true
     }
 ]
