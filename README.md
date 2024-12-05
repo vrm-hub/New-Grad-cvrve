@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Western Digital** | New Grad 2025: Quality Assurance Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/11ba063441d4b527296b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| **Nuro** | New Grad: Software Engineer, AI Platform | Mountain View, CA | <a href="http://redirect.cvrve.me/dc353a06d205eb56123a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Microsoft** | Technology Consultant 🇺🇸 | Arlington, VA | <a href="http://redirect.cvrve.me/9e1ce524d82b2103507a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **HP** | Software Applications Engineer | Boise, ID</br>Alpharetta, GA | <a href="http://redirect.cvrve.me/4eec2adc611647cd28c3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/57a787903216633b98b6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
