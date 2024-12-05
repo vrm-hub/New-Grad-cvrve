@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Technology Consultant 🇺🇸 | Arlington, VA | <a href="http://redirect.cvrve.me/9e1ce524d82b2103507a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/57a787903216633b98b6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **J.P Morgan Chase** | New Grad 2025: Software Engineer | <details><summary>**4 locations**</summary>Columbus, OH</br>Wilmington, DE</br>Plano, TX</br>Jersey City, NJ</details> | <a href="http://redirect.cvrve.me/5fc0247fb11e222f1ebb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | **J.P Morgan Chase** | New Grad 2025: Software Engineer | <details><summary>**15 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</details> | <a href="http://redirect.cvrve.me/a0cb391f4342ae966f5b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |

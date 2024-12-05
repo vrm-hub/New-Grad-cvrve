@@ -13469,5 +13469,21 @@
         "date_posted": 1733364550,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733364609,
+        "url": "http://redirect.cvrve.me/9e1ce524d82b2103507a",
+        "company_name": "Microsoft",
+        "title": "Technology Consultant",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "jkomonen",
+        "id": "697e7e37-0133-49fe-ad82-e99cc44b9a1b",
+        "date_posted": 1733364609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
