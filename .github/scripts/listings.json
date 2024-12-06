@@ -13775,5 +13775,21 @@
         "date_posted": 1733438376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733446870,
+        "url": "http://redirect.cvrve.me/0cff372fecaf0c90736f",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Software Engineer, Code Coverage Tools",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "4c8729a1-15a0-4625-9774-fc34b6996ea9",
+        "date_posted": 1733446870,
+        "company_url": "",
+        "is_visible": true
     }
 ]
