@@ -13840,5 +13840,21 @@
         "date_posted": 1733549520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733549613,
+        "url": "http://redirect.cvrve.me/76fc393804bb1be5b1a2",
+        "company_name": "Aurora",
+        "title": "Software Engineer I",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "be0fb802-f72e-456c-ae20-03fa366633d2",
+        "date_posted": 1733549613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
