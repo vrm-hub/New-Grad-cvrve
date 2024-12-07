@@ -13824,5 +13824,21 @@
         "date_posted": 1733549475,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733549520,
+        "url": "http://redirect.cvrve.me/114a180a1e4b73dc87d9",
+        "company_name": "Snap",
+        "title": "Software Engineer",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9cc8856e-0587-4496-b7d0-b4d8093bde90",
+        "date_posted": 1733549520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
