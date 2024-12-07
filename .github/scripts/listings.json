@@ -13872,5 +13872,21 @@
         "date_posted": 1733595069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733595300,
+        "url": "http://redirect.cvrve.me/fe52164598a6b7e576cf",
+        "company_name": "Scale AI",
+        "title": "New Grad: Forward Deployed Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ca4768bd-a3c9-4b9f-a5c3-44cf2d52fa89",
+        "date_posted": 1733595300,
+        "company_url": "",
+        "is_visible": true
     }
 ]
