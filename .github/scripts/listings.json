@@ -14126,5 +14126,21 @@
         "date_posted": 1733885608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733885745,
+        "url": "http://redirect.cvrve.me/28671a057980561aa180",
+        "company_name": "Abbott",
+        "title": "Firmware Engineer I",
+        "locations": [
+            "Sylmar, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bc286920-04d0-4290-8adc-64d31b0ce270",
+        "date_posted": 1733885745,
+        "company_url": "",
+        "is_visible": true
     }
 ]
