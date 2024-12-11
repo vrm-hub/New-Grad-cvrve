@@ -14007,5 +14007,23 @@
         "date_posted": 1733884236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733884283,
+        "url": "http://redirect.cvrve.me/c685aff421b9f15eb95a",
+        "company_name": "Amazon",
+        "title": "New Grad 2025: Software Development Engineer I, DynamoDB",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "30f2ae19-15d0-45aa-ac56-c5f1008a50d6",
+        "date_posted": 1733884283,
+        "company_url": "",
+        "is_visible": true
     }
 ]

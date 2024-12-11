@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | New Grad 2025: Software Development Engineer I, DynamoDB | Seattle, WA</br>Bellevue, WA</br>Redmond, WA | <a href="http://redirect.cvrve.me/c685aff421b9f15eb95a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Amazon** | New Grad 2025: Software Development Engineer I, Redshift | Seattle, WA</br>Redmond, WA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/a4796883f61848282df6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Amazon** | New Grad 2025: Software Development Engineer I | <details><summary>**4 locations**</summary>Austin, TX</br>Seattle, WA</br>Redmond, WA</br>Palo Alto, CA</details> | <a href="http://redirect.cvrve.me/a682c01c8328bd436aa5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Westinghouse** | New Grad 2025: Software Engineer | Cranberry Township, PA | <a href="http://redirect.cvrve.me/a0ca32c300c17b542c5c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
