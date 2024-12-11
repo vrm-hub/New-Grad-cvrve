@@ -14093,5 +14093,22 @@
         "date_posted": 1733885481,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733885527,
+        "url": "http://redirect.cvrve.me/3e15c26cef040aad81b5",
+        "company_name": "Stats Perform",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "bf182f54-a6e7-4e41-ae1b-7198a272033c",
+        "date_posted": 1733885527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
