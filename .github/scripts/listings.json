@@ -13954,5 +13954,21 @@
         "date_posted": 1733774751,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733884094,
+        "url": "http://redirect.cvrve.me/72cafa85698153e41b23",
+        "company_name": "Johnson Controls",
+        "title": "Junior Embedded Software Developer",
+        "locations": [
+            "Ontario, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "22a42308-0c17-4415-ab39-2900e7344d26",
+        "date_posted": 1733884094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
