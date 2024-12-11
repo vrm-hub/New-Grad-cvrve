@@ -13989,5 +13989,23 @@
         "date_posted": 1733884192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733884236,
+        "url": "http://redirect.cvrve.me/a4796883f61848282df6",
+        "company_name": "Amazon",
+        "title": "New Grad 2025: Software Development Engineer I, Redshift",
+        "locations": [
+            "Seattle, WA",
+            "Redmond, WA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "69b9f2b5-d49e-4970-9e5c-0a5fcdc87059",
+        "date_posted": 1733884236,
+        "company_url": "",
+        "is_visible": true
     }
 ]
