@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Amazon** | New Grad 2025: Software Dev Engineer, Annapurna ML | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/dac5b99ecf600606eded?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Amazon** | New Grad 2025: Software Dev Engineer, Annapurna Labs | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/ae698b80ada085781751?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Amazon** | New Grad 2025: Software Development Engineer I, DynamoDB | Seattle, WA</br>Bellevue, WA</br>Redmond, WA | <a href="http://redirect.cvrve.me/c685aff421b9f15eb95a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Amazon** | New Grad 2025: Software Development Engineer I, Redshift | Seattle, WA</br>Redmond, WA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/a4796883f61848282df6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |

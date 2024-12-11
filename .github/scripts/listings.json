@@ -14042,5 +14042,22 @@
         "date_posted": 1733884351,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733884450,
+        "url": "http://redirect.cvrve.me/dac5b99ecf600606eded",
+        "company_name": "Amazon",
+        "title": "New Grad 2025: Software Dev Engineer, Annapurna ML",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ae2acaa6-0cdf-4cdf-b233-19e834a1b560",
+        "date_posted": 1733884450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
