@@ -14075,5 +14075,23 @@
         "date_posted": 1733885406,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733885481,
+        "url": "http://redirect.cvrve.me/f3b8c6b775bfaaaa56a1",
+        "company_name": "Acorns",
+        "title": "New Grad: Software Engineer I",
+        "locations": [
+            "Irvine, CA",
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f7d104c3-d548-4330-88e7-06d55845aad9",
+        "date_posted": 1733885481,
+        "company_url": "",
+        "is_visible": true
     }
 ]
