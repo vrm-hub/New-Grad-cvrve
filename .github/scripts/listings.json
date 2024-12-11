@@ -14059,5 +14059,21 @@
         "date_posted": 1733884450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733885406,
+        "url": "http://redirect.cvrve.me/8e38bce74fa9f5d65cb0",
+        "company_name": "Arrive Logistics",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7ea98691-91ba-4030-b7b7-f132d9834211",
+        "date_posted": 1733885406,
+        "company_url": "",
+        "is_visible": true
     }
 ]
