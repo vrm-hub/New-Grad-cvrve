@@ -14142,5 +14142,21 @@
         "date_posted": 1733885745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734121119,
+        "url": "http://redirect.cvrve.me/145d3a1f58ff586f8b33",
+        "company_name": "Capital One",
+        "title": "New Grad 2025: Associate Data Scientist",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cf276f93-c039-4ac0-92ce-d313dbeb38d4",
+        "date_posted": 1734121119,
+        "company_url": "",
+        "is_visible": true
     }
 ]
