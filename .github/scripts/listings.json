@@ -14176,5 +14176,21 @@
         "date_posted": 1734121209,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734121514,
+        "url": "http://redirect.cvrve.me/b360c18687d220aa73d8",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: ASIC Design Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2a315a94-4dbe-472d-95b5-691b316e8bcc",
+        "date_posted": 1734121514,
+        "company_url": "",
+        "is_visible": true
     }
 ]
