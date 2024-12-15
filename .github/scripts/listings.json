@@ -14226,5 +14226,21 @@
         "date_posted": 1734284687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734284881,
+        "url": "http://redirect.cvrve.me/3516660a69ca09feb2df",
+        "company_name": "Uber",
+        "title": "New Grad 2025: Software Engineer I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3d25a49e-9479-4a54-8b74-2211dd2a4286",
+        "date_posted": 1734284881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
