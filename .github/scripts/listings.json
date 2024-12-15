@@ -12869,7 +12869,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732391301,
+        "date_updated": 1734285018,
         "url": "http://redirect.cvrve.me/5bd36ab42d577db55bad",
         "company_name": "Twitch",
         "title": "Software Engineer I, iOS",
@@ -12880,7 +12880,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c2abce92-efaf-4f42-a9e0-a7c516446e7d",
         "date_posted": 1732391301,
