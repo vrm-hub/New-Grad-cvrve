@@ -23,6 +23,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Vertex** | New Grad 2025: Software Developer | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/9ed698ad63e37fa52827?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
 | **Capital One** | New Grad 2025: Associate Data Scientist | Toronto, Canada | <a href="http://redirect.cvrve.me/145d3a1f58ff586f8b33?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
 | **Johnson Controls** | Junior Embedded Software Developer | Ontario, Canada | <a href="http://redirect.cvrve.me/72cafa85698153e41b23?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Yelp** | Entry Level Software Engineer | <details><summary>**5 locations**</summary>Montreal</br>Vancouver</br>Calgary</br>Toronto</br>Canada</details> | <a href="http://redirect.cvrve.me/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
