@@ -12,6 +12,25 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 ---
 
+<div align="center">
+	<h3 >Want notifications when new roles open? </h3>
+	<p>
+		Join the ⬇️ <strong> discord <strong/> ⬇️ and get your applications in right when they open!
+		<a href="https://redirect.cvrve.me/discord">
+			<b style="color: #0073e6; font-size: 1.2em;"></b>
+				<br style="color: #0073e6; font-size: 1.2em;">
+			<div>
+				<a href="https://redirect.cvrve.me/discord">
+          <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="cvrve">
+        </a>
+			</div>
+		</a>
+		<sub><i>Join the Discord to connect with fellow peers and streamline your newgrad search.</i></sub>
+	</p>
+</div>
+
+---
+
 ## The List 🚴🏔
 
  - 🛂 - Does NOT offer Sponsorship
