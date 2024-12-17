@@ -14258,5 +14258,24 @@
         "date_posted": 1734470767,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734470898,
+        "url": "http://redirect.cvrve.me/b8daa42bade8a4e555d2",
+        "company_name": "Dagster Labs",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "Minneapolis, MN",
+            "San Francisco, CA",
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b676caf2-4323-43a6-9229-691ad21bb3e5",
+        "date_posted": 1734470898,
+        "company_url": "",
+        "is_visible": true
     }
 ]
