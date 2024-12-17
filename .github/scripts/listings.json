@@ -14242,5 +14242,21 @@
         "date_posted": 1734284881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734470767,
+        "url": "http://redirect.cvrve.me/e74906a9bca9500d0b91",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: Developer Technology Engineer, CPU Performance",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cb59e0f8-ffb0-46d9-9ec1-6fe8be5bffb0",
+        "date_posted": 1734470767,
+        "company_url": "",
+        "is_visible": true
     }
 ]
