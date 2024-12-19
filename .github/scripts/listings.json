@@ -14309,5 +14309,21 @@
         "date_posted": 1734572001,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734573590,
+        "url": "http://redirect.cvrve.me/334d3c46cf8c74ec567a",
+        "company_name": "Hudson River Trading",
+        "title": "New Grad 2025: Algorithm Developer -- PhD",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d1cb5a22-1c08-4d33-bd5f-918cae46d348",
+        "date_posted": 1734573590,
+        "company_url": "",
+        "is_visible": true
     }
 ]
