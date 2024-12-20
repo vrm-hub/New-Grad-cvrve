@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Expedia** | Software Development Engineer I | Austin, TX | <a href="http://redirect.cvrve.me/771e94da82d602a5c440?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Microsoft** | Software Developer Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/83b0d92edd6c44becc41?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 19 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/a5d90ca68ea7a7be552b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 19 |
 | **Hudson River Trading** | New Grad 2025: Algorithm Developer -- PhD | New York, NY | <a href="http://redirect.cvrve.me/334d3c46cf8c74ec567a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 19 |
