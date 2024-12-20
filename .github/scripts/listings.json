@@ -14325,5 +14325,21 @@
         "date_posted": 1734573590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734733355,
+        "url": "http://redirect.cvrve.me/b9183f1de01e7ccda811",
+        "company_name": "NetApp",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "San Jose"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "source": "hutiechuan",
+        "id": "2690ebe9-b681-408b-88ee-9ff2b0685f8f",
+        "date_posted": 1734733355,
+        "company_url": "",
+        "is_visible": true
     }
 ]

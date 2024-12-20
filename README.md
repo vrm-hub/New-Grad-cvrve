@@ -541,6 +541,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **NetApp** | Entry Level Software Engineer | San Jose | 🔒 | Dec 20 |
 | **Twitch** | Software Engineer I, iOS | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I, iOS | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - iOS | San Francisco, CA | 🔒 | Nov 23 |
