@@ -14357,5 +14357,21 @@
         "date_posted": 1734733541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734733578,
+        "url": "http://redirect.cvrve.me/07ba26be65b56da7c655",
+        "company_name": "State Street",
+        "title": "Software Engineer I",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f5a82856-57ba-48eb-8330-998f8e3c7dc3",
+        "date_posted": 1734733578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
