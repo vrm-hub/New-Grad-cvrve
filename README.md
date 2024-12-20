@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **State Street** | Software Engineer I | Burlington, MA | <a href="http://redirect.cvrve.me/07ba26be65b56da7c655?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
+| **Manulife Financial Corporation** | New Grad 2025: Software Engineer | Boston, MA | <a href="http://redirect.cvrve.me/46eb1d826d27a05a67d6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Expedia** | Software Development Engineer I | Austin, TX | <a href="http://redirect.cvrve.me/771e94da82d602a5c440?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Microsoft** | Software Developer Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/83b0d92edd6c44becc41?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 19 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/a5d90ca68ea7a7be552b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 19 |
