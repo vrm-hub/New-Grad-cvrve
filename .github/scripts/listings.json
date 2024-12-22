@@ -14506,5 +14506,24 @@
         "date_posted": 1734892831,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734895439,
+        "url": "http://redirect.cvrve.me/e7553e81a27471303b5a",
+        "company_name": "Wex",
+        "title": "AI Productivity Engineer",
+        "locations": [
+            "Portland, ME",
+            "Boston, MA",
+            "Dallas, TX",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "92af6bdb-e034-4cd9-af7f-fb6c4abf406d",
+        "date_posted": 1734895439,
+        "company_url": "",
+        "is_visible": true
     }
 ]

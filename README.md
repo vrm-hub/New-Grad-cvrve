@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Yardi** | Software Development Engineer I | Santa Barbara, CA | <a href="http://redirect.cvrve.me/3bf635fbf6ae6fb4fe0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| **Wex** | AI Productivity Engineer | <details><summary>**4 locations**</summary>Portland, ME</br>Boston, MA</br>Dallas, TX</br>Chicago, IL</details> | <a href="http://redirect.cvrve.me/e7553e81a27471303b5a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Peraton** | Associate Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/5d54f5b428f2a4fa4fc6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Nike** | Machine Learning Engineer I | Beaverton, OR | <a href="http://redirect.cvrve.me/d3d9756bbe20f42b8a40?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **NetApp** | Entry Level Software Engineer - Cloud | <details><summary>**6 locations**</summary>San Jose, CA</br>Boulder, CO</br>Waltham, MA</br>Research Triangle Park, NC</br>Wichita, KS</br>Cranberry Township, PA</details> | <a href="http://redirect.cvrve.me/029c99a36f1e41244f53?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
