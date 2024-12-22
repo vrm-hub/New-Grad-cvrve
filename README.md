@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Yardi** | Software Development Engineer I | Santa Barbara, CA | <a href="http://redirect.cvrve.me/3bf635fbf6ae6fb4fe0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **State Street** | Software Engineer I | Burlington, MA | <a href="http://redirect.cvrve.me/07ba26be65b56da7c655?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Manulife Financial Corporation** | New Grad 2025: Software Engineer | Boston, MA | <a href="http://redirect.cvrve.me/46eb1d826d27a05a67d6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Expedia** | Software Development Engineer I | Austin, TX | <a href="http://redirect.cvrve.me/771e94da82d602a5c440?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
