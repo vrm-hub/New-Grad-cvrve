@@ -14437,5 +14437,21 @@
         "date_posted": 1734892165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734892417,
+        "url": "http://redirect.cvrve.me/d3d9756bbe20f42b8a40",
+        "company_name": "Nike",
+        "title": "Machine Learning Engineer I",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a06160cb-aa20-4801-ac98-4456b5b9d8af",
+        "date_posted": 1734892417,
+        "company_url": "",
+        "is_visible": true
     }
 ]
