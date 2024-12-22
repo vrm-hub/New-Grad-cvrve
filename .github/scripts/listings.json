@@ -14525,5 +14525,21 @@
         "date_posted": 1734895439,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734908961,
+        "url": "http://redirect.cvrve.me/91b99c6edbcc9c7dad6d",
+        "company_name": "Intel",
+        "title": "Junior Compiler Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "0098af83-4216-4af0-b626-dc47404d4872",
+        "date_posted": 1734908961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
