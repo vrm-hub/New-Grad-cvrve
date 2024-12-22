@@ -12971,7 +12971,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1732466856,
+        "date_updated": 1734892700,
         "url": "http://redirect.cvrve.me/729e2dc69400cc0026de",
         "company_name": "NetApp",
         "title": "Entry Level Software Engineer",
@@ -12984,7 +12984,7 @@
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ece43ed9-c5ef-4ece-b355-b69070cdd926",
         "date_posted": 1732466856,
