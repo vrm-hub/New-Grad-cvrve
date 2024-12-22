@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Yardi** | Software Development Engineer I | Santa Barbara, CA | <a href="http://redirect.cvrve.me/3bf635fbf6ae6fb4fe0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| **Peraton** | Associate Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/5d54f5b428f2a4fa4fc6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Nike** | Machine Learning Engineer I | Beaverton, OR | <a href="http://redirect.cvrve.me/d3d9756bbe20f42b8a40?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Amazon** | New Grad 2025: Programmer Analyst | Seattle, WA | <a href="http://redirect.cvrve.me/b4cc57484c8316bca382?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **State Street** | Software Engineer I | Burlington, MA | <a href="http://redirect.cvrve.me/07ba26be65b56da7c655?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
