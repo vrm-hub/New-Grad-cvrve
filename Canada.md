@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Quora** | New Grad 2025: Machine Learning Engineer | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/bf4d21f7e5112c81bb4d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | **Intel** | Junior Compiler Engineer | Toronto, Canada | <a href="http://redirect.cvrve.me/91b99c6edbcc9c7dad6d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **IBM** | Software Developer | Markham, Canada | <a href="http://redirect.cvrve.me/5f2e32fc5a5796c15d68?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Vertex** | New Grad 2025: Software Developer | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/9ed698ad63e37fa52827?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
