@@ -14644,5 +14644,21 @@
         "date_posted": 1735317662,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735317797,
+        "url": "http://redirect.cvrve.me/cacad6034e4a17c66ee5",
+        "company_name": "worldpay",
+        "title": "Software Engineer I",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ab507d46-9845-4282-be23-00889fbe2bbf",
+        "date_posted": 1735317797,
+        "company_url": "",
+        "is_visible": true
     }
 ]

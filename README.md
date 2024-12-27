@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **worldpay** | Software Engineer I | Cincinnati, OH | <a href="http://redirect.cvrve.me/cacad6034e4a17c66ee5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **Meta** | Software Engineer, Systems ML | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>New York, NY</br>Remote</details> | <a href="http://redirect.cvrve.me/482f31b014eeffd78d4e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **MedImpact** | Software Engineer I | San Diego, CA | <a href="http://redirect.cvrve.me/bffce1b4855553d7fc62?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **Macquarie** | Software Engineer | Philadelphia, PA | <a href="http://redirect.cvrve.me/fb3d0f3b694c03d75554?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
