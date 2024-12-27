@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Macquarie** | Software Engineer | Philadelphia, PA | <a href="http://redirect.cvrve.me/fb3d0f3b694c03d75554?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **Promi** | Founding Engineer - YC | San Francisco, CA</br>Sunnyvale, CA | <a href="http://redirect.cvrve.me/dc541595d9f366f4645e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | **Yardi** | Software Development Engineer I | Santa Barbara, CA | <a href="http://redirect.cvrve.me/3bf635fbf6ae6fb4fe0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Wex** | AI Productivity Engineer | <details><summary>**4 locations**</summary>Portland, ME</br>Boston, MA</br>Dallas, TX</br>Chicago, IL</details> | <a href="http://redirect.cvrve.me/e7553e81a27471303b5a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
