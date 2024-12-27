@@ -59,7 +59,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **worldpay** | Software Engineer I | Cincinnati, OH | <a href="http://redirect.cvrve.me/cacad6034e4a17c66ee5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **Trimble** | Software Engineer | Princeton, NJ | <a href="http://redirect.cvrve.me/be6897a6af0ba7db85e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **Meta** | Software Engineer, Systems ML | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>New York, NY</br>Remote</details> | <a href="http://redirect.cvrve.me/482f31b014eeffd78d4e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **MedImpact** | Software Engineer I | San Diego, CA | <a href="http://redirect.cvrve.me/bffce1b4855553d7fc62?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
@@ -559,6 +558,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **worldpay** | Software Engineer I | Cincinnati, OH | 🔒 | Dec 27 |
 | **NetApp** | Entry Level Software Engineer | San Jose | 🔒 | Dec 20 |
 | **NetApp** | Entry Level Software Engineer | <details><summary>**6 locations**</summary>San Jose, CA</br>Boulder, CO</br>Waltham, MA</br>Research Triangle Park, NC</br>Wichita, KS</br>Cranberry Township, PA</details> | 🔒 | Nov 24 |
 | **Twitch** | Software Engineer I, iOS | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | 🔒 | Nov 23 |
