@@ -14777,5 +14777,21 @@
         "date_posted": 1735738323,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738356,
+        "url": "http://redirect.cvrve.me/1c7c1b59a49ab53412d8",
+        "company_name": "Opto",
+        "title": "Software Engineer, Backend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ba31952d-75d8-44ec-b676-91348fb6c2ff",
+        "date_posted": 1735738356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
