@@ -14711,5 +14711,21 @@
         "date_posted": 1735318085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735737980,
+        "url": "http://redirect.cvrve.me/08b26d9196422cc9ae1b",
+        "company_name": "Quantiq Partners",
+        "title": "New Grad: Hardware Developer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Abinavraj5427",
+        "id": "cdefbd6b-57c7-4ed0-bafe-965afdf6184a",
+        "date_posted": 1735737980,
+        "company_url": "",
+        "is_visible": true
     }
 ]

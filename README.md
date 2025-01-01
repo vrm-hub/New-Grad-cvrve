@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Quantiq Partners** | New Grad: Hardware Developer | Austin, TX | <a href="http://redirect.cvrve.me/08b26d9196422cc9ae1b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Trimble** | Software Engineer | Princeton, NJ | <a href="http://redirect.cvrve.me/be6897a6af0ba7db85e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **Meta** | Software Engineer, Systems ML | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>New York, NY</br>Remote</details> | <a href="http://redirect.cvrve.me/482f31b014eeffd78d4e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | **MedImpact** | Software Engineer I | San Diego, CA | <a href="http://redirect.cvrve.me/bffce1b4855553d7fc62?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
