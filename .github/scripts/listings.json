@@ -14760,5 +14760,22 @@
         "date_posted": 1735738257,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738323,
+        "url": "http://redirect.cvrve.me/a547ec575a693b00f02d",
+        "company_name": "Opto",
+        "title": "Software Engineer, Applied AI",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "439b85d2-f424-4930-a047-57f6dbc8ce60",
+        "date_posted": 1735738323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
