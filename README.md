@@ -72,7 +72,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nike** | Machine Learning Engineer I | Beaverton, OR | <a href="http://redirect.cvrve.me/d3d9756bbe20f42b8a40?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **NetApp** | Entry Level Software Engineer - Cloud | <details><summary>**6 locations**</summary>San Jose, CA</br>Boulder, CO</br>Waltham, MA</br>Research Triangle Park, NC</br>Wichita, KS</br>Cranberry Township, PA</details> | <a href="http://redirect.cvrve.me/029c99a36f1e41244f53?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **Amazon** | New Grad 2025: Programmer Analyst | Seattle, WA | <a href="http://redirect.cvrve.me/b4cc57484c8316bca382?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
-| **Adobe** | New Grad 2025: Software Engineer | Lehi, UT | <a href="http://redirect.cvrve.me/08913f1dbd405b986104?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | **State Street** | Software Engineer I | Burlington, MA | <a href="http://redirect.cvrve.me/07ba26be65b56da7c655?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Manulife Financial Corporation** | New Grad 2025: Software Engineer | Boston, MA | <a href="http://redirect.cvrve.me/46eb1d826d27a05a67d6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | **Expedia** | Software Development Engineer I | Austin, TX | <a href="http://redirect.cvrve.me/771e94da82d602a5c440?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
@@ -559,6 +558,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **worldpay** | Software Engineer I | Cincinnati, OH | 🔒 | Dec 27 |
+| **Adobe** | New Grad 2025: Software Engineer | Lehi, UT | 🔒 | Dec 22 |
 | **NetApp** | Entry Level Software Engineer | San Jose | 🔒 | Dec 20 |
 | **NetApp** | Entry Level Software Engineer | <details><summary>**6 locations**</summary>San Jose, CA</br>Boulder, CO</br>Waltham, MA</br>Research Triangle Park, NC</br>Wichita, KS</br>Cranberry Township, PA</details> | 🔒 | Nov 24 |
 | **Twitch** | Software Engineer I, iOS | <details><summary>**4 locations**</summary>San Francisco, CA</br>Irvine, CA</br>New York, NY</br>Seattle, WA</details> | 🔒 | Nov 23 |

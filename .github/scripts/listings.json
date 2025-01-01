@@ -14471,7 +14471,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1734892655,
+        "date_updated": 1735737874,
         "url": "http://redirect.cvrve.me/08913f1dbd405b986104",
         "company_name": "Adobe",
         "title": "New Grad 2025: Software Engineer",
@@ -14479,7 +14479,7 @@
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4102bb52-47d4-4573-ada4-92dcd489f63d",
         "date_posted": 1734892655,
