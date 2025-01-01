@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Quantiq Partners** | New Grad: Software Developer | Austin, TX | <a href="http://redirect.cvrve.me/af187cf19c3b92751bb3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Quantiq Partners** | New Grad: Hardware Developer | Austin, TX | <a href="http://redirect.cvrve.me/08b26d9196422cc9ae1b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| **Opto** | Software Engineer, Product | San Francisco, CA | <a href="http://redirect.cvrve.me/c8bea64e823f8a8a5d9e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Opto** | Software Engineer, Data | San Francisco, CA | <a href="http://redirect.cvrve.me/ccd351ae4108a1210753?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Opto** | Software Engineer, Backend | San Francisco, CA | <a href="http://redirect.cvrve.me/1c7c1b59a49ab53412d8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Opto** | Software Engineer, Applied AI | New York, NY</br>San Francisco, CA | <a href="http://redirect.cvrve.me/a547ec575a693b00f02d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
