@@ -14825,5 +14825,21 @@
         "date_posted": 1735738415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738459,
+        "url": "http://redirect.cvrve.me/d61833f7a7e65b2d9252",
+        "company_name": "ExxonMobil",
+        "title": "New Grad: Software Developer",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e26738ec-f94f-4c8f-9a16-b2bd282bce37",
+        "date_posted": 1735738459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
