@@ -239,7 +239,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Applied Intuition** | New Grad: Research Engineer | Mountain View, CA | <a href="http://redirect.cvrve.me/e78f27bd49454d3942ab?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Roblox** | New Grad 2025: Software Engineer, Game Engine Network | San Mateo, CA | <a href="http://redirect.cvrve.me/3d977303e882acb32de0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **PayPal** | New Grad: Software Engineer | <details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | <a href="http://redirect.cvrve.me/6f31b98fedf1c46ea20f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Old Mission** | New Grad 2025: Junior Full-Stack Engineer | Chicago, IL | <a href="http://redirect.cvrve.me/ef2856220c42ce148cc6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Tiktok** | New Grad 2025: Machine Learning Engineer, Business Risk Integrated Control | San Jose, CA | <a href="http://redirect.cvrve.me/c24d7aa87c5945a41352?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | **Tesla** | Software Development Engineer, Financial Services | Fremont, CA | <a href="http://redirect.cvrve.me/9a52b6caefca468e0c17?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | **NBCUniversal** | Associate Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/b2b84d4aeca75f4c45b0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -602,6 +601,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Peraton** | Entry-Level Software Engineer | Herndon, VA | 🔒 | Oct 22 |
 | **Peraton** | Entry-Level Software Engineer | Blacksburg, VA | 🔒 | Oct 22 |
 | **Palantir** | New Grad: Forward Deployed Software Engineer 🇺🇸 | Palo Alto, CA | 🔒 | Oct 22 |
+| **Old Mission** | New Grad 2025: Junior Full-Stack Engineer | Chicago, IL | 🔒 | Oct 22 |
 | **Gecko Robotics** | New Grad 2025: Forward Deployed Software Engineer | New York, NY | 🔒 | Oct 22 |
 | **Snap Inc** | Software Engineer, C++ | Los Angeles, CA</br>Seattle, WA</br>New York, NY | 🔒 | Oct 19 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA | 🔒 | Oct 19 |
