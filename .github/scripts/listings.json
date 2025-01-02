@@ -14889,5 +14889,21 @@
         "date_posted": 1735827149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735827286,
+        "url": "http://redirect.cvrve.me/838e092b4a4b9139f38f",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ef135966-fad9-4768-9216-a6511992b92f",
+        "date_posted": 1735827286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
