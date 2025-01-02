@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer - AI/ML | Redmond, WA | <a href="http://redirect.cvrve.me/3d725c47a506ca913c5e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Quantiq Partners** | New Grad: Software Developer | Austin, TX | <a href="http://redirect.cvrve.me/af187cf19c3b92751bb3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Quantiq Partners** | New Grad: Hardware Developer | Austin, TX | <a href="http://redirect.cvrve.me/08b26d9196422cc9ae1b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | **Opto** | Software Engineer, Product | San Francisco, CA | <a href="http://redirect.cvrve.me/c8bea64e823f8a8a5d9e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
