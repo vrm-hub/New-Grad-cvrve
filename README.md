@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer - Security | Redmond, WA | <a href="http://redirect.cvrve.me/d197835f95f610b0e631?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Microsoft** | Software Engineer - Fullstack | Atlanta, GA | <a href="http://redirect.cvrve.me/838e092b4a4b9139f38f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Microsoft** | Software Engineer - Fullstack | Redmond, WA | <a href="http://redirect.cvrve.me/e76d84a9c0e20f78876c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Microsoft** | Software Engineer - Fullstack | Redmond, WA | <a href="http://redirect.cvrve.me/17c0e375999e86564cc6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
