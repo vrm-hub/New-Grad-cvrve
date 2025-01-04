@@ -118,7 +118,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847228,
         "date_posted": 1719847228,
@@ -134,7 +134,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847227,
         "date_posted": 1719847227,
@@ -150,7 +150,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "395bbd57-d183-4045-a5a9-d66137760142",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
@@ -166,7 +166,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719861792,
         "date_posted": 1719847211,
@@ -182,7 +182,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847210,
         "date_posted": 1719847210,
@@ -198,7 +198,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "title": "Forward Deployed Software Engineer – New Grad",
         "active": false,
         "date_updated": 1719847206,
         "date_posted": 1719847206,
@@ -214,8 +214,8 @@
         "source": "Simplify",
         "company_name": "Akuna Capital",
         "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
-        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
-        "active": true,
+        "title": "Akuna Capital’s 2024 Virtual Quant Trading Challenge",
+        "active": false,
         "date_updated": 1719860685,
         "date_posted": 1719846633,
         "url": "https://www.akunacapital.com/job-details?gh_jid=5652055",
@@ -262,7 +262,7 @@
         "source": "Simplify",
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
+        "title": "Software Engineering AMTS/MTS – New Grad",
         "active": false,
         "date_updated": 1722227439,
         "date_posted": 1719875851,
@@ -304,7 +304,7 @@
         "source": "Simplify",
         "company_name": "Workrise",
         "id": "96cfaafe-5617-402c-928d-2c58f034b12f",
-        "title": "Associate \u2013 Health Safety & Environmental",
+        "title": "Associate – Health Safety & Environmental",
         "active": false,
         "date_updated": 1724290634,
         "date_posted": 1719520307,
@@ -427,7 +427,7 @@
         "date_updated": 1720217203,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
         "company_name": "Citadel Securities",
-        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "title": "Software Engineer – 2025 University Graduate (US)",
         "locations": [
             "Miami, FL",
             "New York, NY"
@@ -528,7 +528,7 @@
         "date_updated": 1720499020,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Austin)",
+        "title": "Graduate Software Engineer (2025 Start – Austin)",
         "locations": [
             "Austin, TX"
         ],
@@ -890,7 +890,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "97b373be-5760-4e18-968f-d866c65dcf96",
         "date_posted": 1720791158,
@@ -934,7 +934,7 @@
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f2d7639f-36bf-4e14-b1d8-dfaa8d0577ce",
         "date_posted": 1720902945,
@@ -986,7 +986,7 @@
             "Manassas, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "342a297c-675e-4ea2-85cd-dfba2b4ddb18",
         "date_posted": 1720979990,
@@ -1034,7 +1034,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3a0c916e-8b2c-4189-815e-5347e8e17e20",
         "date_posted": 1721219535,
@@ -1194,7 +1194,7 @@
         "date_updated": 1721734010,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498615002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Chicago)",
+        "title": "Graduate Software Engineer (2025 Start – Chicago)",
         "locations": [
             "Chicago, IL"
         ],
@@ -1669,7 +1669,7 @@
             "Tempe, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "26a61b22-08e5-4805-b7cc-3d62220679a6",
         "date_posted": 1722439569,
@@ -1685,7 +1685,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8592d0f4-9b6e-447d-b8b6-8adb21d11fff",
         "date_posted": 1722439774,
@@ -1909,7 +1909,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4cd8d7ef-f6aa-4264-bb9c-1036a480d0ab",
         "date_posted": 1722578210,
@@ -1957,7 +1957,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "0a7a8227-46ba-4fae-965e-9ab4b4690ddc",
         "date_posted": 1722637571,
@@ -2008,7 +2008,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5d0bac4d-da7f-45de-bb1b-b31ca045da98",
         "date_posted": 1722885850,
@@ -2406,7 +2406,7 @@
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c0035acf-28d8-454d-bb20-3aee96c198c6",
         "date_posted": 1723307062,
@@ -2453,7 +2453,7 @@
             "Linthicum, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ad7ff9e9-1516-41ba-a678-9b87abdf770a",
         "date_posted": 1723342383,
@@ -2485,7 +2485,7 @@
             "Hopkins, MN"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ead37d8d-f232-480a-9639-de33e553c63f",
         "date_posted": 1723592943,
@@ -2555,7 +2555,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4ca565d9-aca7-4657-ac78-cf4ddb02ff42",
         "date_posted": 1723670204,
@@ -2826,7 +2826,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "25df2b2c-4bce-46f8-a805-24af94cf9fbd",
         "date_posted": 1724120445,
@@ -2842,7 +2842,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3a888e27-5830-42ee-915e-d2242fb339b5",
         "date_posted": 1724120503,
@@ -2922,7 +2922,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0cadc5aa-71e4-4f21-9f70-1fb6c50d091c",
         "date_posted": 1724121255,
@@ -3154,7 +3154,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "84be9b2a-9b04-4c87-a197-fe9f100dbcad",
         "date_posted": 1724429342,
@@ -3752,7 +3752,7 @@
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "1cb4ad28-0c57-4c14-942d-c8821086a67a",
         "date_posted": 1724776599,
@@ -4253,7 +4253,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "46e11acc-20d0-4e41-9839-5d9d1790afbc",
         "date_posted": 1724960388,
@@ -4272,7 +4272,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8ebfab62-f166-410d-8f8b-c6995941011a",
         "date_posted": 1724960517,
@@ -4288,7 +4288,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8fdaa1fe-6f1f-4eb3-92f8-be0fed722f81",
         "date_posted": 1724960586,
@@ -4306,7 +4306,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e3fa7578-834a-4ced-bf2b-c060c4eab938",
         "date_posted": 1724960661,
@@ -4323,7 +4323,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "958f5fbf-30d5-4daa-9c50-520287f80df8",
         "date_posted": 1724960742,
@@ -4580,7 +4580,7 @@
             "Tucson, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3b36a75a-66d6-48e6-8600-301827cecbf6",
         "date_posted": 1725202390,
@@ -4596,7 +4596,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2f3a2c84-5c2f-45a1-b8b8-848a52b57d41",
         "date_posted": 1725202461,
@@ -4612,7 +4612,7 @@
             "Baltimore, ML"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "db22fd72-2b3d-4fd8-9161-4a9073856c5e",
         "date_posted": 1725202566,
@@ -4798,7 +4798,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "80ab08da-779f-49d9-b488-eca82ed27f5c",
         "date_posted": 1725367435,
@@ -4846,7 +4846,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "42962777-5a51-4626-b1b6-693e86aa421c",
         "date_posted": 1725381164,
@@ -4863,7 +4863,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "beakae",
         "id": "1e39bc20-69fc-4ca4-a436-76a7e24d7f0f",
         "date_posted": 1725381786,
@@ -4879,7 +4879,7 @@
             "Santa Monica, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "275febb3-f566-4d51-8983-615eb375a73d",
         "date_posted": 1725405921,
@@ -5308,7 +5308,7 @@
             "Bothell, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "71997a6c-f919-498d-9605-dd2a83694ae6",
         "date_posted": 1725818339,
@@ -5695,7 +5695,7 @@
             "Eagan, MN"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7cba3a40-1e27-434a-b3c8-ff3b3e349cbd",
         "date_posted": 1725823921,
@@ -5749,7 +5749,7 @@
             "Richmond, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ajain02",
         "id": "5cb36a35-35d7-4152-bc9f-ff61b372ba8d",
         "date_posted": 1725939070,
@@ -5815,7 +5815,7 @@
             "Greenwood, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "de53f448-d3c1-43ec-aea5-88029fddcef0",
         "date_posted": 1726096378,
@@ -6010,7 +6010,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e7f37d56-92a5-4bd0-b33e-0f8483ce7f72",
         "date_posted": 1726114818,
@@ -6123,7 +6123,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3fa005f2-2be2-4cfa-8aaa-9260cddeda58",
         "date_posted": 1726189103,
@@ -6334,7 +6334,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7f59fe73-ed11-4c0b-a5ea-a43abafbf7fe",
         "date_posted": 1726260947,
@@ -6366,7 +6366,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "75da048a-5838-4252-bc69-0bab74ff65a7",
         "date_posted": 1726261453,
@@ -6398,7 +6398,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d2f5a2cb-03d4-420a-85bf-e30ffb541ab2",
         "date_posted": 1726348670,
@@ -6449,7 +6449,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c52e971e-57bd-47e5-a260-5b560d5da257",
         "date_posted": 1726349631,
@@ -6751,7 +6751,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f9482b9d-b213-4299-bac9-d852a8543c90",
         "date_posted": 1726653771,
@@ -6784,7 +6784,7 @@
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ajain02",
         "id": "e260045f-947c-48a0-b613-c95cc297f186",
         "date_posted": 1726653896,
@@ -7050,7 +7050,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8f3d9b10-c6e5-473a-b009-17b5e7558624",
         "date_posted": 1726721302,
@@ -7279,7 +7279,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3a8cd98d-046b-4127-a3ea-6b0d9f7f5f9b",
         "date_posted": 1726912365,
@@ -7313,7 +7313,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "trannble",
         "id": "ca97cfff-0d7b-4830-8f23-4321d82270d2",
         "date_posted": 1727036661,
@@ -7377,7 +7377,7 @@
             "Coppell, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "eb4a29cc-efb4-4194-97a0-5fde67bcd15e",
         "date_posted": 1727187616,
@@ -7473,7 +7473,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "1102a807-2945-4b5c-bab3-0fb5f6b3f83f",
         "date_posted": 1727244484,
@@ -7588,7 +7588,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a55bcce4-8673-40fd-ab88-f8c23f79369a",
         "date_posted": 1727288409,
@@ -7656,7 +7656,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "1116ee65-d0a0-4faf-84bf-53d487d54abd",
         "date_posted": 1727289205,
@@ -7816,7 +7816,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cbf6b85a-e4fb-40a2-9f8e-48a5d83211d8",
         "date_posted": 1727418077,
@@ -8127,7 +8127,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3de45de0-9c27-4cd2-8e78-83eff49d3b0e",
         "date_posted": 1727847346,
@@ -8143,7 +8143,7 @@
             "Wilsonville, OR"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4ae0c25e-33c6-4fd2-8b92-ee8d88c34897",
         "date_posted": 1727847419,
@@ -8175,7 +8175,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "8a126ed8-ba3a-41ed-8b85-b9155d64ee49",
         "date_posted": 1727847816,
@@ -8191,7 +8191,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cbe98698-8c20-4104-a718-01fae3b200cc",
         "date_posted": 1727847897,
@@ -8368,7 +8368,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9b607faa-44fd-413b-8403-604807ab951f",
         "date_posted": 1727850808,
@@ -8498,7 +8498,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4314df3f-a67b-4576-bead-34c24b043036",
         "date_posted": 1727907062,
@@ -8514,7 +8514,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "94592bd9-173e-47a2-a6c9-7795ce09caa6",
         "date_posted": 1727907102,
@@ -8530,7 +8530,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d9b40d60-9e00-46bd-b095-9daa4aabd86d",
         "date_posted": 1727907179,
@@ -8546,7 +8546,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b2f0e4fb-cfab-45b1-b31f-a05282121d23",
         "date_posted": 1727907241,
@@ -8725,7 +8725,7 @@
             "Alpharetta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "672881b7-d9ba-467d-b504-9f956e710b98",
         "date_posted": 1727962484,
@@ -8824,7 +8824,7 @@
             "State College, PA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "584cfcb2-78b7-4dcc-9a96-7d6f992df734",
         "date_posted": 1727995839,
@@ -8840,7 +8840,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3f1555a0-883a-45b5-b4cb-380d45bfb2e4",
         "date_posted": 1727995983,
@@ -8921,7 +8921,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b7d2dc5a-3f40-4b0f-80c4-ab4c71a0fadc",
         "date_posted": 1728103480,
@@ -8969,7 +8969,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "fa6d1397-9968-49a2-8a06-92b850c2b9ab",
         "date_posted": 1728103729,
@@ -9045,12 +9045,12 @@
         "date_updated": 1728204970,
         "url": "http://redirect.cvrve.me/8e3f6f1869bbef1e83d3",
         "company_name": "IBM",
-        "title": "Software Developer \u2013 Full-Stack",
+        "title": "Software Developer – Full-Stack",
         "locations": [
             "Markham, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a7b4933d-fa62-4cf2-b3d4-c92dac0ec1f7",
         "date_posted": 1728204970,
@@ -9150,7 +9150,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a5c89826-5132-45ca-b622-389cf46582f1",
         "date_posted": 1728209297,
@@ -9659,7 +9659,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e1adc6cc-dae9-4e2f-86b2-18c87ef1f4a8",
         "date_posted": 1728630015,
@@ -9707,7 +9707,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a5aca5a2-1e51-4faf-99b2-ab61e7b635f4",
         "date_posted": 1728630860,
@@ -9884,7 +9884,7 @@
         "company_name": "Epic Games",
         "title": "Desktop Platform Programmer",
         "locations": [
-            "Montr\u00e9al, Canada"
+            "Montréal, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -9903,7 +9903,7 @@
             "Santa Barbara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c12c3f57-50b2-49f1-a5e1-13736ff4a22e",
         "date_posted": 1728973774,
@@ -9937,7 +9937,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "55548a66-8e3a-4a3d-8362-6ab1a630d6ae",
         "date_posted": 1728973884,
@@ -10111,7 +10111,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "1c960db8-40f8-498b-9c52-10f1aaed0877",
         "date_posted": 1729042659,
@@ -10569,7 +10569,7 @@
             "Tysons, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "52982639-342c-4713-9ea7-27a66af8cdda",
         "date_posted": 1729389530,
@@ -10768,7 +10768,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "5a7ef008-3571-4509-9515-b4e720ec1ee5",
         "date_posted": 1729568425,
@@ -10924,7 +10924,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "2e38b31c-4868-4c68-8c68-ba7b1134f999",
         "date_posted": 1729732148,
@@ -11359,7 +11359,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d91b93f1-3d0c-4e8e-8b99-c952fa2dd39e",
         "date_posted": 1730426188,
@@ -11376,7 +11376,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "70516698-b7e2-4fd6-8c47-c077da01ad85",
         "date_posted": 1730426373,
@@ -11476,7 +11476,7 @@
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f11c3953-1fcf-4172-a80a-2ea3199e7c28",
         "date_posted": 1730453736,
@@ -11691,7 +11691,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "kodandaravi724",
         "id": "2ffc99fa-7fe9-49c4-b3d5-a450967a23c0",
         "date_posted": 1730838911,
@@ -11788,7 +11788,7 @@
             "Louisville, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "c5710080-2373-4c58-b650-a29867b3843e",
         "date_posted": 1730904876,
@@ -11852,7 +11852,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "200c63a6-205d-4186-a48a-64ab16e2a356",
         "date_posted": 1730988665,
@@ -11900,7 +11900,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b06f6cb8-368a-4cb1-9179-77e9de63816c",
         "date_posted": 1731085122,
@@ -11916,7 +11916,7 @@
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "143a98fb-edcb-4d28-bbd5-fa15f517eac9",
         "date_posted": 1731085154,
@@ -11932,7 +11932,7 @@
             "Concord, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "cab8edfb-40ef-406c-a18c-ba54e3eff5db",
         "date_posted": 1731085193,
@@ -11997,7 +11997,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "88608432-a5ab-427d-968f-597afb07420f",
         "date_posted": 1731177887,
@@ -12013,7 +12013,7 @@
             "Louisville, KT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "f16af71e-65eb-4e70-89bc-232288c676ef",
         "date_posted": 1731178453,
@@ -12087,7 +12087,7 @@
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "5fcf203b-7941-401a-a724-501b204c1b78",
         "date_posted": 1731523401,
@@ -12262,7 +12262,7 @@
     {
         "date_updated": 1731672315,
         "url": "http://redirect.cvrve.me/01b399ed42dd015bdef6",
-        "company_name": "Cond\u00e9 Nast",
+        "company_name": "Condé Nast",
         "title": "Data Engineer I",
         "locations": [
             "New York, NY"
@@ -12340,7 +12340,7 @@
             "Cheyenne, WY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "11ef7aa9-55ac-4c25-bd3b-1ca387115f9d",
         "date_posted": 1731672711,
@@ -12517,7 +12517,7 @@
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "78aa7ac2-f531-4b71-9f38-40325d638e38",
         "date_posted": 1731950999,
@@ -12581,7 +12581,7 @@
             "Round Lake, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bbf7b7e0-35c9-46db-aec1-3a91fb5a7040",
         "date_posted": 1732044182,
@@ -12631,7 +12631,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9490bb33-9449-430a-994c-fdac6bdc0e71",
         "date_posted": 1732044562,
@@ -12682,7 +12682,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "07eddd78-eaa3-45f7-920c-78cedd53a934",
         "date_posted": 1732063897,
@@ -12931,7 +12931,7 @@
             "Springfield, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "df7c8403-9ae6-478c-b99a-c6bbbc292293",
         "date_posted": 1732391580,
@@ -12947,7 +12947,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9a07ee96-1d9c-4371-8e96-c490b16e2d64",
         "date_posted": 1732391644,
@@ -13005,7 +13005,7 @@
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "937e4ca3-9c27-4781-9172-948216b4c971",
         "date_posted": 1732466895,
@@ -13021,7 +13021,7 @@
             "Mclean, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ab53adc4-a070-43f6-bcaf-8fb548f0062e",
         "date_posted": 1732467112,
@@ -13053,7 +13053,7 @@
             "Owego, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "43adb684-c9c7-497c-8044-d7d782065718",
         "date_posted": 1732646614,
@@ -13185,7 +13185,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "055eb7dd-8abb-4a83-8721-3ef1a4f6274b",
         "date_posted": 1732649548,
@@ -13234,7 +13234,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "e28eb788-2b42-49eb-9910-3a12673ff2e3",
         "date_posted": 1732776006,
@@ -13463,7 +13463,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "d34116e1-4a8e-4079-ac5e-c90fbf8f2883",
         "date_posted": 1733364550,
@@ -13544,7 +13544,7 @@
             "Newark, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "6aa94c38-c841-407e-a02f-72d6acbc7495",
         "date_posted": 1733369500,
@@ -13560,7 +13560,7 @@
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7561b845-6f76-4977-83a4-26fd5d6e0145",
         "date_posted": 1733369531,
@@ -13721,7 +13721,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "791245c4-b40a-49d7-a382-2a26aae08c33",
         "date_posted": 1733437527,
@@ -13737,7 +13737,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "a75807be-27d2-46ae-9f26-258cca489007",
         "date_posted": 1733437951,
@@ -13850,7 +13850,7 @@
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "be0fb802-f72e-456c-ae20-03fa366633d2",
         "date_posted": 1733549613,
@@ -13866,7 +13866,7 @@
             "McKinney, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "58a2ca96-e856-4f40-b399-124d4024cc4a",
         "date_posted": 1733595069,
@@ -13882,7 +13882,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ca4768bd-a3c9-4b9f-a5c3-44cf2d52fa89",
         "date_posted": 1733595300,
@@ -13964,7 +13964,7 @@
             "Ontario, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "22a42308-0c17-4415-ab39-2900e7344d26",
         "date_posted": 1733884094,
@@ -14136,7 +14136,7 @@
             "Sylmar, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "bc286920-04d0-4290-8adc-64d31b0ce270",
         "date_posted": 1733885745,
@@ -14236,7 +14236,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "3d25a49e-9479-4a54-8b74-2211dd2a4286",
         "date_posted": 1734284881,
@@ -14399,7 +14399,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "54e90720-c52b-445f-8ee9-13e313d21ea7",
         "date_posted": 1734734400,
@@ -14415,7 +14415,7 @@
             "Santa Barbara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "4790bbd0-7417-49d0-a833-431c0a8acc36",
         "date_posted": 1734891923,
@@ -14535,7 +14535,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "0098af83-4216-4af0-b626-dc47404d4872",
         "date_posted": 1734908961,
@@ -14551,7 +14551,7 @@
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "50135d62-7bd5-4d27-96a0-684833b682db",
         "date_posted": 1734908994,
@@ -14705,7 +14705,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "0f1e6d0b-06e8-41c6-ba86-7ea115fc372a",
         "date_posted": 1735318085,
