@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NCR Voyix** | Software Engineer I | Atlanta, GA | <a href="http://redirect.cvrve.me/854b0911f052e3dc0aa2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **NCR Voyix** | Software Engineer | Atlanta, GA | <a href="http://redirect.cvrve.me/0206b41433c7f859203d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **Microsoft** | Software Engineer - Fullstack | Multiple Locations | <a href="http://redirect.cvrve.me/45ea1c2c6312b6af4a0e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Microsoft** | Software Engineer - Security | Redmond, WA | <a href="http://redirect.cvrve.me/d197835f95f610b0e631?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
