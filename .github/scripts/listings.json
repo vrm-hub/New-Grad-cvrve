@@ -14969,5 +14969,21 @@
         "date_posted": 1736178808,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736178858,
+        "url": "http://redirect.cvrve.me/07ae88794a35595b698c",
+        "company_name": "Tower Research Capital",
+        "title": "Software Engineer I",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "2ebd0e15-0871-401c-ab16-291516814909",
+        "date_posted": 1736178858,
+        "company_url": "",
+        "is_visible": true
     }
 ]
