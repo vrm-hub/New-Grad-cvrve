@@ -15033,5 +15033,21 @@
         "date_posted": 1736179367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736195226,
+        "url": "http://redirect.cvrve.me/4d21eadc940f5059b635",
+        "company_name": "Cubic Defense",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "08d22927-b054-4cc6-ae3d-1f478b29e077",
+        "date_posted": 1736195226,
+        "company_url": "",
+        "is_visible": true
     }
 ]
