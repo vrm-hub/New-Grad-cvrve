@@ -15099,5 +15099,21 @@
         "date_posted": 1736231886,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736231925,
+        "url": "http://redirect.cvrve.me/4743b03ceb5911c6697d",
+        "company_name": "Brooks",
+        "title": "Software Engineer",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7a4c38ba-6f54-4deb-ab07-a688e5f486c5",
+        "date_posted": 1736231925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
