@@ -15115,5 +15115,23 @@
         "date_posted": 1736231925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736231978,
+        "url": "http://redirect.cvrve.me/465babd584c380b588b8",
+        "company_name": "T-Mobile",
+        "title": "Software Engineer",
+        "locations": [
+            "Bellevue, WA",
+            "Denver, CO",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8bef29e4-38b5-4265-a91e-5a316a81b4ad",
+        "date_posted": 1736231978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
