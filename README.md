@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Vivint** | Software Engineer, iOS | Salt Lake City, UT | <a href="http://redirect.cvrve.me/3a62822bb20452ed09ad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **Tower Research Capital** | Software Engineer I | Charleston, SC | <a href="http://redirect.cvrve.me/07ae88794a35595b698c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **NCR Voyix** | Software Engineer I | Atlanta, GA | <a href="http://redirect.cvrve.me/854b0911f052e3dc0aa2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **NCR Voyix** | Software Engineer | Atlanta, GA | <a href="http://redirect.cvrve.me/0206b41433c7f859203d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
