@@ -15133,5 +15133,21 @@
         "date_posted": 1736231978,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736368090,
+        "url": "http://redirect.cvrve.me/746fcecc9559029b5bb6",
+        "company_name": "Eaton",
+        "title": "Firmware Engineering Intern",
+        "locations": [
+            "Menomonee Falls"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "81d5a31a-97f5-4f55-bc59-9d1fc7a95106",
+        "date_posted": 1736368090,
+        "company_url": "",
+        "is_visible": true
     }
 ]
