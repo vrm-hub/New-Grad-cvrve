@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Panasonic** | Web Application Developer Intern | Irvine, CA | <a href="http://redirect.cvrve.me/648e1437b3f203a464f6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | **Eaton** | Firmware Engineering Intern | Menomonee Falls | <a href="http://redirect.cvrve.me/746fcecc9559029b5bb6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | **Vivint** | Software Engineer, iOS | Salt Lake City, UT | <a href="http://redirect.cvrve.me/3a62822bb20452ed09ad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **T-Mobile** | Software Engineer | Bellevue, WA</br>Denver, CO</br>Frisco, TX | <a href="http://redirect.cvrve.me/465babd584c380b588b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
