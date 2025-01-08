@@ -15151,7 +15151,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1736368129,
+        "date_updated": 1736368219,
         "url": "http://redirect.cvrve.me/648e1437b3f203a464f6",
         "company_name": "Panasonic",
         "title": "Web Application Developer Intern",
@@ -15164,6 +15164,6 @@
         "id": "e26945ea-f4a7-484c-8285-836e6a5b6d79",
         "date_posted": 1736368129,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]
