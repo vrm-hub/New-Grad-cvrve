@@ -15198,5 +15198,21 @@
         "date_posted": 1736382499,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736382561,
+        "url": "http://redirect.cvrve.me/48409a094f3a111688af",
+        "company_name": "Spotify",
+        "title": "Data Scientist I",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "758df55d-5db7-4a71-aa70-94d752d09824",
+        "date_posted": 1736382561,
+        "company_url": "",
+        "is_visible": true
     }
 ]
