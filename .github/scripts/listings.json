@@ -15230,5 +15230,21 @@
         "date_posted": 1736382605,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736382636,
+        "url": "http://redirect.cvrve.me/a3fa9447f66d773e811e",
+        "company_name": "Alloy",
+        "title": "Junior Full Stack Engineer, Operate",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "addd0495-2d34-42f3-b3d0-9661d6747e40",
+        "date_posted": 1736382636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
