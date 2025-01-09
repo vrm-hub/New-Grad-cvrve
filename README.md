@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **ServiceNow** | Associate Software Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/d0f91295fd03d292bd0e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Vivint** | Software Engineer, iOS | Salt Lake City, UT | <a href="http://redirect.cvrve.me/3a62822bb20452ed09ad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **T-Mobile** | Software Engineer | Bellevue, WA</br>Denver, CO</br>Frisco, TX | <a href="http://redirect.cvrve.me/465babd584c380b588b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **Brooks** | Software Engineer | Chelmsford, MA | <a href="http://redirect.cvrve.me/4743b03ceb5911c6697d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
