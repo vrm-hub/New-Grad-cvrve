@@ -15246,5 +15246,21 @@
         "date_posted": 1736382636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736497803,
+        "url": "http://redirect.cvrve.me/ea46e8929c840c3d56e2",
+        "company_name": "Calfus",
+        "title": "Software Engineer \u2013 Generative AI",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b9706deb-01f8-4772-a667-ad54e91e2167",
+        "date_posted": 1736497803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
