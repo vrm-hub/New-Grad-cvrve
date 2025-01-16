@@ -15638,5 +15638,21 @@
         "date_posted": 1737069244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737069353,
+        "url": "http://redirect.cvrve.me/8cccde16307972f5e958",
+        "company_name": "Capital One",
+        "title": "New Grad: Associate Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "38d5a06c-4837-40b4-a294-aa2a9bc2ce17",
+        "date_posted": 1737069353,
+        "company_url": "",
+        "is_visible": true
     }
 ]
