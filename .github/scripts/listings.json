@@ -15718,5 +15718,21 @@
         "date_posted": 1737069837,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737069961,
+        "url": "http://redirect.cvrve.me/eb9e9ed17c52df40593a",
+        "company_name": "Current",
+        "title": "Software Engineer, iOS",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "c138954b-fecf-47db-b0a6-394c04a37d47",
+        "date_posted": 1737069961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
