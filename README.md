@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Vertafore** | Software Engineer I | Melville, NY | <a href="http://redirect.cvrve.me/2e2a563b61ad7988983a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **Twitch** | Software Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/9a0df2a1cd906959f726?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **QuVa** | Software Engineer I | Minneapolis, MN | <a href="http://redirect.cvrve.me/5baebf440999d3dcd2de?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **PointClickCare** | Associate Data Engineer | Salt Lake City, UT | <a href="http://redirect.cvrve.me/b31a1dab3af247520272?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
