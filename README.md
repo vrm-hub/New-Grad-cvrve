@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **PointClickCare** | Associate Data Engineer | Salt Lake City, UT | <a href="http://redirect.cvrve.me/b31a1dab3af247520272?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| **Microsoft** | Software Engineer | Multiple Locations | <a href="http://redirect.cvrve.me/60d5b7ac16a5054fe10f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **Amazon** | New Grad 2025: Front-End Engineer | <details><summary>**7 locations**</summary>Newark, NJ</br>Santa Clara, CA</br>Bellevue, WA</br>Seattle, WA</br>Arlington, VA</br>New York, NY</br>Palo Alto, CA</details> | <a href="http://redirect.cvrve.me/e4af3936415dbc967880?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/1f73a0f1305983846a23?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **Calfus** | Software Engineer – Generative AI | Pleasanton, CA | <a href="http://redirect.cvrve.me/ea46e8929c840c3d56e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
