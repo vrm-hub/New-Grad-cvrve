@@ -15468,5 +15468,21 @@
         "date_posted": 1737068680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737068716,
+        "url": "http://redirect.cvrve.me/cd8d1f6f56888ed786b3",
+        "company_name": "Cvent",
+        "title": "Software Engineer I",
+        "locations": [
+            "Tysons Corner, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e2f062ed-f321-46fc-88d5-59e81f823df2",
+        "date_posted": 1737068716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
