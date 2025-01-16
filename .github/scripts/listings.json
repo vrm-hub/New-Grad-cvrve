@@ -15556,5 +15556,22 @@
         "date_posted": 1737068917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737068951,
+        "url": "http://redirect.cvrve.me/d382bc56c405e456511a",
+        "company_name": "Patterndata",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d1c92d14-0921-4a51-a8fe-934adc55fcfa",
+        "date_posted": 1737068951,
+        "company_url": "",
+        "is_visible": true
     }
 ]
