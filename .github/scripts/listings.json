@@ -15484,5 +15484,21 @@
         "date_posted": 1737068716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737068758,
+        "url": "http://redirect.cvrve.me/5baebf440999d3dcd2de",
+        "company_name": "QuVa",
+        "title": "Software Engineer I",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aaeade5b-4f8f-4a54-8ee6-7d4e3803bc0f",
+        "date_posted": 1737068758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
