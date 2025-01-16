@@ -15702,5 +15702,21 @@
         "date_posted": 1737069796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737069837,
+        "url": "http://redirect.cvrve.me/bc755173c2a1a502199c",
+        "company_name": "Deloitte",
+        "title": "Software Engineer",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ea34e4ac-7aaa-4e64-9002-9f792c2636e9",
+        "date_posted": 1737069837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
