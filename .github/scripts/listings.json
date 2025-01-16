@@ -15397,5 +15397,27 @@
         "date_posted": 1737067947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737068030,
+        "url": "http://redirect.cvrve.me/42be906d693029e0d187",
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer",
+        "locations": [
+            "Boston, MA",
+            "Austin, TX",
+            "New York, NY",
+            "Seattle, WA",
+            "Arlington, VA",
+            "Bellevue, WA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "745d7591-d17d-453c-9e50-d5000de40815",
+        "date_posted": 1737068030,
+        "company_url": "",
+        "is_visible": true
     }
 ]
