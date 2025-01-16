@@ -15734,5 +15734,21 @@
         "date_posted": 1737069961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737070134,
+        "url": "http://redirect.cvrve.me/5003bf37874c1706da02",
+        "company_name": "TigerGraph",
+        "title": "Software Engineer - Infrastructure",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5ca70652-b647-4864-90b8-26e5046174c6",
+        "date_posted": 1737070134,
+        "company_url": "",
+        "is_visible": true
     }
 ]
