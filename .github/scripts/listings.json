@@ -15622,5 +15622,21 @@
         "date_posted": 1737069182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737069244,
+        "url": "http://redirect.cvrve.me/6b8746d6c808d5483a9c",
+        "company_name": "Broadcom",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "a61ea693-5a08-44f1-a676-f8ec65135c7f",
+        "date_posted": 1737069244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
