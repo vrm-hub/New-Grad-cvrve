@@ -15452,5 +15452,21 @@
         "date_posted": 1737068356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737068680,
+        "url": "http://redirect.cvrve.me/c77065e78702cf589ebf",
+        "company_name": "Honeywell",
+        "title": "Software Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fe8ec606-83f1-4e03-ae2e-70487b3bc368",
+        "date_posted": 1737068680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
