@@ -15516,5 +15516,29 @@
         "date_posted": 1737068793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737068869,
+        "url": "http://redirect.cvrve.me/c811739617379d88208b",
+        "company_name": "HPE",
+        "title": "New Grad: Software Engineer",
+        "locations": [
+            "Spring, TX",
+            "Bloomington, MN",
+            "Chippewa Falls, WI",
+            "Andover, MA",
+            "Durham, NC",
+            "Ft. Collins, CO",
+            "Milpitas, CA",
+            "Roseville, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "61df6063-f97e-4002-a78c-03152a1f0e8c",
+        "date_posted": 1737068869,
+        "company_url": "",
+        "is_visible": true
     }
 ]
