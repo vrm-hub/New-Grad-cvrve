@@ -15589,5 +15589,22 @@
         "date_posted": 1737069011,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737069122,
+        "url": "http://redirect.cvrve.me/97fca14e59f09ee15ad9",
+        "company_name": "Leidos",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "828e6213-c7db-47ea-b421-d78da0861c93",
+        "date_posted": 1737069122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
