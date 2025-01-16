@@ -15349,5 +15349,21 @@
         "date_posted": 1737067292,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737067380,
+        "url": "http://redirect.cvrve.me/60cfdd5100b530355f4d",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Linux Kernel",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e659e12d-bf6a-415d-a14e-6c59a72c218b",
+        "date_posted": 1737067380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
