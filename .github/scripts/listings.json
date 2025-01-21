@@ -15800,5 +15800,21 @@
         "date_posted": 1737498070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737498594,
+        "url": "http://redirect.cvrve.me/c691242915829b93ae33",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Digital Products Engineering",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "eda12997-b7ab-4f55-9a28-12ca9da97ae0",
+        "date_posted": 1737498594,
+        "company_url": "",
+        "is_visible": true
     }
 ]
