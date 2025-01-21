@@ -15784,5 +15784,21 @@
         "date_posted": 1737498029,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737498070,
+        "url": "http://redirect.cvrve.me/1c7dad98a58911f016cb",
+        "company_name": "NVIDIA",
+        "title": "New Grad 2025: System Software Engineer, Autonomous Vehicles",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "78c7f64e-0733-4cc5-bf6a-ccfd967f5fcb",
+        "date_posted": 1737498070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
