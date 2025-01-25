@@ -15914,5 +15914,21 @@
         "date_posted": 1737814009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737814035,
+        "url": "http://redirect.cvrve.me/aec6484c0675f8081a90",
+        "company_name": "Apple",
+        "title": "Systems Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "0fd4ed1e-9ccd-44e9-85bb-cdc10901b0e0",
+        "date_posted": 1737814035,
+        "company_url": "",
+        "is_visible": true
     }
 ]
