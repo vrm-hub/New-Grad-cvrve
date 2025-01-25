@@ -16014,5 +16014,21 @@
         "date_posted": 1737814310,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737814348,
+        "url": "http://redirect.cvrve.me/43df47258fe0686399c6",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5cecd5c6-e220-401d-b931-b5c3f077e8ce",
+        "date_posted": 1737814348,
+        "company_url": "",
+        "is_visible": true
     }
 ]
