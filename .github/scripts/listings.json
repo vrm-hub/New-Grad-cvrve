@@ -15930,5 +15930,21 @@
         "date_posted": 1737814035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737814070,
+        "url": "http://redirect.cvrve.me/6d60b17341b34aff8230",
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Semi Air Generation & Air Processing Systems",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e20db680-1955-4fd8-9a4b-d90aa9d854a4",
+        "date_posted": 1737814070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
