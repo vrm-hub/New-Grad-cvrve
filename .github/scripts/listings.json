@@ -15864,5 +15864,22 @@
         "date_posted": 1737813891,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813919,
+        "url": "http://redirect.cvrve.me/507f76b312284d3e95f8",
+        "company_name": "Twilio",
+        "title": "Software Engineer (L1) - Voice Connectivity",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aa3aa1e4-a3df-448f-86d9-5d26924e505c",
+        "date_posted": 1737813919,
+        "company_url": "",
+        "is_visible": true
     }
 ]
