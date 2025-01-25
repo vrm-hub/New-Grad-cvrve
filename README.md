@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Twilio** | Software Engineer (L1) - Voice Connectivity | Remote</br>US | <a href="http://redirect.cvrve.me/507f76b312284d3e95f8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **Tesla** | Software Integration Engineer, Semi Air Generation & Air Processing Systems | Palo Alto, CA | <a href="http://redirect.cvrve.me/6d60b17341b34aff8230?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
+| **Siemens** | Software Development Engineer | Waltham, MA | <a href="http://redirect.cvrve.me/e920ee252a1751dc3a83?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **Replicate** | Creative AI Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/33cb32282ac72e5c5046?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/ab254f52da1c1acc98cf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **Apple** | Systems Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/aec6484c0675f8081a90?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
