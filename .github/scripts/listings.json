@@ -15832,5 +15832,21 @@
         "date_posted": 1737813711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813857,
+        "url": "http://redirect.cvrve.me/b630a13436017c78a02f",
+        "company_name": "Apple",
+        "title": "Junior Server Engineer - Health Software",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "68e6f18e-3d30-4a5b-ba7a-72d3183bbc66",
+        "date_posted": 1737813857,
+        "company_url": "",
+        "is_visible": true
     }
 ]
