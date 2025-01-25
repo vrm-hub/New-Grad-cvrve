@@ -15898,5 +15898,21 @@
         "date_posted": 1737813962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737814009,
+        "url": "http://redirect.cvrve.me/98d71197bbb65db1517f",
+        "company_name": "Apple",
+        "title": "Software Engineer, Authentication Experience",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9740275f-a3a3-4712-bdf2-bdfbb6ac877d",
+        "date_posted": 1737814009,
+        "company_url": "",
+        "is_visible": true
     }
 ]
