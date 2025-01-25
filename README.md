@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | Software Engineer - Large Language Models & Generative AI | Cupertino, CA | <a href="http://redirect.cvrve.me/7145f963cef61b3d72df?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **Tesla** | Software Engineer, Digital Products Engineering | Fremont, CA | <a href="http://redirect.cvrve.me/c691242915829b93ae33?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
 | **NVIDIA** | New Grad 2025: System Software Engineer, Autonomous Vehicles | Santa Clara, CA | <a href="http://redirect.cvrve.me/1c7dad98a58911f016cb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
 | **NVIDIA** | New Grad 2025: Graphics Architect, Hardware - Masters | Santa Clara, CA | <a href="http://redirect.cvrve.me/b01cdabceb90f126f8ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
