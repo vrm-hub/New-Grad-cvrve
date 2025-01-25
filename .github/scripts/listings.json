@@ -15962,5 +15962,21 @@
         "date_posted": 1737814133,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737814163,
+        "url": "http://redirect.cvrve.me/215c2c9f74fab4f1f3b3",
+        "company_name": "FedEx",
+        "title": "Software Engineer I and II - Gen AI",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "eaf330da-7e32-4ee8-8702-a10d9033315a",
+        "date_posted": 1737814163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
