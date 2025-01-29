@@ -531,7 +531,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Radley James** | Junior C++ Engineer | San Francisco, CA | <a href="https://radleyjames.com/jobs/5341-c-junior-c-engineer-san-francisco/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **OpenAI** | Software Engineer, Backend | San Francisco, CA | <a href="https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **Optiver** | Graduate Software Engineer (2025 Start – Austin) | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498618002/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
-| **Old Mission Capital** | Junior Software Engineer | Chicago, IL | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=6009326003&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Citadel** | Software Engineer | Chicago,IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **JPMorgan Chase** | 2025 Software Engineer Program 🛂 | <details><summary>**12 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</details> | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Citadel Securities** | Software Engineer – 2025 University Graduate (US) | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
@@ -946,6 +945,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ElectronX** | New Grad: Software Engineer | New York, NY</br>Chicago, IL | 🔒 | Jul 11 |
 | **Comcast** | Jr. DevOps Engineer | Englewood, CO</br>Philadelphia, PA | 🔒 | Jul 11 |
 | **Old Mission Capital** | Junior Quant Trader | Chicago, IL | 🔒 | Jul 09 |
+| **Old Mission Capital** | Junior Software Engineer | Chicago, IL | 🔒 | Jul 09 |
 | **Google** | User Experience Designer, Early Career | Mountain View, CA</br>San Francisco, CA | 🔒 | Jul 09 |
 | **DRW** | Software Developer | Chicago, IL | 🔒 | Jul 09 |
 | **Adobe** | Machine Learning Engineer - Masters/PhD | San Jose, CA | 🔒 | Jul 09 |
