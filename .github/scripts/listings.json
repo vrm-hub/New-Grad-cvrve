@@ -87,7 +87,7 @@
         "company_name": "Alchemy",
         "id": "e466e004-6e57-4d38-bb66-1367f180c6d9",
         "title": "Alchemy Analyst - Technical Writer - Part or Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1719615931,
         "date_posted": 1719615931,
         "url": "https://boards.greenhouse.io/alchemy/jobs/4282639005",
@@ -118,7 +118,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847228,
         "date_posted": 1719847228,
@@ -134,7 +134,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847227,
         "date_posted": 1719847227,
@@ -150,7 +150,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "395bbd57-d183-4045-a5a9-d66137760142",
-        "title": "Software Engineer \u2013 New Grad - US Government",
+        "title": "Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
@@ -166,7 +166,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719861792,
         "date_posted": 1719847211,
@@ -182,7 +182,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "title": "Forward Deployed Software Engineer – New Grad - US Government",
         "active": true,
         "date_updated": 1719847210,
         "date_posted": 1719847210,
@@ -198,7 +198,7 @@
         "source": "Simplify",
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "title": "Forward Deployed Software Engineer – New Grad",
         "active": false,
         "date_updated": 1719847206,
         "date_posted": 1719847206,
@@ -214,7 +214,7 @@
         "source": "Simplify",
         "company_name": "Akuna Capital",
         "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
-        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
+        "title": "Akuna Capital’s 2024 Virtual Quant Trading Challenge",
         "active": false,
         "date_updated": 1719860685,
         "date_posted": 1719846633,
@@ -262,7 +262,7 @@
         "source": "Simplify",
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
+        "title": "Software Engineering AMTS/MTS – New Grad",
         "active": false,
         "date_updated": 1722227439,
         "date_posted": 1719875851,
@@ -304,7 +304,7 @@
         "source": "Simplify",
         "company_name": "Workrise",
         "id": "96cfaafe-5617-402c-928d-2c58f034b12f",
-        "title": "Associate \u2013 Health Safety & Environmental",
+        "title": "Associate – Health Safety & Environmental",
         "active": false,
         "date_updated": 1724290634,
         "date_posted": 1719520307,
@@ -321,7 +321,7 @@
         "company_name": "Sourcegraph",
         "id": "e22655d2-f248-4bc6-af2d-f18003895b6a",
         "title": "Software Engineer - Cloud Ops - Ic3",
-        "active": true,
+        "active": false,
         "date_updated": 1719970016,
         "date_posted": 1719520035,
         "url": "https://boards.greenhouse.io/sourcegraph91/jobs/5201427004",
@@ -427,7 +427,7 @@
         "date_updated": 1720217203,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
         "company_name": "Citadel Securities",
-        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "title": "Software Engineer – 2025 University Graduate (US)",
         "locations": [
             "Miami, FL",
             "New York, NY"
@@ -528,7 +528,7 @@
         "date_updated": 1720499020,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Austin)",
+        "title": "Graduate Software Engineer (2025 Start – Austin)",
         "locations": [
             "Austin, TX"
         ],
@@ -582,7 +582,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7af38e4e-65bd-40ce-bb1e-4825ce404c4e",
         "date_posted": 1720512318,
@@ -1194,7 +1194,7 @@
         "date_updated": 1721734010,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7498615002/",
         "company_name": "Optiver",
-        "title": "Graduate Software Engineer (2025 Start \u2013 Chicago)",
+        "title": "Graduate Software Engineer (2025 Start – Chicago)",
         "locations": [
             "Chicago, IL"
         ],
@@ -9045,7 +9045,7 @@
         "date_updated": 1728204970,
         "url": "http://redirect.cvrve.me/8e3f6f1869bbef1e83d3",
         "company_name": "IBM",
-        "title": "Software Developer \u2013 Full-Stack",
+        "title": "Software Developer – Full-Stack",
         "locations": [
             "Markham, CA"
         ],
@@ -9884,7 +9884,7 @@
         "company_name": "Epic Games",
         "title": "Desktop Platform Programmer",
         "locations": [
-            "Montr\u00e9al, Canada"
+            "Montréal, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -12262,7 +12262,7 @@
     {
         "date_updated": 1731672315,
         "url": "http://redirect.cvrve.me/01b399ed42dd015bdef6",
-        "company_name": "Cond\u00e9 Nast",
+        "company_name": "Condé Nast",
         "title": "Data Engineer I",
         "locations": [
             "New York, NY"
@@ -15251,7 +15251,7 @@
         "date_updated": 1736497803,
         "url": "http://redirect.cvrve.me/ea46e8929c840c3d56e2",
         "company_name": "Calfus",
-        "title": "Software Engineer \u2013 Generative AI",
+        "title": "Software Engineer – Generative AI",
         "locations": [
             "Pleasanton, CA"
         ],
