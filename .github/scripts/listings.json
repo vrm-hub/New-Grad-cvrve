@@ -16144,5 +16144,21 @@
         "date_posted": 1738172278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738172467,
+        "url": "http://redirect.cvrve.me/f59840224506bb76a7b8",
+        "company_name": "Verkada",
+        "title": "New Grad 2025: Technical Support Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6399631b-2050-40d9-abbe-cc682ae74568",
+        "date_posted": 1738172467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
