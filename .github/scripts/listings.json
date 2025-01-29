@@ -16112,5 +16112,21 @@
         "date_posted": 1738172104,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738172143,
+        "url": "http://redirect.cvrve.me/628cfb73aa2a2deba8a4",
+        "company_name": "Twitch",
+        "title": "Software Engineer API Platform",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "3eb6e8a9-4b53-4419-b159-7a8dea769596",
+        "date_posted": 1738172143,
+        "company_url": "",
+        "is_visible": true
     }
 ]

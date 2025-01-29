@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch** | Software Engineer API Platform | San Francisco, CA | <a href="http://redirect.cvrve.me/628cfb73aa2a2deba8a4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Tesla** | Software Development Engineer, Financial Services | Bellevue, WA | <a href="http://redirect.cvrve.me/49fcc509d1c192111e0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Tesla** | Security Engineer, Energy | Palo Alto, CA | <a href="http://redirect.cvrve.me/6799af37afe635d5955a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Nexxen** | Software Engineer I, DSP | New York, NY | <a href="http://redirect.cvrve.me/69ab4f2dbac2187b523c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
