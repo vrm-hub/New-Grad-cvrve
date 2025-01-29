@@ -16128,5 +16128,21 @@
         "date_posted": 1738172143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738172278,
+        "url": "http://redirect.cvrve.me/79b3c7fc0446321b070f",
+        "company_name": "Amazon",
+        "title": "System Development Engineer I, REALM",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ded27f6c-9723-4229-bb8b-25f6c6a7a141",
+        "date_posted": 1738172278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
