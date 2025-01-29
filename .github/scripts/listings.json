@@ -16193,5 +16193,21 @@
         "date_posted": 1738172575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738172613,
+        "url": "http://redirect.cvrve.me/01276b852813cba5c4ce",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Training Performance, AI Infrastructure",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b5ef92e0-5f6c-4d00-833a-550f85835dde",
+        "date_posted": 1738172613,
+        "company_url": "",
+        "is_visible": true
     }
 ]
