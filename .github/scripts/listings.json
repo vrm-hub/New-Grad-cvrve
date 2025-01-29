@@ -2786,7 +2786,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724120289,
+        "date_updated": 1738172385,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4471600007",
         "company_name": "Verkada",
         "title": "New Grad 2025: Backend Software Engineer",
@@ -2794,7 +2794,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "da298ee1-1ac9-493c-9d73-1defe2d0550a",
         "date_posted": 1724120289,

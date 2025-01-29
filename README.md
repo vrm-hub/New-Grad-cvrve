@@ -488,7 +488,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Meta** | New Grad:  Production Engineer | <details><summary>**5 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>New York, NY</br>Fremont, CA</details> | <a href="https://www.metacareers.com/jobs/477195844990625?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **Verkada** | New Grad 2025: Security Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4482613007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Verkada** | New Grad 2025: Embedded Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471668007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
-| **Verkada** | New Grad 2025: Backend Software Engineer | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471600007?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Microsoft** | New Grad: Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Hudson River Trading** | New Grad 2025: Algorithm Developer | New York, NY | <a href="https://boards.greenhouse.io/wehrtyou/jobs/6139135?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Hudson River Trading** | New Grad 2025: Software Engineer (C++) | New York, NY | <a href="https://boards.greenhouse.io/wehrtyou/jobs/6139130?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
@@ -863,6 +862,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Stripe** | New Grad: Software Engineer | Seattle, WA</br>New York, NY</br>San Francisco, CA | 🔒 | Aug 23 |
 | **Tencent** | New Grad 2025: Data Scientist | Palo Alto, CA | 🔒 | Aug 21 |
 | **Strava** | New Grad: Machine Learning Engineer | San Francisco, CA | 🔒 | Aug 21 |
+| **Verkada** | New Grad 2025: Backend Software Engineer | San Mateo, CA | 🔒 | Aug 20 |
 | **Verkada** | New Grad 2025: iOS Software Engineer | San Mateo, CA | 🔒 | Aug 20 |
 | **Verkada** | New Grad 2025: Frontend Software Engineer | San Mateo, CA | 🔒 | Aug 20 |
 | **Verkada** | New Grad 2025: Android Software Engineer | San Mateo, CA | 🔒 | Aug 20 |
