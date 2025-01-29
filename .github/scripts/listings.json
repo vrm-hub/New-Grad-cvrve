@@ -16096,5 +16096,21 @@
         "date_posted": 1738172046,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738172104,
+        "url": "http://redirect.cvrve.me/441e71344a1d4a0716f3",
+        "company_name": "Apple",
+        "title": "USB-C Firmware Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f9b41323-ece5-4b93-aebc-d3fd4d80ee2b",
+        "date_posted": 1738172104,
+        "company_url": "",
+        "is_visible": true
     }
 ]
