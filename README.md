@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Development Engineer, Financial Services | Bellevue, WA | <a href="http://redirect.cvrve.me/49fcc509d1c192111e0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Tesla** | Security Engineer, Energy | Palo Alto, CA | <a href="http://redirect.cvrve.me/6799af37afe635d5955a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Twilio** | Software Engineer (L1) - Voice Connectivity | Remote</br>US | <a href="http://redirect.cvrve.me/507f76b312284d3e95f8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **Tesla** | Software Integration Engineer, Semi Air Generation & Air Processing Systems | Palo Alto, CA | <a href="http://redirect.cvrve.me/6d60b17341b34aff8230?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
