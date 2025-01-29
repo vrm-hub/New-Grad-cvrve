@@ -16078,5 +16078,23 @@
         "date_posted": 1738171991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738172046,
+        "url": "http://redirect.cvrve.me/ebdcfbeede228f7cbec2",
+        "company_name": "Crowdstrike",
+        "title": "New Grad 2025: Machine Learning Software Engineer",
+        "locations": [
+            "Remote",
+            "US",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ec780c3d-0254-48d9-8998-20b3b72cb8bb",
+        "date_posted": 1738172046,
+        "company_url": "",
+        "is_visible": true
     }
 ]

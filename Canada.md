@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Crowdstrike** | New Grad 2025: Machine Learning Software Engineer | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/ebdcfbeede228f7cbec2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Coalition** | Software Engineer, Servicing | Canada</br>United States | <a href="http://redirect.cvrve.me/02a7adc1e41002cb6ee8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **Capital One** | New Grad: Associate Software Engineer | Toronto, Canada | <a href="http://redirect.cvrve.me/8cccde16307972f5e958?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **ExxonMobil** | New Grad: Software Developer | Calgary, Canada | <a href="http://redirect.cvrve.me/d61833f7a7e65b2d9252?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
