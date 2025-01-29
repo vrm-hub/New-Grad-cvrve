@@ -16062,5 +16062,21 @@
         "date_posted": 1738171916,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738171991,
+        "url": "http://redirect.cvrve.me/69ab4f2dbac2187b523c",
+        "company_name": "Nexxen",
+        "title": "Software Engineer I, DSP",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cefda374-b47e-43d9-b2aa-d468ebf87a8d",
+        "date_posted": 1738171991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
