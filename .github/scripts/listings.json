@@ -16258,5 +16258,21 @@
         "date_posted": 1738269428,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738269934,
+        "url": "http://redirect.cvrve.me/2b5460034bff7f3f6b87",
+        "company_name": "First Resonance",
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "07cac80c-e16d-437e-8f68-4060dc8de7bf",
+        "date_posted": 1738269934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
