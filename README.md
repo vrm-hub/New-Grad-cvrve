@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Emerson** | Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/97e6e5350b139da22848?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | **Verkada** | New Grad 2025: Software Engineer, Security | San Mateo, CA | <a href="http://redirect.cvrve.me/145a685db33aac97178f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Verkada** | New Grad 2025: Technical Support Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/f59840224506bb76a7b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Twitch** | Software Engineer API Platform | San Francisco, CA | <a href="http://redirect.cvrve.me/628cfb73aa2a2deba8a4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
