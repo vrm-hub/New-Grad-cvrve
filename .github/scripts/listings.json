@@ -16242,5 +16242,21 @@
         "date_posted": 1738269390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738269428,
+        "url": "http://redirect.cvrve.me/dad226e56a57d31ad38b",
+        "company_name": "Xerox",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Webster, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b7bf6819-c2a5-4f13-90e0-142ba0be273d",
+        "date_posted": 1738269428,
+        "company_url": "",
+        "is_visible": true
     }
 ]
