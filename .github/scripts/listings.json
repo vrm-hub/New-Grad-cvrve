@@ -16274,5 +16274,22 @@
         "date_posted": 1738269934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738777163,
+        "url": "http://redirect.cvrve.me/1788275d3305947397e0",
+        "company_name": "Intact",
+        "title": "New Grad Tech Development Program",
+        "locations": [
+            "Montreal, Canada",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jsiy",
+        "id": "50149e1b-619b-4e69-96f0-ffc527b21d0a",
+        "date_posted": 1738777163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
