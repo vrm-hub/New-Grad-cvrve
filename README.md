@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Tesla** | Software Engineer, Gateway | Palo Alto, CA | <a href="http://redirect.cvrve.me/e5f8647ddbdcf5dfe33c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **Softheon** | Software Engineer I - Membership | <details><summary>**5 locations**</summary>Pittsburgh, PA</br>Charlotte, NC</br>Philadelphia, PA</br>Baltimore, MD</br>Jacksonville, FL</details> | <a href="http://redirect.cvrve.me/d823e3beec392a04a853?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Scale AI** | New Grad: Software Engineer, Security Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/7bcb553457e4b856ac4a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | <a href="http://redirect.cvrve.me/c7f80d5c70784f874a9b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Xerox** | Associate Software Engineer | Webster, NY | <a href="http://redirect.cvrve.me/dad226e56a57d31ad38b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |

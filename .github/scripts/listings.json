@@ -16389,5 +16389,25 @@
         "date_posted": 1738778078,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738778201,
+        "url": "http://redirect.cvrve.me/d823e3beec392a04a853",
+        "company_name": "Softheon",
+        "title": "Software Engineer I - Membership",
+        "locations": [
+            "Pittsburgh, PA",
+            "Charlotte, NC",
+            "Philadelphia, PA",
+            "Baltimore, MD",
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "154a3890-5481-4318-ae4a-c22f3c57cf8a",
+        "date_posted": 1738778201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
