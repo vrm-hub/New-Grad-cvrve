@@ -16373,5 +16373,21 @@
         "date_posted": 1738778036,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738778078,
+        "url": "http://redirect.cvrve.me/c7f80d5c70784f874a9b",
+        "company_name": "Amentum",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8a9ce43c-a0e1-40e1-9a94-b8adf37f1add",
+        "date_posted": 1738778078,
+        "company_url": "",
+        "is_visible": true
     }
 ]
