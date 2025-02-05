@@ -16425,5 +16425,21 @@
         "date_posted": 1738779020,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738788537,
+        "url": "http://redirect.cvrve.me/6e9bcae530ad36230429",
+        "company_name": "CVS Health",
+        "title": "Software Engineer",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "fc8c152a-ff5f-4b32-a5b2-4c5c23f9aff5",
+        "date_posted": 1738788537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
