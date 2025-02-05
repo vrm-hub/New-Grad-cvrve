@@ -16291,5 +16291,21 @@
         "date_posted": 1738777163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738777277,
+        "url": "http://redirect.cvrve.me/7bcb553457e4b856ac4a",
+        "company_name": "Scale AI",
+        "title": "New Grad: Software Engineer, Security Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "abb2d1a7-82ce-4b0a-a2f9-e262ac404c63",
+        "date_posted": 1738777277,
+        "company_url": "",
+        "is_visible": true
     }
 ]

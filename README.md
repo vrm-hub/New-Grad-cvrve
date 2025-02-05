@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Scale AI** | New Grad: Software Engineer, Security Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/7bcb553457e4b856ac4a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Xerox** | Associate Software Engineer | Webster, NY | <a href="http://redirect.cvrve.me/dad226e56a57d31ad38b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | **Itential** | Software Development Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/6c74b8dd4b3cb98b9e95?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | **First Resonance** | Forward Deployed Software Engineer | Los Angeles, CA | <a href="http://redirect.cvrve.me/2b5460034bff7f3f6b87?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
