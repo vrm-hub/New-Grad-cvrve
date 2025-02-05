@@ -16307,5 +16307,21 @@
         "date_posted": 1738777277,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738777526,
+        "url": "http://redirect.cvrve.me/bdb58d2c741532dff0f9",
+        "company_name": "Linamar Corporation",
+        "title": "Jr. Security Engineer",
+        "locations": [
+            "Guelph, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "f3bba07f-963b-4084-971f-6da7a433df89",
+        "date_posted": 1738777526,
+        "company_url": "",
+        "is_visible": true
     }
 ]
