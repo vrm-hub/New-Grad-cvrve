@@ -16323,5 +16323,21 @@
         "date_posted": 1738777526,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738777790,
+        "url": "http://redirect.cvrve.me/5b0ed58f9b938e80a6af",
+        "company_name": "Qualcomm",
+        "title": "DSP Systems Engineer",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "5bd01b50-d359-415b-bfe5-0897e32d0503",
+        "date_posted": 1738777790,
+        "company_url": "",
+        "is_visible": true
     }
 ]
