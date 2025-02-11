@@ -16457,5 +16457,21 @@
         "date_posted": 1738788566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739283092,
+        "url": "http://redirect.cvrve.me/2ad715cda4e86ad01e95",
+        "company_name": "Jane Street",
+        "title": "Quantitative Trader",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8dfdd0cf-ad9b-4aa2-87ae-2c833c939985",
+        "date_posted": 1739283092,
+        "company_url": "",
+        "is_visible": true
     }
 ]
