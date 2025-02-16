@@ -16716,5 +16716,21 @@
         "date_posted": 1739683097,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739683156,
+        "url": "http://redirect.cvrve.me/df2fb162ef7f99d246f6",
+        "company_name": "Apple",
+        "title": "Photos Triage & Tooling Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b33204a9-19ba-4266-a413-3b55baa054dd",
+        "date_posted": 1739683156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
