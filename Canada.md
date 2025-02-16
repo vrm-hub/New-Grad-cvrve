@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **IBM** | Software Engineer | Markham, Canada | <a href="http://redirect.cvrve.me/73b64110c96f36e53214?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Qualcomm** | DSP Systems Engineer | Markham, Canada | <a href="http://redirect.cvrve.me/5b0ed58f9b938e80a6af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Linamar Corporation** | Jr. Security Engineer | Guelph, Canada | <a href="http://redirect.cvrve.me/bdb58d2c741532dff0f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Intact** | New Grad Tech Development Program | Montreal, Canada</br>Toronto, Canada | <a href="http://redirect.cvrve.me/1788275d3305947397e0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
