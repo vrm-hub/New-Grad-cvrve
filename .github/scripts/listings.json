@@ -16668,5 +16668,21 @@
         "date_posted": 1739682885,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739682917,
+        "url": "http://redirect.cvrve.me/d7714e5db149e1073ca7",
+        "company_name": "Amazon",
+        "title": "System Development Engineer, AWS Security",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b31f8cf2-91a4-40f7-a8ea-5d073edab66b",
+        "date_posted": 1739682917,
+        "company_url": "",
+        "is_visible": true
     }
 ]
