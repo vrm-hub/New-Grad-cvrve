@@ -16652,5 +16652,21 @@
         "date_posted": 1739682740,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739682885,
+        "url": "http://redirect.cvrve.me/42dea143594ebbeeae91",
+        "company_name": "Qualcomm",
+        "title": "Machine Learning Framework, Compiler & Performance Engineer",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ca07dd84-f82e-43f0-aea0-23902c18fcf7",
+        "date_posted": 1739682885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
