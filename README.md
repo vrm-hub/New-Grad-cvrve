@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Whatnot** | New Grad 2025: Cloud Security Engineer | San Francisco, CA</br>Los Angeles, CA</br>New York, NY | <a href="http://redirect.cvrve.me/1fdf2c8417dff78daa67?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Tesla** | Data Engineer, Battery Manufacturing Development | Palo Alto, CA | <a href="http://redirect.cvrve.me/9199e8cccd131766528e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Tesla** | DevOps Systems Engineer, Platform Storage Engineering | Palo Alto, CA | <a href="http://redirect.cvrve.me/c670e08ff108ba87e05c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Tesla** | Software Engineer, Tooling, Simulation | Palo Alto, CA | <a href="http://redirect.cvrve.me/96f1fe816efda76e9e83?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Qualcomm Technologies, Inc** | Windows on Snapdragon Software Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/7b000961915acc577ef6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
