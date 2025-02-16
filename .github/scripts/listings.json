@@ -16684,5 +16684,21 @@
         "date_posted": 1739682917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739682999,
+        "url": "http://redirect.cvrve.me/3a609198bda6c125d174",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b644097f-5daa-4e91-80c6-afde82bcc600",
+        "date_posted": 1739682999,
+        "company_url": "",
+        "is_visible": true
     }
 ]
