@@ -16490,5 +16490,21 @@
         "date_posted": 1739283173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739682057,
+        "url": "http://redirect.cvrve.me/96f1fe816efda76e9e83",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Tooling, Simulation",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "ed7d9c82-f1ef-46e1-ba50-9ddb1a57cf8c",
+        "date_posted": 1739682057,
+        "company_url": "",
+        "is_visible": true
     }
 ]

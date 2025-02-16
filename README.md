@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Engineer, Tooling, Simulation | Palo Alto, CA | <a href="http://redirect.cvrve.me/96f1fe816efda76e9e83?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Microsoft** | New Grad: Software Engineer 🇺🇸 | Redmond, WA</br>Reston, VA | <a href="http://redirect.cvrve.me/60fe27c64f43bdb16921?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | **Jane Street** | Quantitative Trader | New York, NY | <a href="http://redirect.cvrve.me/2ad715cda4e86ad01e95?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | **Tesla** | Software Engineer, Gateway | Palo Alto, CA | <a href="http://redirect.cvrve.me/e5f8647ddbdcf5dfe33c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
