@@ -16748,5 +16748,21 @@
         "date_posted": 1739683252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739683380,
+        "url": "http://redirect.cvrve.me/a7bda69a4cd607a9c8de",
+        "company_name": "Apple",
+        "title": "Software Build Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7046e392-2af5-4ebf-8343-e7bb5db3de83",
+        "date_posted": 1739683380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
