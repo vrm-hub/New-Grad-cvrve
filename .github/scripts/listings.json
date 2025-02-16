@@ -16506,5 +16506,21 @@
         "date_posted": 1739682057,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739682100,
+        "url": "http://redirect.cvrve.me/c670e08ff108ba87e05c",
+        "company_name": "Tesla",
+        "title": "DevOps Systems Engineer, Platform Storage Engineering",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "42e7cc5d-f4bd-4018-9717-14532e8bd9e4",
+        "date_posted": 1739682100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
