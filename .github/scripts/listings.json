@@ -16732,5 +16732,21 @@
         "date_posted": 1739683156,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739683252,
+        "url": "http://redirect.cvrve.me/14dab656a2a841289b82",
+        "company_name": "Apple",
+        "title": "Tools and Automation Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6021c2bd-cba9-42c7-bb9a-b7fe42492274",
+        "date_posted": 1739683252,
+        "company_url": "",
+        "is_visible": true
     }
 ]
