@@ -16620,5 +16620,21 @@
         "date_posted": 1739682622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739682668,
+        "url": "http://redirect.cvrve.me/cdd7bbeba61ff815e86a",
+        "company_name": "TikTok",
+        "title": "New Grad 2025: Software Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "10be61e7-8fcc-4f45-8125-a31e8d6a963f",
+        "date_posted": 1739682668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
