@@ -16797,5 +16797,22 @@
         "date_posted": 1739822116,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739822450,
+        "url": "http://redirect.cvrve.me/557e8694609a141f367e",
+        "company_name": "Vanta",
+        "title": "Software Engineer, Entry Level",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "e77a70a6-59c4-4053-9150-f6ac3f405138",
+        "date_posted": 1739822450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
