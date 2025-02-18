@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/9427b1d1979f96a9a048?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Apple** | Embedded Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/59724a712a5736bf40ef?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/3daf564db07362187b92?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **xAI** | Software Engineer | Memphis, TN</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/1daaceb07c5f3a4db903?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |

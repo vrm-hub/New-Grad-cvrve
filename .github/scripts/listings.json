@@ -16846,5 +16846,21 @@
         "date_posted": 1739884479,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739884527,
+        "url": "http://redirect.cvrve.me/9427b1d1979f96a9a048",
+        "company_name": "Apple",
+        "title": "Applied Networking Frameworks Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9b52641b-fc41-419e-b8fc-eec1a3166ad4",
+        "date_posted": 1739884527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
