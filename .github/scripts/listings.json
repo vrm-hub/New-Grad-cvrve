@@ -16814,5 +16814,21 @@
         "date_posted": 1739822450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739884445,
+        "url": "http://redirect.cvrve.me/3daf564db07362187b92",
+        "company_name": "Apple",
+        "title": "SoC Design/Integration & Synthesis Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "b3d9a544-8fca-40e3-ba31-e7d49d66e72f",
+        "date_posted": 1739884445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
