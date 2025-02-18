@@ -16879,5 +16879,23 @@
         "date_posted": 1739884665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739885025,
+        "url": "http://redirect.cvrve.me/eaaf004ba4fd79e5e89f",
+        "company_name": "Caterpillar",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Chicago, IL",
+            "Peoria, IL",
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "17bf3812-b449-4bf1-8e9a-448e6536b1fa",
+        "date_posted": 1739885025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
