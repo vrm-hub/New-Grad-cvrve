@@ -16897,5 +16897,21 @@
         "date_posted": 1739885025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739885078,
+        "url": "http://redirect.cvrve.me/275e53683c9d5e4ac509",
+        "company_name": "Jacobs",
+        "title": "Software Engineer",
+        "locations": [
+            "Hudson, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "59a86c67-0e2c-450c-b732-b3b820937f66",
+        "date_posted": 1739885078,
+        "company_url": "",
+        "is_visible": true
     }
 ]

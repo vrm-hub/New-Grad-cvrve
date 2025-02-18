@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **SoloSuit - YC** | Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/cbff0da2c4e9afcec892?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| **Jacobs** | Software Engineer | Hudson, NH | <a href="http://redirect.cvrve.me/275e53683c9d5e4ac509?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Caterpillar** | Early Career Software Engineer | Chicago, IL</br>Peoria, IL</br>Irving, TX | <a href="http://redirect.cvrve.me/eaaf004ba4fd79e5e89f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/9427b1d1979f96a9a048?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Apple** | Embedded Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/59724a712a5736bf40ef?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
