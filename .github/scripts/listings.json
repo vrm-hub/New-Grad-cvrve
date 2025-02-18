@@ -16913,5 +16913,21 @@
         "date_posted": 1739885078,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739885117,
+        "url": "http://redirect.cvrve.me/11e270563b6c82540370",
+        "company_name": "Apple",
+        "title": "Wireless Charging Firmware Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "1ef828a5-f836-4354-a614-4b7ea4e65bdc",
+        "date_posted": 1739885117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
