@@ -16997,5 +16997,21 @@
         "date_posted": 1739885558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739885687,
+        "url": "http://redirect.cvrve.me/e45d0caa3f9ba1a052f9",
+        "company_name": "Duckie - YC",
+        "title": "Applied AI Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "9b32a296-b305-452e-a675-68da6374fdc9",
+        "date_posted": 1739885687,
+        "company_url": "",
+        "is_visible": true
     }
 ]
