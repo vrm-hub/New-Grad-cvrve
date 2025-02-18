@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wanderlog - YC** | New Grad: Full-Stack Software Engineer | San Francisco, CA</br>Remote</br>US | <a href="http://redirect.cvrve.me/da1059ffd6c0584dcf9f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **SoloSuit - YC** | Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/cbff0da2c4e9afcec892?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Sigma** | New Grad: Software Engineer | San Francisco, CA</br>New York City, NY | <a href="http://redirect.cvrve.me/f4964fcf97576ca66a77?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Jacobs** | Software Engineer | Hudson, NH | <a href="http://redirect.cvrve.me/275e53683c9d5e4ac509?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |

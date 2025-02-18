@@ -16962,5 +16962,23 @@
         "date_posted": 1739885255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739885518,
+        "url": "http://redirect.cvrve.me/da1059ffd6c0584dcf9f",
+        "company_name": "Wanderlog - YC",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "d5eac937-e5a3-42a2-925e-805d2b10d615",
+        "date_posted": 1739885518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
