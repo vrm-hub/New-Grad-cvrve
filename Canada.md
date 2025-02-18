@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wanderlog - YC** | New Grad: Full-Stack Software Engineer | Remote</br>Canada | <a href="http://redirect.cvrve.me/fa47b3dca2b9001e484f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Qualcomm** | Machine Learning Framework, Compiler & Performance Engineer | Markham, Canada | <a href="http://redirect.cvrve.me/42dea143594ebbeeae91?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **IBM** | Software Engineer | Markham, Canada | <a href="http://redirect.cvrve.me/73b64110c96f36e53214?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Amazon** | System Development Engineer, AWS Security | Toronto, Canada | <a href="http://redirect.cvrve.me/d7714e5db149e1073ca7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
