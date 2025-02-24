@@ -17013,5 +17013,22 @@
         "date_posted": 1739885687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740423096,
+        "url": "http://redirect.cvrve.me/89ccf2f2dac103547fcc",
+        "company_name": "Spotify",
+        "title": "Machine Learning Engineer, Personalization",
+        "locations": [
+            "New York, NY",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "cb74d13f-7cd5-4ca1-a6e3-0a7f7b5e437c",
+        "date_posted": 1740423096,
+        "company_url": "",
+        "is_visible": true
     }
 ]
