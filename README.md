@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Spectrum** | Software Engineer I | Greenwood Village, CO | <a href="http://redirect.cvrve.me/5ac1d78e0928f3acea86?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **Qualcomm** | Kernel Services Software Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/a61a1ad2ae239e4d1451?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
+| **BlueHalo** | Software Engineer | Annapolis Junction, MD | <a href="http://redirect.cvrve.me/40237043618e9076792c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **Abbott** | Clinical Software Engineer I | Sylmar, CA | <a href="http://redirect.cvrve.me/5215d33da67c66781385?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **Spotify** | Machine Learning Engineer, Personalization | New York, NY</br>Boston, MA | <a href="http://redirect.cvrve.me/89ccf2f2dac103547fcc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | **Wanderlog - YC** | New Grad: Full-Stack Software Engineer | San Francisco, CA</br>Remote</br>US | <a href="http://redirect.cvrve.me/da1059ffd6c0584dcf9f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |

@@ -17078,5 +17078,21 @@
         "date_posted": 1740455549,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740455661,
+        "url": "http://redirect.cvrve.me/40237043618e9076792c",
+        "company_name": "BlueHalo",
+        "title": "Software Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "7ecd059a-6217-4a39-b469-87840f394fc2",
+        "date_posted": 1740455661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
