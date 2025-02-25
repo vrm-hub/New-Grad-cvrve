@@ -17030,5 +17030,21 @@
         "date_posted": 1740423096,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740455410,
+        "url": "http://redirect.cvrve.me/a61a1ad2ae239e4d1451",
+        "company_name": "Qualcomm",
+        "title": "Kernel Services Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "30df19fe-3b56-49e8-961c-81946a6a6231",
+        "date_posted": 1740455410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
