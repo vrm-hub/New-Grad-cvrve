@@ -17142,5 +17142,21 @@
         "date_posted": 1740456009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740456252,
+        "url": "http://redirect.cvrve.me/c99360b03ccccb77ae62",
+        "company_name": "USAA",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "aadc6812-a34e-4168-9266-47b699d5234e",
+        "date_posted": 1740456252,
+        "company_url": "",
+        "is_visible": true
     }
 ]

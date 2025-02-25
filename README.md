@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **USAA** | Entry Level Software Engineer | San Antonio, TX | <a href="http://redirect.cvrve.me/c99360b03ccccb77ae62?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **TikTok** | Machine Learning Engineer - Content Ecology - Masters 🇺🇸 | San Jose, CA | <a href="http://redirect.cvrve.me/625fa9507ea61eeaf2b1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **Spectrum** | Software Engineer I | Greenwood Village, CO | <a href="http://redirect.cvrve.me/5ac1d78e0928f3acea86?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **Rivian** | Product Security Privacy Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/f586c992d94cc7fdaf3e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
