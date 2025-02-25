@@ -560,7 +560,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2025: Machine Learning Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397101263031290162/detail?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Tiktok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7397588344904124722/detail?spread=5MWH5CQ&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Ramp** | New Grad 2025: Software Engineer - Frontend | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?departmentId=e9877d64-61b1-4b37-8518-65af0431cd09&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
-| **Pylon** | New Grad Software Engineer | San Francisco, CA | <a href="https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Tiktok** | Machine Learning Engineer - 2025 Start | Seattle, WA | <a href="https://careers.tiktok.com/position/7267035371972036919/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **TikTok** | New Grad Machine Learning Engineer | San Jose, CA | <a href="https://careers.tiktok.com/position/7395702392933927205/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **TikTok** | ML Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7395343587233515827/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
@@ -961,6 +960,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2024: Software Engineer | Santa Clara, CA | 🔒 | Aug 01 |
 | **Confluent** | New Grad 2025: Software Engineer | Austin, TX | 🔒 | Aug 01 |
 | **Ramp** | New Grad 2025: Software Engineer - Backend | New York, NY | 🔒 | Jul 31 |
+| **Pylon** | New Grad Software Engineer | San Francisco, CA | 🔒 | Jul 31 |
 | **MTSi** | Software Engineer 🇺🇸 | Chantilly, VA | 🔒 | Jul 31 |
 | **Deloitte** | Software Engineering Analyst 🛂 | <details><summary>**32 locations**</summary>Atlanta, GA</br>Austin, TX</br>Boston, MA</br>Charlotte, NC</br>Chicago, IL</br>Cincinnati, OH</br>Cleveland, OH</br>Columbus, OH</br>Costa Mesa, CA</br>Dallas, TX</br>Denver, CO</br>Detroit, MI</br>Houston, TX</br>Indianapolis, IN</br>Kansas City, MI</br>Los Angeles, CA</br>McLean, VA</br>Miami, FL</br>Minneapolis, MI</br>Nashville, TN</br>New York, NY</br>Philadelphia, PA</br>Pittsburgh, PA</br>Raleigh, NC</br>Sacramento, CA</br>San Diego, CA</br>San Francisco, CA</br>San Jose, CA</br>Seattle, WA</br>St. Louis, MI</br>Tampa, FL</br>Tempe, AZ</details> | 🔒 | Jul 31 |
 | **Wayfair** | Software Engineer I | Boston, MA | 🔒 | Jul 29 |
