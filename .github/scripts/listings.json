@@ -17046,5 +17046,21 @@
         "date_posted": 1740455410,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740455489,
+        "url": "http://redirect.cvrve.me/5215d33da67c66781385",
+        "company_name": "Abbott",
+        "title": "Clinical Software Engineer I",
+        "locations": [
+            "Sylmar, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "6aceb39a-b2bb-4a63-ad7f-e4950787f762",
+        "date_posted": 1740455489,
+        "company_url": "",
+        "is_visible": true
     }
 ]
