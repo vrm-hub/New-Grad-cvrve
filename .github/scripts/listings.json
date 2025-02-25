@@ -17174,5 +17174,21 @@
         "date_posted": 1740456391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740456433,
+        "url": "http://redirect.cvrve.me/c266e103442bea4a23ec",
+        "company_name": "Secoda",
+        "title": "New Grad Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cvrve-bot",
+        "id": "8737a270-487c-4391-97ba-84d34dcdac1d",
+        "date_posted": 1740456433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
